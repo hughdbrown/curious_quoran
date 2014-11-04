@@ -23,6 +23,6 @@ My work is motivated by frequently asked Quora questions of the form: "*How / wh
 
 The first step was to obtain the data that feeds the engine: the data from a user's Quora profile page, which has questions asked and answers upvoted. Scraping Quora was a bit tricky: the function I wrote takes needs your first and last name, username and password and uses the Chrome webdriver in Python's selenium library to navigate to the page and log in with your information. 
 
-Stumbling block: Quora generates content with AJAX, so I needed to use the selenium webdriver to execute JavaScript to scroll through the page. 
+Stumbling block: Quora generates content with AJAX, so I needed to use the selenium webdriver to execute a bit of JavaScript to scroll through the page. The functions in quora_scrape.py return a full list of questions followed and asked from the user's entire history.
 
 
