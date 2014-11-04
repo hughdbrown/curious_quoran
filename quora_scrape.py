@@ -3,9 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-import time
 from bs4 import BeautifulSoup
-import requests
+import time
 
 
 def profile_crawl(first_name, last_name, user_email, user_password):
@@ -36,38 +35,18 @@ def profile_crawl(first_name, last_name, user_email, user_password):
 
 	# Simulate scrolling to populate the page with infinite scrolling
 	scroll_height=0.1
-	while scroll_height < 20:
+	while scroll_height < 100:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
-		scroll_height+=.2
+		scroll_height+=1
 		time.sleep(0.5)
 
 	# Get page source for profile page
 	html = driver.page_source
 	soup = BeautifulSoup(html, 'html.parser')
 	
-	doc_list = [link.get('href') for link in soup.find_all('a') if link.get('href')!='#' and link.get('href')!=None]
-	print doc_list
-	
-	# print type(doc_list[0])
-	doc_list_str = [d for d in doc_list if type(d) == 'unicode']
-	print doc_list_str
+	q_list = [link.get_text() for link in soup.find_all("a", attrs={"class": "question_link"})]
 
-	# Get unique questions 
-	# questions = list(set([d.replace('-', ' ').replace('/','') for d in doc_list_str if d.count('-') > 2]))
-	# print questions
-	# for q in questions:
-	# 	print q
-
-	#print doc_list[11]
-	# for tag in soup.find_all('timestamp'):
-	# 	print tag.text
-
-	for link in soup.find_all("a", attrs={"class": "timestamp"}):
-		print link.get('href',None),link.get_text()
-   	
-   	
-   	for link in soup.find_all('a'):
-   		print link.get('href',None),link.get_text()
+	return q_list
 
 def question_crawl(first_name, last_name, user_email, user_password):
 	'''
@@ -97,24 +76,30 @@ def question_crawl(first_name, last_name, user_email, user_password):
 
 	# Simulate scrolling to populate the page with infinite scrolling
 	scroll_height=0.1
-	while scroll_height < 20:
+	while scroll_height < 30:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
-		scroll_height+=.2
-		time.sleep(0.5)
+		scroll_height+=1
+		time.sleep(0.2)
 
 	# Get page source for profile page after scrolling to reveal all questions
 	html = driver.page_source
 	soup = BeautifulSoup(html, 'html.parser')
-	 
+
 	# Collect all question links
-	for link in soup.find_all("a", attrs={"class": "question_link"}):
-		print link.get('href',None),link.get_text()
+	q_asked = [link.get_text() for link in soup.find_all("a", attrs={"class": "question_link"})]
+	return q_asked
    	
    	
 if __name__ == "__main__":
+
+	# My login info, just a test
 	first_name = 'Asna'
 	last_name = 'Ansari'
 	user_email = 'asna.ansari@gmail.com'
 	user_password = 'asna1005'
-	profile_crawl(first_name, last_name, user_email, user_password)
-	question_crawl(first_name, last_name, user_email, user_password)
+	print '\n'
+	print "Questions followed, answers upvoted: \n" 
+	print profile_crawl(first_name, last_name, user_email, user_password)
+	print '\n'
+	print "Questions asked: \n"
+	print question_crawl(first_name, last_name, user_email, user_password)
