@@ -36,7 +36,7 @@ def profile_crawl(first_name, last_name, user_email, user_password):
 	# Simulate scrolling to populate the page with infinite scrolling
 	scroll_height=0.1
 	while scroll_height < 100:
-		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
+		driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
 		scroll_height+=1
 		time.sleep(0.5)
 
@@ -76,10 +76,10 @@ def question_crawl(first_name, last_name, user_email, user_password):
 
 	# Simulate scrolling to populate the page with infinite scrolling
 	scroll_height=0.1
-	while scroll_height < 30:
+	while scroll_height < 100:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
-		scroll_height+=1
-		time.sleep(0.2)
+		scroll_height+=2
+		time.sleep(0.1)
 
 	# Get page source for profile page after scrolling to reveal all questions
 	html = driver.page_source
