@@ -23,12 +23,12 @@ My work is motivated by frequently asked Quora questions of the form: "*How / wh
 
 The first step was to obtain the data that feeds the engine: the data from a user's Quora profile page, which has questions asked and answers upvoted. Scraping Quora was a bit tricky: the function I wrote takes needs your first and last name, username and password and uses the Chrome webdriver in Python's selenium library to navigate to the page and log in with your information. 
 
-Stumbling block: Quora generates content with AJAX, so I needed to use the selenium webdriver to execute a bit of JavaScript to scroll through the page. The functions in quora_scrape.py return a full list of questions followed and asked from the user's *entire* history!
+Stumbling block: Quora generates content with AJAX, so I needed to use the `selenium` webdriver to execute a bit of JavaScript to scroll through the page. The functions in `quora_scrape.py` return a full list of questions followed and asked from the user's *entire* history!
 
 
 #### Getting data from Khan Academy  (how do I turn this into a link to another readme?)
 
-Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can'  Fortunately, I'm the beneficiary of Khan Academy's very user-friendly and well-documented [API](api-explorer.khanacademy.org/api/v1)
+Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](api-explorer.khanacademy.org/api/v1)
 
 Want to use the topictree API and grab a composite of slug, description, title and keywords.
 
