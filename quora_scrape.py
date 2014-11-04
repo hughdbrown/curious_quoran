@@ -1,6 +1,7 @@
 
-import selenium
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import time
 from bs4 import BeautifulSoup
@@ -16,9 +17,10 @@ def quora_crawl(first_name, last_name, user_email, user_password):
 
 	# Construct the URL of a user's profile page using their name
 	url = 'http://www.quora.com/'+first_name+'-'+last_name
+	
+	# Start the webdriver and navigate to desired url
 	driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
-
-	driver.get(url) # Navigate to the desired URL
+	driver.get(url)
 
 	# Find the username login form on the Quora login page
 	form = driver.find_element_by_class_name('regular_login')
@@ -30,14 +32,26 @@ def quora_crawl(first_name, last_name, user_email, user_password):
 	password.send_keys(user_password)
 	password.send_keys(Keys.RETURN)
 
+
+	# Simulate scrolling to populate the page with infinite scrolling
+	scroll_height=0.1
+	while scroll_height < 9.9:
+		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
+		scroll_height+=.2
+		time.sleep(0.5)
+
 	# Get page source for profile page
 	html = driver.page_source
-	#print "This is the source for the Quora profile page: \n", html
 
 	soup = BeautifulSoup(html, 'html.parser')
-
-	doc_list = [link.get('href') for link in soup.find_all('a') if link.get('href')!='#']
+	print "Results of soup find all", soup.find_all('a')
+	#doc_list = [link.get('href') for link in soup.find_all('a') if link.get('href')!='#']
 	
+	# Get unique questions 
+	# questions = list(set([d.replace('-', ' ').replace('/','') for d in doc_list if d.count('-') > 2]))
+	# for q in questions:
+	# 	print q
+
 	#print doc_list[11]
 	# for tag in soup.find_all('timestamp'):
 	# 	print tag.text
