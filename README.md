@@ -1,7 +1,7 @@
 #The Curious Quoran
 ==============
 
-A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on Coursera, Khan Academy, iTunes Podcast, LibGen and Project Gutenberg ebook repositories.
+A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](coursera.org), [Khan Academy](https://www.khanacademy.org/), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/), LibGen and [Project Gutenberg](https://www.gutenberg.org/) ebook repositories.
 
 
 #### Motivation & Inspiration
@@ -28,7 +28,7 @@ Stumbling block: Quora generates content with AJAX, so I needed to use the `sele
 
 #### Getting data from Khan Academy  (how do I turn this into a link to another readme?)
 
-Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](api-explorer.khanacademy.org/api/v1)
+Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](http://api-explorer.khanacademy.org/).
 
 Want to use the topictree API and grab a composite of slug, description, title and keywords.
 
