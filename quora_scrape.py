@@ -11,6 +11,7 @@ import requests
 def profile_crawl(first_name, last_name, user_email, user_password):
 	'''
 	INPUT: first and last name, user email and password for Quora account.
+	OUTPUT: list of strings
 
 	Uses the selenium webdriver to opens Chrome and navigates to user's profile page to scrape the content.
 	'''
@@ -71,8 +72,9 @@ def profile_crawl(first_name, last_name, user_email, user_password):
 def question_crawl(first_name, last_name, user_email, user_password):
 	'''
 	INPUT: first and last name, user email and password for Quora account.
+	OUTPUT: list of strings (questions asked)
 
-	Uses the selenium webdriver to opens Chrome and navigates to user's profile page to scrape the content.
+	Uses the selenium webdriver to opens Chrome and navigates to user's questions page.
 	'''
 
 	# Construct the URL of a user's profile page using their name
