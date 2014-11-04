@@ -3,6 +3,8 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
+from bs4 import BeautifulSoup
+import requests
 
 
 def quora_crawl(first_name, last_name, user_email, user_password):
@@ -22,12 +24,26 @@ def quora_crawl(first_name, last_name, user_email, user_password):
 	form = driver.find_element_by_class_name('regular_login')
 	username = form.find_element_by_name('email')
 	username.send_keys(user_email)
-	#time.sleep(60)
-
+	
 	# Look for the password field in the Quora 
 	password = form.find_element_by_name('password')
 	password.send_keys(user_password)
 	password.send_keys(Keys.RETURN)
+
+	# Get page source for profile page
+	html = driver.page_source
+	#print "This is the source for the Quora profile page: \n", html
+
+	soup = BeautifulSoup(html, 'html.parser')
+
+	doc_list = [link.get('href') for link in soup.find_all('a') if link.get('href')!='#']
+	
+	#print doc_list[11]
+	# for tag in soup.find_all('timestamp'):
+	# 	print tag.text
+   	
+ #   	for link in soup.find_all('a'):
+ #   		print link.get('href',None),link.get_text()
 
 if __name__ == "__main__":
 	first_name = 'Asna'
