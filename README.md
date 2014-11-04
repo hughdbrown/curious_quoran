@@ -28,7 +28,7 @@ Stumbling block: Quora generates content with AJAX, so I needed to use the `sele
 
 #### Getting data from Khan Academy  (how do I turn this into a link to another readme?)
 
-Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](http://api-explorer.khanacademy.org/).
+Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy, whose wonderful maxim empowers you to *"learn anything - for free, for everyone, forever"*. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](http://api-explorer.khanacademy.org/).
 
 Want to use the topictree API and grab a composite of slug, description, title and keywords.
 
