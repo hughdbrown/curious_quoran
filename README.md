@@ -40,8 +40,14 @@ PG doesn't want to be scraped, but gives you [access to bibrecs](http://www.gute
 
 Collecting subject tags, title and author into a composite description yields what I hope will be a complete and verbose enough description to generate sensible recommendations. Gutenberg's raw catalog was an unwieldy RDF file with over 46,000 entries. I decided to dump the file into SQL and filter by works downloaded from the site at least 10,000 times. I got lucky here -- the BibRecs on PG are concise but informative (e.g. Shakespeare's *Othello* is tagged with the following: jealousy, interracial marriage, Muslims, Venice (Italy) and English Literature) 
 
-__Aside: the real challenge of this project is to recommend slight variations of the things users have asked about. Could add an extension for meetups in the city the user lives in. Given your Quora curiosities (quoriosity?): what should you do, read, hear, see? Need clever featurization for cross-platform resources __
+
+Aside: the real challenge of this project is to recommend slight variations of the things users have asked about. Could add an extension for meetups in the city the user lives in. Given your Quora curiosities (quoriosities?): what should you do, read, hear, see? Need clever featurization for cross-platform resources 
 
 
 Stanford topic modeling visualizer
 Look, listen, read
+
+#### Podcast Data
+
+Getting semantically-rich descriptions for podcasts took a fair bit of work, but thanks to the FeedWrangler [API](https://feedwrangler.net/developers/podcasts_directory#show) I was able to get the top fifty most popular and scrape the episode feed urls to retrieve salient descriptions of the most recent episodes.
+
