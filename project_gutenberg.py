@@ -2,6 +2,7 @@
 
 import re
 from bs4 import BeautifulSoup
+import pandas as pd
 
 
 def parse_catalog(filepath):
@@ -22,9 +23,14 @@ def parse_catalog(filepath):
 
 
 if __name__=="__main__":
-	output = parse_catalog('subset.xml')
-	print "Same parsed book metadata: ", output[1]
-	print "\n"
-	print "Download count: ", re.findall('[0-9+]\w+',output[1])[-1]
+	ext = ['one', 'two', 'three', 'four']
+	for e in ext:
+		output = parse_catalog('/Users/Asna/Desktop/section{0}.xml'.format(e))
+		print "Section output: \n", output
+	
+	# output2 = parse_catalog('/Users/Asna/Desktop/subset.xml')
+	# print "Same parsed book metadata: \n", output[2].replace('; ', '')
+	# print "\n"
+	# print "Download count: ", re.findall('[0-9+]\w+',output[2])
 
 
