@@ -23,14 +23,25 @@ My work is motivated by frequently asked Quora questions of the form: "*How / wh
 
 The first step was to obtain the data that feeds the engine: the data from a user's Quora profile page, which has questions asked and answers upvoted. Scraping Quora was a bit tricky: the function I wrote takes needs your first and last name, username and password and uses the Chrome webdriver in Python's selenium library to navigate to the page and log in with your information. 
 
-Stumbling block: Quora generates content with AJAX, so I needed to use the `selenium` webdriver to execute a bit of JavaScript to scroll through the page. The functions in `quora_scrape.py` return a full list of questions followed and asked from the user's *entire* history!
+Stumbling block: Quora generates content with AJAX, so I needed to use the `selenium` webdriver to execute a bit of JavaScript to scroll through the page. The functions in `quora_scrape.py` return a full list of questions followed and asked from the user's *entire* history! I consider this aggregate a snapshot of a Quoran's curiosities and will now use it to generate top recommendations from external resources.
 
 
-#### Getting data from Khan Academy  (how do I turn this into a link to another readme?)
+#### Getting data from Khan Academy  (<= how do I turn this into a link to another readme?)
 
 Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy, whose wonderful maxim empowers you to *"learn anything - for free, for everyone, forever"*. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](http://api-explorer.khanacademy.org/).
 
 Want to use the topictree API and grab a composite of slug, description, title and keywords.
 
+#### Data from Project Gutenberg's Bibliographic Records
+
+Use author, dates, loc class, subject tags, 
+
+PG doesn't want to be scraped, but gives you [access to bibrecs](http://www.gutenberg.org/feeds/catalog.rdf.bz2) for the entire corpus of works in the repository. 
+
+Collecting subject tags, title and author into a composite description yields what I hope will be a complete and verbose enough description to generate sensible recommendations. Gutenberg's raw catalog was an unwieldy RDF file with over 46,000 entries. I decided to dump the file into SQL and filter by works downloaded from the site at least 1000 times.  
+
+__Aside: the real challenge of this project is to recommend slight variations of the things users have asked about. Could add an extension for meetups in the city the user lives in. Given your Quora curiosities (quoriosity?): what should you do, read, hear, see? Need clever featurization for cross-platform resources __
 
 
+Stanford topic modeling visualizer
+Look, listen, read
