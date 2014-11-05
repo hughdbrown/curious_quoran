@@ -15,13 +15,16 @@ def parse_catalog(filepath):
 	soup = BeautifulSoup(f)
 	text = soup.get_text()
 	
-	# Clean up -- remove newline chars and dashes, &pg indicates start of next catalog entry
+	# Clean up -- remove newline chars, dashes, and whitespace &pg indicates start of next catalog entry
 	splits = text.replace('\n', ' ').replace('--',' ').split('&pg')
 	splits_clean = [s.strip() for s in splits]
 	return splits_clean
 
 
 if __name__=="__main__":
-	print parse_catalog('subset.xml')
+	output = parse_catalog('subset.xml')
+	print "Same parsed book metadata: ", output[1]
+	print "\n"
+	print "Download count: ", re.findall('[0-9+]\w+',output[1])[-1]
 
 
