@@ -16,7 +16,7 @@ def clean_up(raw_wordlist):
     Stem, lemmatize words in list and strip non alphabet chars and stopwords 
     '''
     
-    nltk.download('stopwords')
+    #nltk.download('stopwords')
     stop = stopwords.words('english')
     extra_stopwords = ['mr', 'said', 'like', 'it', 'to', 'he', 'ms', 'dr', 're'] # Adding some custom stopwords 
     stop += extra_stopwords
@@ -29,9 +29,9 @@ def clean_up(raw_wordlist):
     lem_words = [lmtzr.lemmatize(w).translate(None, punctuation) for w in filtered]
     return ' '.join(lem_words)
 
-def preprocess_quora(quora_dump):
+def preprocess_quora(quora):
 	'''
-	INPUT: Quora dump in pickle form (raw string)
+	INPUT: Quora dump (raw string)
 	OUTPUT: list of words to be fed into clean_up
 
 	Turn raw list of individual questions into one raw string
@@ -41,10 +41,29 @@ def preprocess_quora(quora_dump):
 	qlist_tot = reduce(lambda x, y: x+y, q_wlist)
 	return qlist_tot
 
+def preprocess_gutenberg(gutenberg):
+    '''
+    INPUT: Gutenberg dump (list of string, each a book)
+    OUTPUT: Pandas df with text for each book in each row
+
+    '''
+    books = [b.split() for b in gutenberg[0] if len(b) >0]
+    book_dict = {ind:' '.join(b) for ind,b in enumerate(books)}
+    #print book_dict
+    book_df = pd.DataFrame.from_dict(book_dict, orient = 'index')
+    #print books
+    return book_df
+
+
+
 if __name__ == "__main__":
     quora_user = open('quora_data.pkl')
     quora = pickle.load(quora_user)
     filtered = preprocess_quora(quora)
-    print clean_up(filtered)
+    print "Here's some clean Quora data: \n", clean_up(filtered)
+
+    books = pickle.load(open('book_list.pkl'))
+    bookdf = preprocess_gutenberg(books)
+    print "Here's a clean dataframe of books: \n", bookdf[0].apply(lambda x: x.split()).apply(clean_up)
 
 
