@@ -26,7 +26,7 @@ def clean_up(raw_wordlist):
     
     # Use wordnet lemmatizer on raw list
     lmtzr = WordNetLemmatizer()
-    lem_words = [lmtzr.lemmatize(w).translate(None, punctuation) for w in raw_wordlist]
+    lem_words = [lmtzr.lemmatize(w).translate(None, punctuation) for w in filtered]
     return ' '.join(lem_words)
 
 def preprocess_quora(quora_dump):
@@ -39,6 +39,12 @@ def preprocess_quora(quora_dump):
 
 	q_wlist = [q.split() for q in quora]
 	qlist_tot = reduce(lambda x, y: x+y, q_wlist)
-	filtered = [w.encode('ascii', 'ignore').lower().replace('\u2605','') for w in qlist_tot if w.encode('ascii', 'ignore').lower().replace('\u2605','').replace('"','') not in stop]
-	return filtered
+	return qlist_tot
+
+if __name__ == "__main__":
+    quora_user = open('quora_data.pkl')
+    quora = pickle.load(quora_user)
+    filtered = preprocess_quora(quora)
+    print clean_up(filtered)
+
 
