@@ -16,7 +16,10 @@ class TextParser():
     '''
 
     def __init__(self):
-        pass
+        '''
+        Only attribute is a master dataframe with all ref texts
+        '''
+        self.df = None
 
     def clean_up(self, raw_wordlist):
         '''
@@ -76,8 +79,8 @@ class TextParser():
         # Add a clean vectorizable string col to df with raw desc
         bookdf['cleaned_text'] = bookdf['verbose_desc'].apply(lambda x: x.split()).apply(self.clean_up)
         print "Here's a clean dataframe of books: \n", bookdf
-        print bookdf.columns
-        return bookdf
+        #print bookdf.columns
+        self.df = bookdf
 
 
 
