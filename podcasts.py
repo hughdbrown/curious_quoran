@@ -2,6 +2,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import re
+import pickle
 
 def get_podcast_data():
     '''
@@ -39,4 +40,8 @@ def pcast_desc(rss_url):
 if __name__=="__main__":
     df = get_podcast_data()
     df['desc'] = df['feed_url'].apply(lambda x: pcast_desc(x))
-    pickle.dump(df,open("podcasts.pkl"))
+    df = df[['title', 'desc']]
+    df.desc = df['desc'].apply(lambda x: x.replace('[','')).apply(lambda x: x.replace('[',''))
+
+    # Dump raw data to be processed by parser class
+    pickle.dump(df, open("podcast_df.pkl", "wb"))
