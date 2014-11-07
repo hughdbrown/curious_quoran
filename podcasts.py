@@ -1,6 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
+import re
 
 def get_podcast_data():
     '''
@@ -14,20 +15,28 @@ def get_podcast_data():
     master_dict = top_fifty.json()
     podcast_dict = master_dict["podcasts"]
 
-    podcast_desc_list = []
-    for pcast in podcast_dict:
-        print pcast['title']
-        print pcast['feed_url']
+    podcast_df = pd.DataFrame.from_dict(podcast_dict)
+    return podcast_df
 
-        # Get descriptions by calling the appropriate page
-        url = pcast['feed_url']
-        description = requests.get(url).text
-        print description
 
-        # soup = BeautifulSoup(description)
-        # podcast_desc_list.append(soup.get_text())
-    return podcast_desc_list
+def pcast_desc(rss_url):
+
+    description = requests.get(rss_url).text
+   
+    # Parse the page with BeautifulSoup
+    soup = BeautifulSoup(description, 'xml')
+
+    summary_text = str(soup.findAll('summary'))
+    # print summary_text
+
+    text = soup.get_text()
+    clean = summary_text.replace('\n', '').replace('<itunes:summary>','').replace('</itunes:summary>','')
+    #print clean
+    return clean
+
 
 
 if __name__=="__main__":
-    get_podcast_data()
+    df = get_podcast_data()
+    df['desc'] = df['feed_url'].apply(lambda x: pcast_desc(x))
+    pickle.dump(df,open("podcasts.pkl"))
