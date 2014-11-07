@@ -7,7 +7,7 @@ A cross-resource recommendation engine for Quora users, discovering hidden gems 
 #### Motivation & Inspiration
 
 
-For many of us, [Quora](www.quora.com) is a beloved online repository of knowledge - a virtual meetingplace for hungry minds. True to its tagline, Quora often provides *"The best answer to any question"* on topics from Hinduism to horticulture. Quora democratizes the knowledge, stories and intellectual resources of some of the most interesting and accomplished people in the world - public figures whose names you know (Jimmy Wales! Sheryl Sandberg!) but many others you may not.
+For many of us, [Quora](www.quora.com) is a beloved online repository of knowledge - a virtual meetingplace for hungry minds. True to its tagline, Quora often provides *"The best answer to any question"* on topics from Hinduism to horticulture, democratizing the knowledge, stories and intellectual resources of some of the most interesting and accomplished people in the world - public figures whose names you know ([Jimmy Wales!](http://www.quora.com/Jimmy-Wales) [Sheryl Sandberg!](http://www.quora.com/Sheryl-Sandberg)) and many others you may not.
 
 My work is motivated by frequently asked Quora questions of the form: "*How / where can I learn more about ____*"; my goal is to augment the endogenous functionality of Quora's Stack Exchange-esque question and answer format by identifying latent user interests and recommending a curated set of resources among the following: 
 
@@ -49,5 +49,10 @@ Look, listen, read
 
 #### Podcast Data
 
-Getting semantically-rich descriptions for podcasts took a fair bit of work, but thanks to the FeedWrangler [API](https://feedwrangler.net/developers/podcasts_directory#show) I was able to get the top fifty most popular and scrape the episode feed urls to retrieve salient descriptions of the most recent episodes.
+Getting semantically-rich descriptions for podcasts took a fair bit of work, but thanks to the FeedWrangler [API](https://feedwrangler.net/developers/podcasts_directory#show) I was able to get the top fifty most popular and scrape the episode feed urls to retrieve salient descriptions of the most recent episodes. This worked surprisingly well, especially for domain-specific podcasts rich in jargon-y summaries, like Accidental Tech Podcast, NPR Planet Money or Freakonomics Radio.
+
+
+#### Extending functionality to recommend resources for individual question pages
+
+TBD
 
