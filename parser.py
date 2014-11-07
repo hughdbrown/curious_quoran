@@ -83,20 +83,8 @@ class TextParser():
         self.df = bookdf
 
 
+if __name__ == "__main__":
 
-# if __name__ == "__main__":
-
-    # reader = TextParser()
-    # quora_user = open('quora_data.pkl')
-    # quora = pickle.load(quora_user)
-    # filtered = reader.preprocess_quora(quora)
-    # print "Here's some clean Quora data: \n", clean_up(filtered)
-
-    # books = pickle.load(open('book_list.pkl'))
-    # bookdf = preprocess_gutenberg(books)
-
-    # # Add a clean vectorizable string col to df with raw desc
-    # bookdf['cleaned_text'] = bookdf[0].apply(lambda x: x.split()).apply(clean_up)
-    # print "Here's a clean dataframe of books: \n", bookdf
-
-
+    read = TextParser()
+    read.assemble_df()
+    print read.df
