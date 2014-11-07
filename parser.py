@@ -1,12 +1,9 @@
-from nltk.stem.wordnet import WordNetLemmatizer
-from string import punctuation
 import pickle
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import NMF
-from nltk.corpus import stopwords
-import nltk
+from string import punctuation
 from nltk.tokenize import word_tokenize
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.corpus import stopwords
 
 
 class TextParser():
@@ -29,7 +26,7 @@ class TextParser():
         Stem, lemmatize words in list and strip non alphabet chars and stopwords 
         '''
         
-        #nltk.download('stopwords')
+        # nltk.download('stopwords') => Only needed to do this once! Quite slow.
         stop = stopwords.words('english')
         extra_stopwords = ['mr', 'said', 'like', 'it', 'to', 'he', 'ms', 'dr', 're'] # Adding some custom stopwords 
         stop += extra_stopwords
@@ -60,6 +57,7 @@ class TextParser():
         OUTPUT: Pandas df with text for each book in each row
 
         '''
+
         books = [b.split() for b in gutenberg if len(b) >0]
         print "Here's a book:", books[0]
         book_dict = {ind:' '.join(b) for ind,b in enumerate(books)}
@@ -79,7 +77,8 @@ class TextParser():
         # Add a clean vectorizable string col to df with raw desc
         bookdf['cleaned_text'] = bookdf['verbose_desc'].apply(lambda x: x.split()).apply(self.clean_up)
         print "Here's a clean dataframe of books: \n", bookdf
-        #print bookdf.columns
+        
+        # Set df to bookdf
         self.df = bookdf
 
 
