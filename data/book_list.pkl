@@ -1,0 +1,979 @@
+(lp0
+(lp1
+V
+p2
+aVTheory of Silk Weaving  A Treatise on the Construction and Application of Weaves, and the Decomposition and Calculation of Broad and Narrow, Plain, Novelty and Jacquard Silk Fabrics Wolfensberger, Arnold Theory of Silk Weaving by Arnold Wolfensberger en   Weaving Silk industry   TS 2005-01-05 146
+p3
+aVThe Methods of Glass Blowing and of Working Silica in the Oxy-Gas Flame For the use of chemical and physical students Shenstone, W. A. The Methods of Glass Blowing and of Working Silica en 2010-10-06 108
+p4
+aVThe Scholfield Wool-Carding Machines Cooper, Grace Rogers The Scholfield Wool-Carding Machines by Cooper en Wool-carding TS 2008-11-03 145
+p5
+aVThe Book of Household Management Beeton, Mrs. (Isabella Mary), 1836-1865 The Book of Household Management by Mrs.  Beeton en   Cooking, English Home economics   TX 2003-11-01 560
+p6
+aVSelf-Instructor in the Art of Hair Work, Dressing Hair, Making Curls, Switches, Braids, and Hair Jewelry of Every Description. Campbell, Mark, 19th cent. Self-Instructor in the Art of Hair Work, Dressing  en   Hairdressing Jewelry   Catalogs Hairwork   TT 2012-01-24 134
+p7
+aVThe Development of Embroidery in America Wheeler, Candace, 1827-1923 The Development of Embroidery in America en   Embroidery   United States Tapestry   United States Bayeux tapestry   NK 2008-01-04 125
+p8
+aVProjet pour la compagnie des transports, postes et messageries Anonymous Projet pour la compagnie des transports, postes et fr   Postal service   France France. Ministère des P.T.T.   History     DC HE   2006-11-30 7
+p9
+aVLa réforme postale en France Barrillon, François-Guillaume La réforme postale en France by Barrillon fr Postal service   France HE 2006-11-11 8
+p10
+aVMémoire pour le service actuel des messageries Anonymous Mémoire pour le service actuel des messageries fr   Coaching (Transportation)   France Transportation   France     HE DC   2006-07-22 11
+p11
+aVGeneral Instructions For The Guidance Of Post Office Inspectors In The Dominion Of Canada Campbell, Alexander, 1822-1892 General Instructions For The Guidance Of Post Offi en Postal service   Canada   Handbooks, manuals, etc.   F1001 HE   2006-10-01 7
+p12
+aVLe tour de France en aéroplane Graffigny, H. de (Henry), 1863-1934 Raffin, Ferdinand [Illustrator] Le tour de France en aéroplane by Graffigny fr   France   Description and travel Aeronautics   Flights   TL 2006-02-06 134
+p13
+aVHow "A Dear Little Couple" Went Abroad Brine, Mary D. (Mary Dow) How "A Dear Little Couple" Went Abroad by Brine en 2012-05-26 36
+p14
+aVAcross the Cameroons A Story of War and Adventure Gilson, Charles, 1878-1943 Across the Cameroons by Charles Gilson en 2012-03-17 32
+p15
+aVA Journey from Prince of Wales's Fort in Hudson's Bay to the Northern Ocean in the Years 1769, 1770, 1771, 1772  New Edition with Introduction, Notes, and Illustrations Hearne, Samuel, 1745-1792 A Journey from Prince of Wales's Fort in Hudson's  en Northwest, Canadian   Description and travel 2011-12-24 157
+p16
+aVZanzibar Tales Told by natives of the East Coast of Africa Bateman, George W. [Translator] Zanzibar Tales en Tales   Africa 2011-09-18 44
+p17
+aVAmong the Canadian Alps Burpee, Lawrence J. (Lawrence Johnstone), 1873-1946 Among the Canadian Alps by Lawrence J.  Burpee en 2011-05-29 36
+p18
+aVMy Life in Many States and in Foreign Lands Dictated in My Seventy-Fourth Year Train, George Francis My Life in Many States and in Foreign Lands en 2011-12-10 26
+p19
+aVOcean to Ocean on Horseback Being the Story of a Tour in the Saddle from the Atlantic to the Pacificwith Especial Reference to the Early History and Devel Glazier, Willard W., 1841-1905 Ocean to Ocean on Horseback by Willard W. Glazier en 2011-10-04 105
+p20
+aVThe Letters of Amerigo Vespucci and other documents illustrative of his career   Columbus, Christopher, 1451-1506 Casas, Bartolomé de las, 1474-1566 Vespucci, Amerigo   Markham, Clements R. (Clements Robert), Sir, 1830-1916 [Translator] The Letters of Amerigo Vespucci by Casas en 2011-07-31 114
+p21
+aVTravels in the Interior of North America, Part I, (Being Chapters I-XV of the London Edition, 1843) Early Western Travels, 1748-1846, Volume XXII Wied, Maximilian, Prinz von, 1782-1867 Thwaites, Reuben Gold, 1853-1913 [Editor] Travels in the Interior of North America, Part I,  en 2012-02-07 70
+p22
+aVHistoric Waterways\u2014Six Hundred Miles of Canoeing Down the Rock, Fox, and Wisconsin Rivers Thwaites, Reuben Gold, 1853-1913 Historic Waterways\u2014Six Hundred Miles of Canoeing en 2012-01-12 45
+p23
+aVA Trip to California in 1853 Recollections of a Gold Seeking Trip by Ox Train across the Plains and Mountains by an Old Illinois Pioneer Bailey, Washington A Trip to California in 1853 by Washington Bailey en 2011-12-20 28
+p24
+aVSome Pioneers and Pilgrims on the Prairies of Dakota Or, From the ox team to the aeroplane   Reese, H. B. Reese, John B.   Some Pioneers and Pilgrims on the Prairies of Dako en 2011-10-16 23
+p25
+aVVoyages of Samuel De Champlain \u2014 Volume 01 Champlain, Samuel de, 1574-1635 Otis, Charles P. (Charles Pomeroy), 1840-1888 [Translator] Voyages of Samuel De Champlain \u2014 Volume 01 en   New France   Discovery and exploration Indians of North America   Canada America   Discovery and exploration   French   F1001 2004-10-01 45
+p26
+aVWonderlandor Alaska and the Inside Passage With a Description of the Country Traversed by the Northern Pacific Railroad   Hyde, John Schwatka, Lieut. Frederick   Wonderlandor Alaska and the Inside Passage en 2011-06-16 28
+p27
+aVAlaska Days with John Muir Young, Samual Hall, 1847-1927 Alaska Days with John Muir by Samual Hall Young en   Young, Samuel Hall, 1847-1927   Travel   Alaska Alaska   Description and travel Muir, John, 1838-1914   Travel   Alaska Natural history   Alaska   F850.5 2009-12-17 57
+p28
+aVThe Ascent of Denali (Mount McKinley) A Narrative of the First Complete Ascent of the Highest Peak in North America Stuck, Hudson, 1863-1920 The Ascent of Denali (Mount McKinley) by Stuck en   McKinley, Mount (Alaska) Mountaineering   Alaska   McKinley, Mount Stuck, Hudson, 1863-1920   Travel   Alaska   McKinley, Mount   F850.5 2008-07-15 38
+p29
+aVNorth-Pole Voyages Mudge, Zachariah Atwell North-Pole Voyages by Zachariah Atwell Mudge en 2012-02-29 11
+p30
+aVWild Adventures round the Pole The Cruise of the "Snowbird" Crew in the "Arrandoon" Stables, Gordon, 1840-1910 Wild Adventures round the Pole by Gordon Stables en 2011-12-13 14
+p31
+aVA Trip to Cuba Howe, Julia Ward, 1819-1910 A Trip to Cuba by Julia Ward Howe en 2011-12-03 23
+p32
+aVThe Mountains of Oregon Steel, William Gladstone, 1854-1934 The Mountains of Oregon by William Gladstone Steel en 2011-07-16 18
+p33
+aVAdventures in the Canyons of the Colorado By two of its earliest explorers Bass, William Wallace, 1848-1933 Adventures in the Canyons of the Colorado by Bass en 2011-03-06 18
+p34
+aVJourneys in Persia and Kurdistan, Volume I (of 2) Including a Summer in the Upper Karun Region and a Visit to the Nestorian Rayahs Bird, Isabella L. (Isabella Lucy), 1831-1904 Journeys in Persia and Kurdistan, Volume I (of 2) en 2012-02-11 64
+p35
+aVTravel Tales in the Promised Land (Palestine) May, Karl, 1842-1912 Travel Tales in the Promised Land (Palestine) en Middle East   Description and travel DS 2008-06-08 37 Copyrighted work. See license inside work.
+p36
+aVEssays of Travel The amateur emigrant, from the Clyde to Sandy Hook   Cockermouth and Keswick   An autumn effect   A winter's walk in Carrick and Galloway   Forest notes   A mountain town in France   Random memories, rosa quo locorum   The ideal house   Davos in winter   Health and mountains   Alpine diversions   The stimulation of the Alps   Roads   On the enjoyment of unpleasant places. Stevenson, Robert Louis, 1850-1894 Essays of Travel by Robert Louis Stevenson en   Essays Stevenson, Robert Louis, 1850-1894   Travel   PR 1996-08-01 98
+p37
+aVFrom Egypt to Japan Field, Henry M. (Henry Martyn), 1822-1907 From Egypt to Japan by Henry M.  Field en 2012-04-18 33
+p38
+aVThe Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 2 Whymper, Frederick The Sea: Its Stirring Story of Adventure, Peril, & en 2012-04-01 189
+p39
+aVIncidents of Travel in Greece, Turkey, Russia, and Poland, 7th ed. Vol. 2 of 2 Stephens, John Lloyd, 1805-1852 Incidents of Travel in Greece, Turkey, Russia, and en 2011-11-09 23
+p40
+aVIncidents of Travel in Greece, Turkey, Russia, and Poland, Vol. I (of 2) Stephens, John Lloyd, 1805-1852 Incidents of Travel in Greece, Turkey, Russia, and en 2011-10-30 45
+p41
+aVNarrative of an Expedition to the Shores of the Arctic Sea in 1846 and 1847 Rae, John, 1813-1893 Narrative of an Expedition to the Shores of the Ar en   Arctic regions   Description and travel Northwest, Canadian   Description and travel   2012-06-05 28
+p42
+aVA Description of the Coasts of East Africa and Malabar in the Beginning of the Sixteenth Century Barbosa, Duarte, -1521 Stanley, Henry Edward John Stanley, Baron, 1827-1903 [Translator] A Description of the Coasts of East Africa and Mal en 2011-12-09 47
+p43
+aVExplorers and Travellers Greely, Adolphus W., 1844-1935 Explorers and Travellers by Adolphus W. Greely en 2011-05-09 87
+p44
+aVTravels in North America, From Modern Writers With Remarks and ObservationsExhibiting a Connected View of the Geography and Present State of that Quarter of the Globe Bingley, William, 1774-1823 Travels in North America, From Modern Writers en   Mexico   Description and travel United States   Description and travel Canada   Description and travel   E151 2009-03-13 40
+p45
+aVCruisings in the Cascades A Narrative of Travel, Exploration, Amateur Photography, Hunting, and Fishing Shields, G. O. (George O.), 1846-1925 Cruisings in the Cascades by G. O.  Shields en   Hunting   United States Fishing   United States   SK 2011-07-07 28
+p46
+aVAcross Asia on a Bicycle  The Journey of Two American Students from Constantinople to Peking   Allen, Thomas Gaskell, 1868- Sachtleben, William Lewis, -1953   Across Asia on a Bicycle by Allen and Sachtleben en   Asia   Description and travel Bicycle touring   Asia Allen, Thomas Gaskell   Travel   Asia Sachtleben, William Lewis   Travel   Asia   DS 2010-01-29 235
+p47
+aVMount Everest the Reconnaissance, 1921   Howard-Bury, Charles Kenneth, 1881-1963 Wollaston, A. F. R. Leigh-Mallory, George H., 1886-1924   Mount Everest the Reconnaissance, 1921 en 2012-04-10 159
+p48
+aVClimbing in The British Isles.  Vol. 1 - England Smith, W. P. Haskett Carr, Ellis [Illustrator] Climbing in The British Isles.  Vol. 1 - England en 2011-11-12 46
+p49
+aVClimbing in The British Isles, Vol. II Wales and Ireland   Smith, W. P. Haskett Hart, H. C.   Carr, Ellis [Illustrator] Climbing in The British Isles, Vol. II by Hart en 2011-09-21 34
+p50
+aVFrom the Thames to the Tiber or, My visit to Paris, Rome, Florence, Venice, Milan, Switzerland, etc. Wardle, J. From the Thames to the Tiber by J. Wardle en 2011-12-01 38
+p51
+aVNights Rome, Venice, in the Aesthetic EightiesLondon, Paris, in the Fighting Nineties Pennell, Elizabeth Robins, 1855-1936 Nights by Elizabeth Robins Pennell en   Venice (Italy)   Description and travel Paris (France)   Description and travel London (England)   Description and travel Rome (Italy)   Description and travel     DA DG DC   2008-01-29 25
+p52
+aVGermany, Bohemia, and Hungary, Visited in 1837. Vol. II Gleig, G. R. (George Robert), 1796-1888 Germany, Bohemia, and Hungary, Visited in 1837. Vo en   Bohemia (Czech Republic)   Description and travel Austria   Description and travel Germany   Description and travel     DB DD   2008-01-28 26
+p53
+aVEurope\u2014Whither Bound? Being Letters of Travel from the Capitals of Europe in the Year 1921 Graham, Stephen, 1884-1975 Europe\u2014Whither Bound? by Stephen Graham en Europe   Description and travel D 2007-05-16 11
+p54
+aVSpanish Highways and Byways Bates, Katharine Lee, 1859-1929 Spanish Highways and Byways by Katharine Lee Bates en 2012-02-04 34
+p55
+aVThe Quest of the 'Golden Hope' A Seventeenth Century Story of Adventure Westerman, Percy F. (Percy Francis), 1876-1959 Wiles, Frank E. [Illustrator] The Quest of the 'Golden Hope' by Westerman en 2011-12-04 29
+p56
+aVA Wanderer in Paris Lucas, E. V. (Edward Verrall), 1868-1938 A Wanderer in Paris by E. V.  Lucas en 2011-11-06 74
+p57
+aVThe Story of Magellan and The Discovery of the Philippines Butterworth, Hezekiah, 1839-1905 Merrill, Frank T., 1848- [Illustrator] The Story of Magellan and The Discovery of the Phi en 2011-10-21 96
+p58
+aVSea and Sardinia Lawrence, D. H. (David Herbert), 1885-1930 Juta, Jan [Illustrator] Sea and Sardinia by D. H.  Lawrence en 2011-08-26 158
+p59
+aVA Woman's Journey Round the World  From Vienna to Brazil, Chili, Tahiti, China, Hindostan, Persia and Asia Minor Pfeiffer, Ida, 1797-1858 A Woman's Journey Round the World by Ida Pfeiffer en Voyages around the world G 2004-02-01 95
+p60
+aVA Voyage Towards the South Pole and Round the World, Volume 1 Cook, James, 1728-1779 Furneaux, Tobias, 1735-1781 [Contributor] A Voyage Towards the South Pole and Round the Worl en   Antarctica Oceania   Discovery and exploration   Early works to 1800 Voyages around the world   Early works to 1800   G 2005-05-07 57
+p61
+aVRoughing It Twain, Mark, 1835-1910 Roughing It by Mark Twain en   Authors, American   Homes and haunts   West (U.S.) Twain, Mark, 1835-1910   Travel   West (U.S.) West (U.S.)   Intellectual life   19th century West (U.S.)   Description and travel     PS E660   2004-07-03 3926
+p62
+aVQueen Victoria, her girlhood and womanhood Greenwood, Grace, 1823-1904 Queen Victoria, her girlhood and womanhood en Victoria, Queen of Great Britain, 1819-1901 DA 2004-09-01 23
+p63
+aVA History of the Early Part of the Reign of James the Second Fox, Charles James, 1749-1806 Morley, Henry, 1822-1894 [Editor] A History of the Early Part of the Reign of James  en Great Britain   History   James II, 1685-1688 DA 2003-07-01 17
+p64
+aVA History of the Four Georges, Volume I McCarthy, Justin, 1830-1912 A History of the Four Georges, Volume I en   Great Britain   Politics and government   1714-1837 Great Britain   History   1714-1837   DA 2007-11-13 3
+p65
+aVThe Letters of Queen Victoria : A Selection from Her Majesty's Correspondence between the Years 1837 and 1861  Volume 1, 1837-1843 Victoria, Queen of Great Britain, 1819-1901   Benson, Arthur Christopher, 1862-1925 [Editor] Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]   The Letters of Queen Victoria : A Selection from H en   Europe   Politics and government   1848-1871 Great Britain   History   Victoria, 1837-1901   Sources Great Britain   History   Victoria, 1837-1901 Great Britain   Politics and government   1837-1901 Victoria, Queen of Great Britain, 1819-1901   Correspondence     DA AC   2006-12-05 283
+p66
+aVGreat Britain and Her Queen Second Edition Keeling, Annie E. Great Britain and Her Queen by Annie E. Keeling en   Victoria, Queen of Great Britain, 1819-1901 Great Britain   History   19th century   DA 2004-08-03 94
+p67
+aVThe History of England from the Norman Conquest to the Death of John (1066-1216) Adams, George Burton, 1851-1925 The History of England from the Norman Conquest to en Great Britain   History   Medieval period, 1066-1485 DA 2005-07-01 43
+p68
+aVLife of Her Most Gracious Majesty the Queen \u2014 Volume 1 Tytler, Sarah, 1827-1914 Life of Her Most Gracious Majesty the Queen \u2014 Vo en Victoria, Queen of Great Britain, 1819-1901 DA 2004-11-01 34
+p69
+aVHistory of the English People, Volume VI  Puritan England, 1642-1660The Revolution, 1660-1683 Green, John Richard, 1837-1883 History of the English People, Volume VI by Green en Great Britain   History DA 2008-01-11 33
+p70
+aVChronicles (1 of 6): The Historie of England (7 of 8) The Seventh Boke of the Historie of England Holinshed, Raphael, -1580? Chronicles (1 of 6): The Historie of England (7 of en Great Britain   History   Anglo-Saxon period, 449-1066 DA 2005-08-29 23
+p71
+aVChronicles 1 (of 6): The Historie of England 5 (of 8) The Fift Booke of the Historie of England. Holinshed, Raphael, -1580? Chronicles 1 (of 6): The Historie of England 5 (of en Great Britain   History   Anglo-Saxon period, 449-1066 DA 2005-08-20 19
+p72
+aVChronicles (1 of 6): The Historie of England (4 of 8) The Fovrth Booke Of The Historie Of England Holinshed, Raphael, -1580? Chronicles (1 of 6): The Historie of England (4 of en Great Britain   History   Roman period, 55 B.C.-449 A.D. DA 2005-08-16 18
+p73
+aVThe History of England, from the Accession of James II, Volume 1, Chapter 02 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of Jame en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2007-01-05 10 Audio Book, human-read
+p74
+aVChronicles of England, Scotland and Ireland (2 of 6): England (3 of 12) Henrie I. Holinshed, Raphael, -1580? Chronicles of England, Scotland and Ireland (2 of  en Great Britain   History   Henry I, 1100-1135 DA 2005-09-25 13
+p75
+aVThe History of England, from the Accession of James II \u2014 Volume 5 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of Jame en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2008-06-26 49
+p76
+aVThe History of England, from the Accession of James II \u2014 Volume 3 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of Jame en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2008-06-26 51
+p77
+aVThe Historic Thames Belloc, Hilaire, 1870-1953 The Historic Thames by Hilaire Belloc en   Historic sites   England   Thames Valley Thames Valley (England)   History Thames Valley (England)   Description and travel   DA 2004-07-29 18
+p78
+aVBeautiful Britain\u2014Cambridge Home, Gordon, 1878-1969 Beautiful Britain\u2014Cambridge by Gordon Home en   Cambridge (England)   Description and travel University of Cambridge   DA 2004-07-08 14
+p79
+aVHammersmith, Fulham and Putney The Fascination of London   Geikie, John Cunningham, 1824-1906 Mitton, G. E. (Geraldine Edith)   Besant, Walter, 1836-1901 [Editor] Hammersmith, Fulham and Putney by Geikie en   Fulham (London, England)   Description and travel Hammersmith (London, England)   Description and travel Putney (London, England)   Description and travel   DA 2007-01-07 92
+p80
+aVLondon River The foreshore   A midnight voyage   A shipping parish   The "Heart's Desire"   The master   The ship-runners   Not in the almanac   The illusion   In a coffee-shop   Off-shore   An old Lloyd's register. Tomlinson, H. M. (Henry Major), 1873-1958 London River by H. M.  Tomlinson en   London (England) Seafaring life   PR 2005-02-25 17
+p81
+aVLife of Johnson, Volume 5  Tour to the Hebrides (1773) and Journey into North Wales (1774) Boswell, James, 1740-1795 Hill, George Birkbeck Norman, 1835-1903 [Editor] Life of Johnson, Volume 5 by James Boswell en   Critics   Great Britain   Biography Johnson, Samuel, 1709-1784 Authors, English   18th century   Biography Lexicographers   Great Britain   Biography   PR 2003-12-01 50
+p82
+aVLondon and the Kingdom - Volume I Sharpe, Reginald R. (Reginald Robinson), 1848-1925 London and the Kingdom - Volume I by Sharpe en London (England)   History DA 2006-11-13 29
+p83
+aVVoskresenie. English Resurrection Tolstoy, Leo, graf, 1828-1910 Maude, Louise, 1855-1939 [Translator] Voskresenie. English by graf Leo Tolstoy en   Russia   Social conditions   1801-1917   Fiction Atonement   Fiction Trials (Murder)   Russia   Fiction Prostitutes   Russia   Fiction Aristocracy (Social class)   Russia   Fiction Social justice   Russia   Fiction Change   Religious aspects   Fiction   PG 1999-10-01 274
+p84
+aVThe Harbours of England Ruskin, John, 1819-1900   Turner, J. M. W. (Joseph Mallord William), 1775-1851 [Illustrator] Lupton, Thomas Goff, 1791-1873 [Engraver]   The Harbours of England by John Ruskin en Harbors   England NE 2007-05-23 46
+p85
+aVBell's Cathedrals: The Cathedral Church of Carlisle  A Description of Its Fabric and A Brief History of the Episcopal See Eley, C. King Bell's Cathedrals: The Cathedral Church of Carlisl en Carlisle Cathedral (Carlisle, England) NA 2006-11-20 56
+p86
+aVBell's Cathedrals: A Short Account of Romsey Abbey  A Description of the Fabric and Notes on the History of the Convent of SS. Mary & Ethelfleda Perkins, Thomas, Rev., 1842-1907 Bell's Cathedrals: A Short Account of Romsey Abbey en Romsey Abbey NA 2007-10-03 15
+p87
+aVBell's Cathedrals: The Cathedral Church of Exeter A Description of Its Fabric and a Brief History of the Episcopal See Addleshaw, Percy, 1866-1916 Bell's Cathedrals: The Cathedral Church of Exeter en Exeter Cathedral NA 2006-10-01 67
+p88
+aVPolitical Thought in England from Locke to Bentham Laski, Harold Joseph, 1893-1950 Political Thought in England from Locke to Bentham en Political science   Great Britain   History JA 2005-01-19 99
+p89
+aVLandholding in England Fisher, Joseph, F.R.H.S. Landholding in England by F.R.H.S. Joseph Fisher en Land tenure   Great Britain HD 2003-02-01 11
+p90
+aVReflections on the Decline of Science in England, and on Some of Its Causes Babbage, Charles, 1791-1871 Reflections on the Decline of Science in England,  en   Science   Great Britain   History Royal Society (Great Britain)   Q 1998-02-01 136
+p91
+aVHenry of Monmouth  Or, Memoirs of the Life and Character of Henry the Fifth, as Prince of Wales and King of England  Volume 1 Tyler, James Endell, 1789-1851 Henry of Monmouth by James Endell Tyler en Henry V, King of England, 1387-1422 DA 2007-01-31 22
+p92
+aVQueen Victoria Strachey, Lytton, 1880-1932 Queen Victoria by Lytton Strachey en   Victoria, Queen of Great Britain, 1819-1901 Queens   Great Britain   Biography Great Britain   History   Victoria, 1837-1901   DA 2006-02-19 215
+p93
+aVThe History of England in Three Volumes, Vol.I., Part E. From Charles I. to Cromwell Hume, David, 1711-1776 The History of England in Three Volumes, Vol.I., P en   Great Britain   History   Puritan Revolution, 1642-1660 Great Britain   History   Charles I, 1625-1649   DA 2006-09-08 55
+p94
+aVThe History of England in Three Volumes, Vol.I., Part B. From Henry III. to Richard III. Hume, David, 1711-1776 The History of England in Three Volumes, Vol.I., P en Great Britain   History DA 2006-09-08 112
+p95
+aa(lp96
+g2
+aVChronicles (1 of 6): The Historie of England (1 of 8)  From the Time That It Was First Inhabited, Vntill the Time That It Was Last Conquered: Wherein the Sundrie Alterations of the State Vnder Forren People Is DeclaredAnd Other Manifold Observations Remembred Holinshed, Raphael, -1580? Chronicles (1 of 6): The Historie of England (1 of en Great Britain   History   To 55 B.C. DA 2005-08-09 136
+p97
+aVChronicles (1 of 6): The Historie of England (2 of 8)  The Second Booke Of The Historie Of England Holinshed, Raphael, -1580? Chronicles (1 of 6): The Historie of England (2 of en Great Britain   History   To 55 B.C. DA 2005-08-31 26
+p98
+aVChronicles of England, Scotland and Ireland (2 of 6): England (4 of 12) Stephan Earle Of Bullongne Holinshed, Raphael, -1580? Chronicles of England, Scotland and Ireland (2 of  en Great Britain   History   Stephen, 1135-1154 DA 2005-09-27 18
+p99
+aVChronicles of England, Scotland and Ireland (2 of 6)  England (1 of 12) William the Conqueror Holinshed, Raphael, -1580? Chronicles of England, Scotland and Ireland (2 of  en Great Britain   History   William I, 1066-1087 DA 2005-09-24 40
+p100
+aVThe History of England, from the Accession of James II \u2014 Volume 1 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of Jame en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2008-06-26 354
+p101
+aVThe History of England, from the Accession of  James II, vol1, chapter 05 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2007-01-05 2 Audio Book, human-read
+p102
+aVThe History of England, from the Accession of James II, Volume 1, Chapter 04 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of Jame en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2007-01-05 0 Audio Book, human-read
+p103
+aVThe History of England, from the Accession of  James II, vol1, chapter 03 Macaulay, Thomas Babington Macaulay, Baron, 1800-1859 The History of England, from the Accession of en   Great Britain   History   James II, 1685-1688 Great Britain   History   William and Mary, 1689-1702   DA 2007-01-05 10 Audio Book, human-read
+p104
+aVThe Constitutional History of England from 1760 to 1860 Yonge, Charles Duke, 1812-1891 The Constitutional History of England from 1760 to en   Great Britain   History   George III, 1760-1820 Constitutional history   Great Britain Great Britain   History   19th century   DA 2004-01-01 8
+p105
+aVThe History of England - a Study in Political Evolution Pollard, A. F. (Albert Frederick), 1869-1948 The History of England - a Study in Political Evol en   Great Britain   Politics and government Great Britain   History   DA 2004-08-01 25
+p106
+aVAn Introduction to the Industrial and Social History of England Cheyney, Edward Potts, 1861-1947 An Introduction to the Industrial and Social Histo en   Great Britain   Maps Great Britain   Economic conditions Industries   Great Britain   HC 2007-06-01 72
+p107
+aVShowell's Dictionary of Birmingham  A History and Guide, Arranged Alphabetically   Showell, Walter, 1836?-1901 Harman, Thomas T.   Showell's Dictionary of Birmingham by Harman en Birmingham (England)   History   Dictionaries DA 2004-12-26 273
+p108
+aVA Tale of One City: the New Birmingham Papers Reprinted from the "Midland Counties Herald" Anderton, Thomas, 1836-1903 A Tale of One City: the New Birmingham by Anderton en   Birmingham (England)   Social life and customs Birmingham (England)   DA 2004-02-01 27
+p109
+aVHolborn and Bloomsbury The Fascination of London   Mitton, G. E. (Geraldine Edith) Besant, Walter, 1836-1901   Holborn and Bloomsbury by Besant and Mitton en   Bloomsbury (London, England)   Description and travel Holborn (London, England)   Description and travel   DA 2007-05-09 108
+p110
+aVLondon and the Kingdom - Volume II Sharpe, Reginald R. (Reginald Robinson), 1848-1925 London and the Kingdom - Volume II by Sharpe en London (England)   History DA 2007-04-05 20
+p111
+aVA Journey to the Western Islands of Scotland Johnson, Samuel, 1709-1784 A Journey to the Western Islands of Scotland en   Scotland   Description and travel   Early works to 1800 Johnson, Samuel, 1709-1784   Travel   Scotland   Hebrides Boswell, James, 1740-1795   Travel   Scotland   Hebrides Hebrides (Scotland)   Description and travel   Early works to 1800   DA 2000-02-01 242
+p112
+aVMemória sobre a plantação dos algodões  e sua exportação sobre a decadencia da lavoura de mandiocas, no termo da villa de Camamú, Comarca dos Ilhéos, Governo da Bahia Bettencourt, José de Sá Memória sobre a plantação dos algodões pt   Cotton growing   Brazil   Early works to 1800 Cassava   Early works to 1800 Portugal   Colonies   America   Commerce   Early works to 1800     SB F2501   2010-01-26 13
+p113
+aVShakespearean Playhouses  A History of English Theatres from the Beginnings to the Restoration Adams, Joseph Quincy, 1881-1946 Shakespearean Playhouses by Joseph Quincy Adams en   Shakespeare, William, 1564-1616   Stage history   To 1625 Theaters   England   London   History   PN 2007-08-25 187
+p114
+aVBell's Cathedrals: The Cathedral Church of Durham A Description of Its Fabric and A Brief History of the Espiscopal See Bygate, Joseph E. Bell's Cathedrals: The Cathedral Church of Durham en   Durham Cathedral Church of England. Diocese of Durham   NA 2006-12-26 88
+p115
+aVBell's Cathedrals: The Cathedral Church of Norwich A Description of Its Fabric and A Brief History of the Episcopal See Quennell, C. H. B. (Charles Henry Bourne), 1872-1935 Bell's Cathedrals: The Cathedral Church of Norwich en Norwich Cathedral (Norwich, England) NA 2006-11-05 64
+p116
+aVBell's Cathedrals: Wimborne Minster and Christchurch Priory  A Short History of Their Foundation and a Description of Their Buildings Perkins, Thomas, Rev., 1842-1907 Bell's Cathedrals: Wimborne Minster and Christchur en   Christ Church Priory (Canterbury, England) Wimborne Minster (England) Churches   England   NA 2006-10-09 68
+p117
+aVWhat to See in England  A Guide to Places of Historic Interest, Natural Beauty or Literary Association Home, Gordon, 1878-1969 What to See in England by Gordon Home en   England   Guidebooks Wales   Guidebooks   DA 2004-03-01 26
+p118
+aVThe Forest of Dean: An Historical and Descriptive Account Nicholls, H. G. (Henry George), 1825-1867 The Forest of Dean: An Historical and Descriptive  en   Dean, Forest of (England : Forest) Technology, History of England   Description and travel Iron industry and trade   England   Dean, Forest of Archaeology   DA 2008-02-03 132
+p119
+aVAmendments to the United States Constitution United States Amendments to the United States Constitution en Constitutional amendments   United States KF 2006-10-20 6 Audio Book, human-read
+p120
+aVOriginal Short Stories \u2014 Volume 09 Toine   Madame Husson's rosier   The adopted son   A coward   Old Mongilet   Moonlight   The first snowfall   Sundays of a bourgeois   A recollection   Our letters   The love of long ago   Friend Joseph   The effeminates   Old amable. Maupassant, Guy de, 1850-1893   Henderson, A. E. [Translator] Quesada, Louise Charlotte Garstin, 1864?- [Translator] McMaster, Albert Cohn [Translator]   Original Short Stories \u2014 Volume 09 by Maupassant en Short stories, French   Translations into English PQ 2004-10-03 38
+p121
+aVHome Life in Colonial Days Earle, Alice Morse, 1851-1911 Home Life in Colonial Days by Alice Morse Earle en United States   Social life and customs   To 1775 E151 2007-09-19 103
+p122
+aVThe Medallic History of the United States of America 1776-1876 Loubat, J. F. (Joseph Florimond), 1831-1927 Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator] The Medallic History of the United States of Ameri en   Medals   United States United States   History   CJ 2007-06-20 57
+p123
+aVThe Loyalists of America and Their Times, Vol. 1 of 2.  From 1620-1816 Ryerson, Egerton, 1803-1882 The Loyalists of America and Their Times, Vol. 1 o en   United States   Politics and government   1775-1783 United States   History   War of 1812 Massachusetts   Politics and government   To 1775 United States   History   Revolution, 1775-1783 United States   Politics and government   To 1775 American loyalists     E186 E201   2007-04-08 24
+p124
+aVNarratives of New Netherland, 1609-1664 Original narratives of early American history Series Jameson, J. Franklin (John Franklin), 1859-1937 [Editor] Narratives of New Netherland, 1609-1664 en New York (State)   History   Colonial period, ca. 1600-1775   Sources F106 2000-04-01 9
+p125
+aVCollection of Nebraska Pioneer Reminiscences Daughters of the American Revolution. Nebraska Collection of Nebraska Pioneer Reminiscences en   Nebraska   History Frontier and pioneer life   Nebraska   F590.3 2011-01-04 265
+p126
+aVA Treatise on the Tactical Use of the Three Arms: Infantry, Artillery, and Cavalry Lippitt, Francis J. (Francis James), 1812-1902 A Treatise on the Tactical Use of the Three Arms:  en   Tactics United States   History   Civil War, 1861-1865   Campaigns   U 2008-03-06 16
+p127
+aVThe Shirley Letters from California Mines in 1851-52 Shirley, Dame, 1819-1906 The Shirley Letters from California Mines in 1851- en   Shirley, Dame, 1819-1906   Correspondence Women pioneers   California   Correspondence California   Gold discoveries California   Description and travel   F850.5 2007-11-01 98
+p128
+aVImpressions of America During the years 1833, 1834 and 1835. In Two Volumes, Volume I. Power, Tyrone, 1797-1841 Impressions of America by Tyrone Power en   United States   Description and travel Canada   Description and travel   E151 2007-09-28 12
+p129
+aVThe Eve of the RevolutionA Chronicle of the Breach with England Becker, Carl L. (Carl Lotus), 1873-1945 Johnson, Allen, 1870-1931 [Editor] The Eve of the RevolutionA Chronicle of the Brea en   United States   Politics and government   1775-1783 United States   History   Revolution, 1775-1783   E201 2002-02-01 20
+p130
+aVThe Old Northwest: A Chronicle of the Ohio Valley and Beyond Ogg, Frederic Austin, 1878-1951 Johnson, Allen, 1870-1931 [Editor] The Old Northwest: A Chronicle of the Ohio Valley  en   Northwest, Old   History Ohio River Valley   History     F476 E151   2002-01-01 22
+p131
+aVThe Path of Empire: A Chronicle of the United States as a World Power Chronicles of America seriesv. 46 Fish, Carl Russell, 1876-1932 The Path of Empire: A Chronicle of the United Stat en   United States   Foreign relations United States   Territorial expansion   E151 2002-04-01 21
+p132
+aVThe Agrarian Crusade: A Chronicle of the Farmer in Politics Chronicles of America seriesv. 45 Buck, Solon J. (Solon Justus), 1884-1962 The Agrarian Crusade: A Chronicle of the Farmer in en   Agriculture   United States   Societies, etc. Political parties   United States United States   Politics and government   1865-   E151 2001-11-01 15
+p133
+aVThe Declaration of Independence of The United States of America United States The Declaration of Independence of The United Stat en   United States. Declaration of Independence United States   History   Revolution, 1775-1783   Sources     E201 JK   2005-10-12 473
+p134
+aVAmendments to the United States Constitution United States Amendments to the United States Constitution en Constitutional amendments   United States KF 2006-10-20 23 Audio Book, human-read
+p135
+aVThe Constitution of the United States A Brief Study of the Genesis, Formulation and Political Philosophy of the Constitution Beck, James M. (James Montgomery), 1861-1936 The Constitution of the United States by Beck en   United States. Constitution Constitutional law   United States     KF JK   2003-11-01 35
+p136
+aVThe Federalist Papers   Madison, James, 1751-1836 Jay, John, 1745-1829 Hamilton, Alexander, 1757-1804   The Federalist Papers by Alexander Hamilton en   Constitutional history   United States   Sources Constitutional law   United States     JK KF   1998-07-01 1196
+p137
+aVThe Government Class Book Designed for the Instruction of Youth in the Principles of Constitutional Government and the Rights and Duties of Citizens. Young, Andrew W. (Andrew White), 1802-1877 The Government Class Book by Andrew W.  Young en United States   Politics and government   Handbooks, manuals, etc. JK 2005-03-10 40
+p138
+aVOur Changing Constitution Pierson, Charles W. (Charles Wheeler), 1864-1934 Our Changing Constitution by Charles W.  Pierson en   Constitutional history   United States United States   Politics and government   JK 2004-11-20 14
+p139
+aVExperiments in Government and the Essentials of the Constitution Root, Elihu, 1845-1937 Experiments in Government and the Essentials of th en United States   Politics and government JK 2003-12-01 14
+p140
+aVHistory of the United States, Volume 3 Andrews, Elisha Benjamin, 1844-1917 History of the United States, Volume 3 by Andrews en United States   History E151 2007-12-05 70
+p141
+aVHistory of the United States, Volume 5 Andrews, Elisha Benjamin, 1844-1917 History of the United States, Volume 5 by Andrews en United States   History E151 2007-09-27 85
+p142
+aVThe History of the United States from 1492 to 1910, Volume 1  From Discovery of America October 12, 1492 to Battle of Lexington April 19, 1775 Hawthorne, Julian, 1846-1934 The History of the United States from 1492 to 1910 en United States   History E151 2004-12-01 19
+p143
+aVThe Campaign of Trenton 1776-77 Drake, Samuel Adams, 1833-1905 The Campaign of Trenton 1776-77 by Drake en   New Jersey   History   Revolution, 1775-1783 Trenton, Battle of, Trenton, N.J., 1776   E201 2008-03-03 16
+p144
+aVStories Of Ohio Howells, William Dean, 1837-1920 Stories Of Ohio by William Dean Howells en Ohio   History F476 2008-01-23 158
+p145
+aVA Journey to America in 1834 Heywood, Robert, 1786-1868 A Journey to America in 1834 by Robert Heywood en United States   Description and travel E151 2008-02-15 18
+p146
+aVOver the Rocky Mountains to Alaska Stoddard, Charles Warren, 1843-1909 Over the Rocky Mountains to Alaska by Stoddard en   Alaska   Description and travel West (U.S.)   Description and travel   F850.5 2007-10-03 46
+p147
+aVVon Haparanda bis San Francisco Reise-Erinnerungen Wasserzieher, Ernst, 1860-1927 Von Haparanda bis San Francisco by Wasserzieher de   Sweden   Description and travel Denmark   Description and travel Latvia   Description and travel Germany   Description and travel United States   Description and travel     DD DL DK E151   2004-05-01 27
+p148
+aVThomas Davis, Selections from his Prose and Poetry The Irish Parliament of James II.   Literary and Historical Essays.   Political Articles.   Poetical Works. Davis, Thomas Osborne, 1814-1845 Rolleston, T. W. (Thomas William), 1857-1920 [Commentator] Thomas Davis, Selections from his Prose and Poetry en   Poetry Essays Ireland   History   James II, 1685-1688 Ireland   Literary collections Ireland   History Ireland   Parliament   History     DA PR JC   2007-04-24 54
+p149
+aVThe Fight for a Free Sea: A Chronicle of the War of 1812 The Chronicles of America Series, Volume 17 Paine, Ralph Delahaye, 1871-1925 Johnson, Allen, 1870-1931 [Editor] The Fight for a Free Sea: A Chronicle of the War o en United States   History   War of 1812 E300 2006-07-30 30
+p150
+aVDiary of Samuel Pepys \u2014 Volume 18: September/October 1662 Pepys, Samuel, 1633-1703   Bright, Mynors, 1818-1883 [Translator] Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor] Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]   Diary of Samuel Pepys \u2014 Volume 18: September/Oct en   Cabinet officers   Great Britain   Diaries Diarists   Great Britain   Diaries Great Britain   History   Charles II, 1660-1685   Sources Pepys, Samuel, 1633-1703   Diaries Great Britain   Social life and customs   17th century   Sources   DA 2004-11-29 0
+p151
+aVThe Age of Invention: A Chronicle of Mechanical Conquest Chronicles of America seriesv. 37 Thompson, Holland, 1873-1940 The Age of Invention: A Chronicle of Mechanical Co en   Inventors   United States Inventions   History     E151 T   2001-11-01 67
+p152
+aVThe Sword of Antietam: A Story of the Nation's Crisis The Civil War Series, Volume 4 Altsheler, Joseph A. (Joseph Alexander), 1862-1919 The Sword of Antietam: A Story of the Nation's Cri en United States   History   Civil War, 1861-1865   Juvenile fiction PZ 2005-04-01 44
+p153
+aVThe Hispanic Nations of the New World: A Chronicle of Our Southern Neighbors Chronicles of America seriesv. 50 Shepherd, William R. (William Robert), 1871-1934 The Hispanic Nations of the New World: A Chronicle en   Latin America   History America   F1401 2002-01-01 14
+p154
+aVTom of the Raiders Bishop, Austin Tom of the Raiders by Austin Bishop en United States   History   Civil War, 1861-1865   Juvenile fiction PZ 2005-02-01 12
+p155
+aVFrank on the Lower Mississippi Castlemon, Harry, 1842-1915 Frank on the Lower Mississippi by Harry Castlemon en United States   History   Civil War, 1861-1865   Juvenile fiction PZ 2004-11-01 12
+p156
+aVBefore the Dawn A Story of the Fall of Richmond Altsheler, Joseph A. (Joseph Alexander), 1862-1919 Before the Dawn by Joseph A.  Altsheler en   United States   History   Civil War, 1861-1865   Fiction Richmond (Va.)   History   Civil War, 1861-1865   Fiction   PS 2007-05-04 39
+p157
+aVAilsa Paige: A Novel Chambers, Robert W. (Robert William), 1865-1933 Ailsa Paige: A Novel by Robert W.  Chambers en   War stories, American United States   History   Civil War, 1861-1865   Fiction   PS 2004-04-01 23
+p158
+aVThe Crisis \u2014 Volume 06 Churchill, Winston, 1871-1947 The Crisis \u2014 Volume 06 by Winston Churchill en United States   History   Civil War, 1861-1865   Fiction PS 2004-10-19 9
+p159
+aVThe Crisis \u2014 Complete Churchill, Winston, 1871-1947 The Crisis \u2014 Complete by Winston Churchill en United States   History   Civil War, 1861-1865   Fiction PS 2004-10-19 181
+p160
+aVThe Brigade Commander De Forest, John William, 1826-1906 The Brigade Commander by John William De Forest en United States   History   Civil War, 1861-1865   Fiction PS 2007-10-24 20
+p161
+aVA Daughter of the Union Madison, Lucy Foster, 1865-1932 A Daughter of the Union by Lucy Foster Madison en 2010-06-27 15
+p162
+aVSi Klegg, Book 1  His Transformation from a Raw Recruit to a Veteran McElroy, John, 1846-1929 Si Klegg, Book 1 by John McElroy en   United States   History   Civil War, 1861-1865   Fiction Indiana   History   Civil War, 1861-1865   Fiction   PS 2010-03-25 50
+p163
+aVRaiding with Morgan Dunn, Byron A. (Byron Archibald), 1842-1926 Raiding with Morgan by Byron A.  Dunn en   Morgan, John Hunt, 1825-1864   Fiction United States   History   Civil War, 1861-1865   Fiction   PZ 2009-08-24 27
+p164
+aVA Man of the People: A Drama of Abraham Lincoln Dixon, Thomas, 1864-1946 A Man of the People: A Drama of Abraham Lincoln en Lincoln, Abraham, 1809-1865   Drama PS 2008-06-16 17
+p165
+aVThe Soldier Boyor, Tom Somers in the Army A Story of the Great Rebellion Optic, Oliver, 1822-1897 The Soldier Boyor, Tom Somers in the Army en United States   History   Civil War, 1861-1865   Juvenile fiction PZ 2005-01-04 17
+p166
+aVWestways: A Village Chronicle Mitchell, S. Weir (Silas Weir), 1829-1914 Westways: A Village Chronicle by S. Weir  Mitchell en   Love stories Villages   Fiction Pennsylvania   History   19th century   Fiction United States   History   Civil War, 1861-1865   Fiction   PS 2004-11-26 17
+p167
+aVSongs and Ballads of the Southern People 1861-1865 Moore, Frank, 1823-1904 [Editor] Songs and Ballads of the Southern People en 2011-03-04 28
+p168
+aVUlysses S. Grant Allen, Walter, 1840-1907 Ulysses S. Grant by Walter Allen en Grant, Ulysses S. (Ulysses Simpson), 1822-1885 E660 2009-03-22 44
+p169
+aVReminiscences of two years with the colored troops Personal Narratives of events in the War of the Rebellion, being papers read before the Rhode Island Soldiers and Sailors Historical Society. No. 7, Second Series Addeman, Joshua M. (Joshua Melancthon), 1840-1930 Reminiscences of two years with the colored troops en   Louisiana   History   Civil War, 1861-1865 United States. Army. Colored Heavy Artillery Regiment, 8th (1864) United States. Army. Rhode Island Heavy Artillery Regiment (Colored), 14th (1863-1864) United States. Army. Colored Heavy Artillery Regiment, 11th (1864-1865) United States   History   Civil War, 1861-1865   Personal narratives   E456 2008-10-01 28
+p170
+aVHistory of the Sixteenth Connecticut Volunteers History of the 16th Connecticut Volunteers Blakeslee, B. F. (Bernard F.) History of the Sixteenth Connecticut Volunteers en   United States. Army. Connecticut Infantry Regiment, 16th (1862-1865) United States   History   Civil War, 1861-1865   Regimental histories   E456 2010-04-02 17
+p171
+aVThe Citizen-Soldier or, Memoirs of a Volunteer Beatty, John, 1828-1914 The Citizen-Soldier by John Beatty en   Soldiers   Ohio   Biography Beatty, John, 1828-1914 United States   History   Civil War, 1861-1865   Regimental histories United States. Army. Ohio Infantry Regiment, 3rd (1861-1864)   Biography United States   History   Civil War, 1861-1865   Personal narratives   E456 2007-01-27 49
+p172
+aVMilitary Reminiscences of the Civil War, Volume 1: April 1861-November 1863 Cox, Jacob D. (Jacob Dolson), 1828-1900 Military Reminiscences of the Civil War, Volume 1: en   United States   History   Civil War, 1861-1865 United States   History   Civil War, 1861-1865   Personal narratives   E456 2004-11-01 28
+p173
+aVPersonal Recollections of Chickamauga A Paper Read before the Ohio Commandery of the Military Order of the Loyal Legion of the United States Carnahan, James R. (James Richards), 1840-1905 Personal Recollections of Chickamauga by Carnahan en 2011-03-15 16
+p174
+aVThe Bull-Run Rout Scenes Attending the First Clash of Volunteers in the Civil War Clement, Edward Henry, 1843-1920 The Bull-Run Rout by Edward Henry Clement en 2010-06-23 7
+p175
+aVIn and Out of Rebel Prisons Cooper, A. (Alonzo), 1830-1919 In and Out of Rebel Prisons by A.  Cooper en   Cooper, A. (Alonzo), 1830-1919 United States   History   Civil War, 1861-1865   Prisoners and prisons New York (State)   Biography Soldiers   New York (State)   Biography United States   History   Civil War, 1861-1865   Personal narratives   E456 2010-04-05 13
+p176
+aa(lp177
+g2
+aVHistory of Morgan's Cavalry Duke, Basil Wilson, 1838-1916 History of Morgan's Cavalry by Basil Wilson Duke en   Morgan, John Hunt, 1825-1864 United States   History   Civil War, 1861-1865   Regimental histories Confederate States of America. Army. Morgan\u2019s Cavalry Division   E456 2010-02-08 26
+p178
+aVHistory of the 159th Regiment, N.Y.S.V. Duffy, Edward, 1830?- History of the 159th Regiment, N.Y.S.V. by Duffy en   New York (State)   History   Civil War, 1861-1865   Regimental histories United States   History   Civil War, 1861-1865   Regimental histories United States. Army. New York Infantry Regiment, 159th (1862-1865) United States   History   Civil War, 1861-1865   Personal narratives   E456 2008-01-07 7
+p179
+aVStonewall Jackson and the American Civil War Henderson, G. F. R. (George Francis Robert), 1854-1903 Wolseley, Garnet Wolseley, Viscount, 1833-1913 [Author of introduction, etc.] Stonewall Jackson and the American Civil War en   Jackson, Stonewall, 1824-1863 Generals   Confederate States of America   Biography Confederate States of America. Army   Officers   Biography United States   History   Civil War, 1861-1865   Campaigns   E456 2004-05-01 136
+p180
+aVPersonal Memoirs of U. S. Grant \u2014 Volume 1 Grant, Ulysses S. (Ulysses Simpson), 1822-1885 Personal Memoirs of U. S. Grant \u2014 Volume 1 en   Grant, Ulysses S. (Ulysses Simpson), 1822-1885 Generals   United States   Biography Mexican War, 1846-1848   Personal narratives United States. Army   Biography Presidents   United States   Biography United States   History   Civil War, 1861-1865   Campaigns   E660 2004-06-01 26
+p181
+aVDiary from November 12, 1862, to October 18, 1863 De Gurowski, Adam G., count, 1805-1866 Diary from November 12, 1862, to October 18, 1863 en   De Gurowski, Adam G., count, 1805-1866   Diaries United States   Politics and government   1861-1865 United States   History   Civil War, 1861-1865   Personal narratives   E456 2009-06-28 5
+p182
+aVA Historic Sketch, Lest We Forget Company "E," 26th Ohio Infantry in the War for the Union, 1861-65 Kelly, Walden A Historic Sketch, Lest We Forget Company "E," 26t en   United States. Army. Ohio Infantry Regiment, 26th (1861-1865) United States   History   Civil War, 1861-1865   Regimental histories   E456 2010-04-16 8
+p183
+aVA Rebel War Clerk's Diary at the Confederate States Capital Jones, J. B. (John Beauchamp), 1810-1866 A Rebel War Clerk's Diary at the Confederate State en   United States   History   Civil War, 1861-1865   Personal narratives, Confederate Jones, J. B. (John Beauchamp), 1810-1866   Diaries Confederate States of America   History   E456 2010-01-26 106
+p184
+aVPersonal Recollections of a Cavalryman With Custer's Michigan Cavalry Brigade in the Civil War Kidd, James Harvey, 1840-1913 Personal Recollections of a Cavalryman by Kidd en   Kidd, James Harvey, 1840-1913 Soldiers   Michigan   Biography Michigan   History   Civil War, 1861-1865   Regimental histories Michigan   History   Civil War, 1861-1865   Personal narratives United States. Army. Michigan Cavalry Brigade (1862-1865) United States   History   Civil War, 1861-1865   Regimental histories United States   History   Civil War, 1861-1865   Personal narratives   E456 2009-08-04 87
+p185
+aVThe Papers And Writings Of Abraham Lincoln \u2014 Volume 2: 1843-1858 Lincoln, Abraham, 1809-1865 Lapsley, Arthur Brooks [Editor] The Papers And Writings Of Abraham Lincoln \u2014 Vol en   United States   Politics and government   1841-1845 United States   Politics and government   1845-1861 Lincoln, Abraham, 1809-1865   Correspondence   E456 2004-09-30 35
+p186
+aVLincoln's Gettysburg Address  Given November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA Lincoln, Abraham, 1809-1865 Lincoln's Gettysburg Address by Abraham Lincoln en   Lincoln, Abraham, 1809-1865. Gettysburg address Soldiers' National Cemetery (Gettysburg, Pa.) Consecration of cemeteries   Pennsylvania   Gettysburg   E456 1973-11-01 177
+p187
+aVThe Raid of John Brown at Harper's Ferry as I Saw It Leech, Samuel Vanderlip, 1837-1916 The Raid of John Brown at Harper's Ferry as I Saw  en 2011-02-28 47
+p188
+aVBattle-Pieces and Aspects of the War Melville, Herman, 1819-1891 Battle-Pieces and Aspects of the War by Melville en   United States   History   Civil War, 1861-1865   Poetry War poetry, American   PS 2004-05-01 356
+p189
+aVAndersonville: A Story of Rebel Military Prisons \u2014 Volume 4 McElroy, John, 1846-1929 Andersonville: A Story of Rebel Military Prisons  en   Military prisons United States   History   Civil War, 1861-1865   Prisoners and prisons Andersonville Prison Confederate States of America. Army   Prisons   E456 2004-06-01 10
+p190
+aVThe Empty Sleeve or, The Life and Hardships of Henry H. Meacham, in the Union Army Meacham, Henry H. The Empty Sleeve by Henry H. Meacham en 2011-03-15 5
+p191
+aVCapturing a Locomotive  A History of Secret Service in the Late War. Pittenger, William, 1840-1904 Capturing a Locomotive by William Pittenger en 2011-07-17 35
+p192
+aVHistory of the Confederate Powder Works Rains, George Washington, 1817-1898 History of the Confederate Powder Works by Rains en   United States   History   Civil War, 1861-1865 Speeches, addresses, etc. Confederate Powder Works   E456 2008-02-07 38
+p193
+aVBeechenbrook A Rhyme of the War Preston, Margaret Junkin, 1820-1897 Beechenbrook by Margaret Junkin Preston en United States   History   Civil War, 1861-1865   Poetry   Confederate PS 2005-08-08 5
+p194
+aVVillage Life in America 1852-1872 Including the period of the American Civil War as told in the diary of a school-girl Richards, Caroline Cowles Village Life in America 1852-1872 by Richards en 2010-09-18 125
+p195
+aVLife of Rear Admiral John Randolph Tucker Rochelle, James Henry, 1826-1889 Life of Rear Admiral John Randolph Tucker en   Tucker, John Randolph, 1812-1883 Amazon River   Navigation United States   History   Civil War, 1861-1865   Naval operations   E456 2008-10-30 19
+p196
+aVThe Cruise of the Alabama and the Sumter  From the Private Journals and Other Papers of Commander R. Semmes, C.S.N., and Other Officers Semmes, Raphael, 1809-1877 The Cruise of the Alabama and the Sumter by Semmes en   Sumter (Confederate cruiser) Alabama (Screw sloop) United States   History   Civil War, 1861-1865   Naval operations Confederate States of America. Navy   E456 2004-08-12 35
+p197
+aVHow the Flag Became Old Glory Scott, Emma Look, Mrs., 1858- Valentine, A. C. [Illustrator] How the Flag Became Old Glory by Scott en   Flags   United States United States   History   E151 2009-01-20 30
+p198
+aVMemoirs of General W. T. Sherman, Volume II., Part 4 Sherman, William T. (William Tecumseh), 1820-1891 Memoirs of General W. T. Sherman, Volume II., Part en   Sherman, William T. (William Tecumseh), 1820-1891 Generals   United States   Biography United States. Army   Biography United States   History   Civil War, 1861-1865   Personal narratives United States   History   Civil War, 1861-1865   Campaigns   E456 2004-06-01 16
+p199
+aVAbraham Lincoln and the Union: A Chronicle of the Embattled North Chronicles of America seriesv. 29 Stephenson, Nathaniel W. (Nathaniel Wright), 1867-1935 Abraham Lincoln and the Union: A Chronicle of the  en   United States   History   Civil War, 1861-1865 United States   Politics and government   1861-1865 Lincoln, Abraham, 1809-1865     E456 E151   2001-09-01 52
+p200
+aVThe Story of the Raising and Organization of a Regiment of Volunteers in 1862 Military Order of the Loyal Legion of the United States, Commandery of the District of Columbia, War Papers 46 Spear, Ellis, 1834-1917 The Story of the Raising and Organization of a Reg en 2010-05-30 8
+p201
+aVReply of the Philadelphia Brigade Association to the Foolish and Absurd Narrative of Lieutenant Frank A. Haskell Various Reply of the Philadelphia Brigade Association to t en 2010-08-30 5
+p202
+aVPersonal Recollections of the Civil War By One Who Took Part in It as a Private Soldier in the 21st Volunteer Regiment of Infantry from Massachusetts Stone, James Madison Personal Recollections of the Civil War by Stone en 2010-07-15 27
+p203
+aVAdventures and Reminiscences of a VolunteerOr, A Drummer Boy from Maine Ulmer, George T. Adventures and Reminiscences of a VolunteerOr, A en United States   History   Civil War, 1861-1865   Personal narratives E456 2010-05-04 20
+p204
+aVThe Story of a Common Soldier of Army Life in the Civil War, 1861-1865 Stillwell, Leander, 1843-1934 The Story of a Common Soldier of Army Life in the  en   Soldiers   Illinois   Biography Stillwell, Leander, 1843-1934 United States. Army. Illinois Infantry Regiment, 61st (1862-1865)   Biography United States   History   Civil War, 1861-1865   Personal narratives   E456 2008-09-08 74
+p205
+aVThe Shades of the Wilderness  A Story of Lee's Great Stand The Civil War Series, Volume 7 Altsheler, Joseph A. (Joseph Alexander), 1862-1919 The Shades of the Wilderness by Altsheler en United States   History   Civil War, 1861-1865   Juvenile fiction PZ 2004-06-01 42
+p206
+aVThe Guns of Shiloh: A Story of the Great Western Campaign The Civil War Series, Volume 2 Altsheler, Joseph A. (Joseph Alexander), 1862-1919 The Guns of Shiloh: A Story of the Great Western C en   United States   History   Civil War, 1861-1865   Juvenile fiction Shiloh, Battle of, Tenn., 1862   Juvenile fiction   PZ 2004-03-01 77
+p207
+aVKincaid's Battery Cable, George Washington, 1844-1925 Kimball, Alonzo, 1874-1923 [Illustrator] Kincaid's Battery by George Washington Cable en United States   History   Civil War, 1861-1865   Fiction PS 2004-03-01 35
+p208
+aVThe Crisis \u2014 Volume 07 Churchill, Winston, 1871-1947 The Crisis \u2014 Volume 07 by Winston Churchill en United States   History   Civil War, 1861-1865   Fiction PS 2004-10-19 7
+p209
+aVThe Crisis \u2014 Volume 01 Churchill, Winston, 1871-1947 The Crisis \u2014 Volume 01 by Winston Churchill en United States   History   Civil War, 1861-1865   Fiction PS 2004-10-19 83
+p210
+aVA Little Union Scout Harris, Joel Chandler, 1848-1908 Gibbs, George, 1870-1942 [Illustrator] A Little Union Scout by Joel Chandler Harris en   African Americans   Juvenile fiction United States   History   Civil War, 1861-1865   Juvenile fiction Soldiers   Juvenile fiction     PS PZ   2007-12-15 38
+p211
+aVWith Lee in Virginia: A Story of the American Civil War Henty, G. A. (George Alfred), 1832-1902 With Lee in Virginia: A Story of the American Civi en   Lee, Robert E. (Robert Edward), 1807-1870   Fiction United States   History   Civil War, 1861-1865   Fiction Virginia   History   Civil War, 1861-1865   Fiction     PR PZ   2001-09-01 83
+p212
+aVThe Long Roll Johnston, Mary, 1870-1936 The Long Roll by Mary Johnston en   War stories Jackson, Stonewall, 1824-1863   Fiction United States   History   Civil War, 1861-1865   Fiction   PS 2007-07-13 37
+p213
+aVWithin The Enemy's Lines Optic, Oliver, 1822-1897 Within The Enemy's Lines by Oliver Optic en   War stories Steamboats   Juvenile fiction United States   History   Civil War, 1861-1865   Naval operations   Juvenile fiction   PZ 2006-06-15 10
+p214
+aVThe Young Lieutenant or, The Adventures of an Army Officer Optic, Oliver, 1822-1897 The Young Lieutenant by Oliver Optic en United States   History   Civil War, 1861-1865   Fiction PZ 2008-06-23 12
+p215
+aVThe Littlest Rebel Peple, Edward, 1869-1924 The Littlest Rebel by Edward Peple en United States   History   Civil War, 1861-1865   Juvenile fiction PZ 2005-03-19 12
+p216
+aVLove under Fire Parrish, Randall, 1858-1923 Kimball, Alonzo, 1874-1923 [Illustrator] Love under Fire by Randall Parrish en United States   History   Civil War, 1861-1865   Fiction PS 2004-04-01 31
+p217
+aVThe Strange Story of Harper's Ferry With Legends of the Surrounding Country Barry, Joseph The Strange Story of Harper's Ferry by Barry en 2011-03-02 64
+p218
+aVReminiscences of Two Years in the United States Navy Batten, John M. (John Mullin), 1837-1916 Reminiscences of Two Years in the United States Na en   United States   History   Civil War, 1861-1865   Naval operations United States   History   Civil War, 1861-1865   Personal narratives   E456 2008-06-12 19
+p219
+aVA Military Genius Life of Anna Ella Carroll of Maryland Blackwell, Sarah Ellen, 1828- A Military Genius by Sarah Ellen Blackwell en   Carroll, Anna Ella, 1815-1894 United States   History   Civil War, 1861-1865   E456 2007-06-23 20
+p220
+aVOur BatteryOr, The Journal of Company B, 1st O.V.A. Cutter, O. P. (Orlando Phelps) Our BatteryOr, The Journal of Company B, 1st O.V en   United States. Army. Ohio Light Artillery Regiment, 1st (1861-1865). Battery B United States   History   Civil War, 1861-1865   Regimental histories   E456 2010-04-05 6
+p221
+aVChancellorsville and Gettysburg Campaigns of the Civil War - VI Doubleday, Abner, 1819-1893 Chancellorsville and Gettysburg by Abner Doubleday en   United States   History   Civil War, 1861-1865 Doubleday, Abner, 1819-1893 Chancellorsville, Battle of, Chancellorsville, Va., 1863 Gettysburg, Battle of, Gettysburg, Pa., 1863   E456 2007-03-07 32
+p222
+aVThe Creed of the Old South 1865-1915 Gildersleeve, Basil L. (Basil Lanneau), 1831-1924 The Creed of the Old South 1865-1915 en   United States   History   Civil War, 1861-1865 Greece   History   Peloponnesian War, 431-404 B.C.   E456 2008-01-14 36
+p223
+aVAbraham Lincoln, a History \u2014 Volume 02   Nicolay, John G. (John George), 1832-1901 Hay, John, 1838-1905   Abraham Lincoln, a History \u2014 Volume 02 by Hay en   United States   History   Civil War, 1861-1865 Lincoln, Abraham, 1809-1865 Presidents   United States   Biography   E456 2004-03-01 60
+p224
+aVOn the Trail of Grant and Lee Hill, Frederick Trevor, 1866-1930 On the Trail of Grant and Lee by Hill en   Grant, Ulysses S. (Ulysses Simpson), 1822-1885 Lee, Robert E. (Robert Edward), 1807-1870   E660 2003-05-01 12
+p225
+aVThe Third Day at Stone's River Kniffin, G. C. The Third Day at Stone's River by G. C. Kniffin en Stones River, Battle of, Murfreesboro, Tenn., 1862-1863 E456 2010-04-18 4
+p226
+aVThe Supplies for the Confederate Army, how they were obtained in Europe and how paid for. Huse, Caleb, 1831-1905 The Supplies for the Confederate Army, by Huse en   United States   History   Civil War, 1861-1865 Confederate States of America   Foreign relations Confederate States of America. Army   Supplies and stores   E456 2008-01-31 18
+p227
+aVSpeeches & Letters of Abraham Lincoln, 1832-1865 Speeches and Letters of Abraham Lincoln, 1832-1865 Lincoln, Abraham, 1809-1865 Roe, Merwin [Editor] Speeches & Letters of Abraham Lincoln, 1832-1865 en   Lincoln, Abraham, 1809-1865   Oratory Speeches, addresses, etc., American Lincoln, Abraham, 1809-1865   Correspondence   E456 2005-01-17 264
+p228
+aVLincoln's Inaugurals, Addresses and Letters (Selections) Lincoln, Abraham, 1809-1865 Dodge, Daniel Kilham, 1863-1933 [Editor] Lincoln's Inaugurals, Addresses and Letters (Selec en   Lincoln, Abraham, 1809-1865   Oratory Lincoln, Abraham, 1809-1865 Lincoln, Abraham, 1809-1865   Correspondence Presidents   United States   Inaugural addresses   E456 2004-12-06 7
+p229
+aVThe Papers And Writings Of Abraham Lincoln \u2014 Volume 4: The Lincoln-Douglas Debates Lincoln, Abraham, 1809-1865 Lapsley, Arthur Brooks [Editor] The Papers And Writings Of Abraham Lincoln \u2014 Vol en Lincoln-Douglas Debates, Ill., 1858 E456 2004-09-30 41
+p230
+aVThe Battle of Allatoona, October 5th, 1864 Ludlow, William, 1843-1901 The Battle of Allatoona, October 5th, 1864 en   Georgia   History   Civil War, 1861-1865 Allatoona Pass, Battle of, Ga., 1864 United States   History   Civil War, 1861-1865   Campaigns   E456 2010-05-04 14
+p231
+aVA History of Lumsden's Battery, C.S.A.   Maxwell, James Robert, 1844- Little, George, 1838-1924   A History of Lumsden's Battery, C.S.A. by Little en   Confederate States of America. Army. Lumsden's Battery United States   History   Civil War, 1861-1865   Regimental histories   Lumsden's Battery United States   History   Civil War, 1861-1865   Campaigns   E456 2008-08-28 20
+p232
+aVThe Papers And Writings Of Abraham Lincoln \u2014 Volume 7: 1863-1865 Lincoln, Abraham, 1809-1865 Lapsley, Arthur Brooks [Editor] The Papers And Writings Of Abraham Lincoln \u2014 Vol en   United States   History   Civil War, 1861-1865 United States   Politics and government   1861-1865 Lincoln, Abraham, 1809-1865   Correspondence   E456 2004-09-30 116
+p233
+aVAndersonville: A Story of Rebel Military Prisons \u2014 Volume 1 McElroy, John, 1846-1929 Andersonville: A Story of Rebel Military Prisons  en   Military prisons United States   History   Civil War, 1861-1865   Prisoners and prisons Andersonville Prison Confederate States of America. Army   Prisons   E456 2004-06-01 28
+p234
+aVAndersonville: A Story of Rebel Military Prisons McElroy, John, 1846-1929 Andersonville: A Story of Rebel Military Prisons en   Military prisons United States   History   Civil War, 1861-1865   Prisoners and prisons Andersonville Prison Confederate States of America. Army   Prisons   E456 2004-06-01 472
+p235
+aVDiary of Battery A, First Regiment Rhode Island Light Artillery Reichardt, Theodore Diary of Battery A, First Regiment Rhode Island Li en   Rhode Island   History   Civil War, 1861-1865   Regimental histories Reichardt, Theodore   Diaries United States   History   Civil War, 1861-1865   Regimental histories United States. Army. Rhode Island Light Artillery Regiment, 1st (1861-1865). Battery A   E456 2010-04-24 8
+p236
+aVDaring and Suffering: A History of the Great Railroad Adventure Pittenger, William, 1840-1904 Daring and Suffering: by William Pittenger en   Chattanooga Railroad Expedition, 1862 United States   History   Civil War, 1861-1865   Campaigns   E456 2007-02-02 22
+p237
+aVThe Battle of Spring Hill, Tennessee read after the stated meeting held February 2d, 1907 Shellenberger, John K., 1843?- The Battle of Spring Hill, Tennessee en   Tennessee   History Spring Hill, Battle of, Spring Hill, Maury County, Tenn., 1864 United States   History   Civil War, 1861-1865   Campaigns   E456 2008-03-03 20
+p238
+aVForty-Six Years in the Army Schofield, John McAllister, 1831-1906 Forty-Six Years in the Army by Schofield en   Generals   United States   Biography United States   History   Civil War, 1861-1865   Biography United States. Army   Biography United States   History, Military   To 1900     E151 E456   2007-05-11 22
+p239
+aVMemoirs of General William T. Sherman \u2014 Complete Sherman, William T. (William Tecumseh), 1820-1891 Memoirs of General William T. Sherman \u2014 Complete en   Sherman, William T. (William Tecumseh), 1820-1891 Generals   United States   Biography United States. Army   Biography United States   History   Civil War, 1861-1865   Personal narratives United States   History   Civil War, 1861-1865   Campaigns   E456 2004-06-01 1028
+p240
+aVThe Wound Dresser A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion Whitman, Walt, 1819-1892 Bucke, Richard Maurice [Editor] The Wound Dresser by Walt Whitman en 2011-03-30 44
+p241
+aVBetween the Lines Secret Service Stories Told Fifty Years After Smith, Henry Bascom, -1916 Between the Lines by Henry Bascom Smith en   United States   History   Civil War, 1861-1865 United States. Secret Service United States   History   Civil War, 1861-1865   Anecdotes   E456 2008-02-07 30
+p242
+aVLights and Shadows in Confederate Prisons A Personal Experience, 1864-5 Sprague, Homer B. (Homer Baxter), 1829-1918 Lights and Shadows in Confederate Prisons en United States   History   Civil War, 1861-1865   Prisoners and prisons E456 2008-01-21 13
+p243
+aVWar Poetry of the South Simms, William Gilmore, 1806-1870 [Editor] War Poetry of the South en   Southern States   Poetry United States   History   Civil War, 1861-1865   Poetry American poetry   Southern States War poetry, American   Southern States   PS 2005-08-01 92
+p244
+aVCaptains of the Civil War: A Chronicle of the Blue and the Gray Chronicles of America seriesv. 31 Wood, William Charles Henry, 1864-1947 Captains of the Civil War: A Chronicle of the Blue en   United States   History   Civil War, 1861-1865   Biography United States   History   Civil War, 1861-1865   Campaigns   E456 2001-05-01 177
+p245
+aVRowdy of the Cross L Bower, B. M., 1874-1940 Rowdy of the Cross L by B. M. Bower en   Western stories Cowboys   Fiction Ranchers   Fiction   PS 1999-09-01 26
+p246
+aVThe Scarecrow and Other Stories Wormser, G. Ranger The Scarecrow and Other Stories by Wormser en 2012-06-18 9
+p247
+aVThe Quirt Bower, B. M., 1874-1940 Fischer, Anton Otto, 1882-1962 [Illustrator] The Quirt by B. M. Bower en Western stories PS 2006-09-03 42
+p248
+aa(lp249
+g2
+aVThe Hidden Children Chambers, Robert W. (Robert William), 1865-1933 The Hidden Children by Robert W.  Chambers en   New York (State)   History   Colonial period, ca. 1600-1775   Fiction Indians of North America   New York (State)   Fiction   PS 2004-01-01 72
+p250
+aVBetty Zane Early American Heroine Grey, Zane, 1872-1939 Betty Zane by Zane Grey en   Historical fiction Zane, Betty   Fiction Ohio River Valley   Fiction Wetzel, Lewis, 1763-1808   Fiction Indians of North America   Wars   1750-1815   Fiction Women pioneers   Fiction Fort Henry (W. Va.)   Fiction Frontier and pioneer life   Fiction Biographical fiction   PS 1998-04-01 135
+p251
+aVThe Seventh Man Brand, Max, 1892-1944 The Seventh Man by Max Brand en   Western stories Fiction   PS 1999-09-01 108
+p252
+aVThe Rainbow Trail Grey, Zane, 1872-1939 The Rainbow Trail by Zane Grey en   Western stories Arizona   Fiction Frontier and pioneer life   Fiction   PS 2004-02-01 130
+p253
+aVBar-20 Days Bar-Twenty Days Mulford, Clarence Edward, 1883-1956 Bar-20 Days by Clarence Edward Mulford en   Western stories Cassidy, Hopalong (Fictitious character)   Fiction   PS 2006-04-22 97
+p254
+aVReed Anthony, Cowman: An Autobiography Adams, Andy, 1859-1935 Reed Anthony, Cowman: An Autobiography by Adams en   Texas   Fiction Ranchers   Fiction   PS 2004-07-11 46
+p255
+aVThe Gringos  A Story Of The Old California Days In 1849 Bower, B. M., 1874-1940 Fischer, Anton Otto, 1882-1962 [Illustrator] The Gringos by B. M. Bower en   Western stories California   Fiction Gold mines and mining   Fiction   PS 2004-04-01 61
+p256
+aVChip, of the Flying U Bower, B. M., 1874-1940 Chip, of the Flying U by B. M. Bower en   Western stories Cowboys   Fiction Ranch life   Fiction Montana   Fiction   PS 2005-11-01 64
+p257
+aVThe Flying U's Last Stand Bower, B. M., 1874-1940 The Flying U's Last Stand by B. M. Bower en   Western stories Cowboys   Fiction Ranch life   Fiction Montana   Fiction   PS 1999-05-01 51
+p258
+aVSkyrider Bower, B. M., 1874-1940 Fischer, Anton Otto, 1882-1962 [Illustrator] Skyrider by B. M. Bower en Western stories PS 2005-10-14 39
+p259
+aVThe Call of the Canyon Grey, Zane, 1872-1939 The Call of the Canyon by Zane Grey en   Western stories Fiancés   Fiction Frontier and pioneer life   West (U.S.)   Fiction World War, 1914-1918   Veterans   Fiction Arizona   Fiction   PS 1999-09-01 214
+p260
+aVTo the Last Man Grey, Zane, 1872-1939 To the Last Man by Zane Grey en   Western stories Cattle stealing   Fiction Love stories Historical fiction Vendetta   Fiction Illegitimate children   Fiction Arizona   Fiction   PS 2000-02-01 116
+p261
+aVThe Last of the Plainsmen Grey, Zane, 1872-1939 The Last of the Plainsmen by Zane Grey en   Western stories Jones, Charles Jesse, 1844-1919   Fiction Pioneers   Fiction Biographical fiction   PS 2000-02-01 129
+p262
+aVThe Redheaded Outfield, and Other Baseball Stories The redheaded outfield   The rube   The rube's pennant   The rube's honeymoon   The rube's Waterloo   Breaking into fast company   The knocker   The winning ball   False colors   The manager of Madden's Hill   Old Well-well. Grey, Zane, 1872-1939 The Redheaded Outfield, and Other Baseball Stories en   Fiction Short stories Baseball stories, American   PS 1996-01-01 67
+p263
+aVThe Cave of Gold A Tale of California in '49 McNeil, Everett, 1862-1929 The Cave of Gold by Everett McNeil en California   Gold discoveries   Juvenile fiction PZ 2006-12-17 75
+p264
+aVSunset Pass or Running the Gauntlet Through Apache Land King, Charles, 1844-1933 Sunset Pass by Charles King en   Western stories Adventure stories Frontier and pioneer life   West (U.S.)   Fiction Apache Indians   Fiction   PS 2006-11-27 66
+p265
+aVLetters on Demonology and Witchcraft Scott, Walter, 1771-1832 Morley, Henry, 1822-1894 [Editor] Letters on Demonology and Witchcraft by Scott en   Demonology Witchcraft   BF 2004-12-25 236
+p266
+aVThe Witchcraft Delusion in Colonial Connecticut (1647-1697) Taylor, John M. (John Metcalf), 1845-1918 The Witchcraft Delusion in Colonial Connecticut (1 en   Witchcraft   Connecticut   History Connecticut   History   Colonial period, ca. 1600-1775   BF 2004-05-01 157
+p267
+aVSalem Witchcraft and Cotton Mather A Reply Upham, Charles Wentworth, 1802-1875 Salem Witchcraft and Cotton Mather by Upham en   Witchcraft   Massachusetts   Salem   History   17th century Salem (Mass.)   History   Colonial period, ca. 1600-1775 Mather, Cotton, 1663-1728   BF 2008-10-20 114
+p268
+aVWitchcraft and Devil Lore in the Channel Islands  Transcripts from the Official Records of the Guernsey Royal Court, with an English Translation and Historical Introduction Pitts, John Linwood, 1836-1917 Witchcraft and Devil Lore in the Channel Islands en   Witchcraft   Channel Islands Trials (Witchcraft)   Channel Islands Channel Islands   History   BF 2005-12-02 118
+p269
+aVBy Water to the Columbian Exposition Wisthaler, Johanna Sara, 1868- By Water to the Columbian Exposition by Wisthaler en   Great Lakes (North America)   Description and travel New York (State) World's Columbian Exposition (1893 : Chicago, Ill.)   F106 2005-12-01 9
+p270
+aVA History of Witchcraft in England from 1558 to 1718 Notestein, Wallace, 1878-1969 A History of Witchcraft in England from 1558 to 17 en Witchcraft   England   History BF 2010-03-05 300
+p271
+aVSalem Witchcraft, Volumes I and II With an Account of Salem Village and a History of Opinions on Witchcraft and Kindred Subjects Upham, Charles Wentworth, 1802-1875 Salem Witchcraft, Volumes I and II by Upham en   Witchcraft   Massachusetts   Salem   History   17th century Salem (Mass.)   History   Colonial period, ca. 1600-1775   BF 2006-02-24 492
+p272
+aVJournal of a Residence on a Georgian Plantation: 1838-1839 Kemble, Fanny, 1809-1893 Journal of a Residence on a Georgian Plantation: 1 en   Kemble, Fanny, 1809-1893   Diaries Plantation life   Georgia   History   19th century Georgia   Social life and customs Plantation owners' spouses   Georgia   Diaries Slavery   Georgia   History   19th century   F206 2004-05-01 263
+p273
+aVThe Great Keinplatz Experiment and Other Tales of Twilight and the Unseen The Brown Hand\u2014The Usher of Lea House School\u2014B. 24\u2014The Great Keinplatz Experiment\u2014Cyprian Overbeck Wells\u2014Playing with Fire\u2014The Ring of Thoth\u2014The Los Amigos Fiasco\u2014How It Happened\u2014Lot No. 249\u2014"De Profundis"\u2014The Lift Doyle, Arthur Conan, 1859-1930 The Great Keinplatz Experiment and Other Tales of  en 2010-06-11 84
+p274
+aVJournal of a Voyage to Brazil And Residence There During Part of the Years 1821, 1822, 1823 Callcott, Maria, Lady, 1785-1842 Journal of a Voyage to Brazil by Callcott en Brazil   Description and travel F2501 2007-04-22 94
+p275
+aVField Hospital and Flying Column Being the Journal of an English Nursing Sister in Belgium & Russia Thurstan, Violetta, 1879-1978 Field Hospital and Flying Column by Thurstan en   World War, 1914-1918   Personal narratives World War, 1914-1918   Hospitals, charities, etc.   D501 2006-01-23 57
+p276
+aVThe Mechanical Properties of Wood Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing Record, Samuel J. (Samuel James), 1881-1945 The Mechanical Properties of Wood by Record en   Wood   Testing Wood   TA 2004-05-01 1689
+p277
+aVWood-Carving: Design and Workmanship Jack, George Lethaby, W. R. (William Richard), 1857-1931 [Editor] Wood-Carving: Design and Workmanship by Jack en Wood-carving NK 2007-07-19 597
+p278
+aVThe Scientific American Boy  Or, The Camp at Willow Clump Island Bond, A. Russell (Alexander Russell), 1876- The Scientific American Boy by A. Russell  Bond en   Woodwork Sports Camping   TT 2005-05-15 171
+p279
+aVParis War Days Diary of an American Barnard, Charles Inman, 1850- Paris War Days by Charles Inman Barnard en   Paris (France)   History   1914-1918 World War, 1914-1918   Personal narratives   DC 2006-02-01 32
+p280
+aVMission Furniture: How to Make It, Part 1 Windsor, H. H. (Henry Haven), 1859-1924 Mission Furniture: How to Make It, Part 1 en   Furniture, Mission   Design and construction Furniture making   Amateurs' manuals   TT 2007-12-08 1292
+p281
+aVCarpentry for Boys In a Simple Language, Including Chapters on Drawing, Laying Out Work, Designing and Architecture With 250 Original Illustrations Zerbe, James Slough, 1850- Carpentry for Boys by James Slough Zerbe en Carpentry TH 2007-03-07 435
+p282
+aVThrough the Iron Bars: Two Years of German Occupation in Belgium Cammaerts, Emile, 1878-1953 Raemaekers, Louis, 1869-1956 [Illustrator] Through the Iron Bars: Two Years of German Occupat en   Belgium   History   German occupation, 1914-1918 World War, 1914-1918   Atrocities   D501 2004-06-01 58
+p283
+aVThe Irish on the Somme Being a Second Series of 'The Irish at the Front' MacDonagh, Michael, 1862-1946 The Irish on the Somme by Michael MacDonagh en 2011-01-10 73
+p284
+aVWith the Turks in Palestine Aaronsohn, Alexander, 1888-1948 With the Turks in Palestine by Alexander Aaronsohn en   World War, 1914-1918   Personal narratives Palestine   D501 2003-11-01 88
+p285
+aVHow Jerusalem Was Won Being the Record of Allenby's Campaign in Palestine Massey, W. T. (William Thomas) How Jerusalem Was Won by W. T.  Massey en World War, 1914-1918   Campaigns   Palestine D501 2003-11-01 41
+p286
+aVTrenching at Gallipoli  The personal narrative of a Newfoundlander with the ill-fated Dardanelles expedition Gallishaw, John, 1890- Trenching at Gallipoli by John Gallishaw en   World War, 1914-1918   Personal narratives, Canadian World War, 1914-1918   Campaigns   Turkey   Gallipoli Peninsula   D501 2011-01-31 85
+p287
+aVMy Diary in Serbia: April 1, 1915-Nov. 1, 1915 Stanley, Monica M. My Diary in Serbia: April 1, 1915-Nov. 1, 1915 en 2010-06-27 70
+p288
+aVWith the Doughboy in France A Few Chapters of an American Effort Hungerford, Edward, 1875-1948 With the Doughboy in France by Edward Hungerford en 2012-06-26 39
+p289
+aVAircraft and Submarines The Story of the Invention, Development, and Present-Day Uses of War's Newest Weapons Abbot, Willis J. (Willis John), 1863-1934 Aircraft and Submarines by Willis J.  Abbot en   Aeronautics, Military Aeronautics Submarines (Ships) World War, 1914-1918   Naval operations   Submarine World War, 1914-1918   Aerial operations   UG 2009-09-20 182
+p290
+aVOn the Fringe of the Great Fight Nasmith, George G. (George Gallie), 1877-1965 On the Fringe of the Great Fight by Nasmith en World War, 1914-1918   Personal narratives, English D501 2006-11-20 36
+p291
+aVLetters from France Bean, C. E. W. (Charles Edwin Woodrow), 1879-1968 Letters from France by C. E. W.  Bean en World War, 1914-1918   Personal narratives, English D501 2006-05-14 51
+p292
+aVIn the Field (1914-1915): The Impressions of an Officer of Light Cavalry Dupont, Marcel, 1879-1964 In the Field (1914-1915): The Impressions of an Of en World War, 1914-1918   Personal narratives, French D501 2006-04-14 19
+p293
+aVIm Weltkriege. English In the World War Czernin von und zu Chudenitz, Ottokar Theobald Otto Maria, Graf, 1872-1932 Im Weltkriege. English en   World War, 1914-1918 Austria   Politics and government   1867-1918   D501 2006-04-12 37
+p294
+aVA Volunteer Poilu Beston, Henry, 1888-1968 A Volunteer Poilu by Henry Beston en World War, 1914-1918   Personal narratives D501 2004-05-01 12
+p295
+aVThe New Frontiers of Freedom from the Alps to the Ægean New Frontiers of Freedom from the Alps to the Aegean Powell, E. Alexander (Edward Alexander), 1879-1957 The New Frontiers of Freedom from the Alps to the  en   Balkan Peninsula   Description and travel World War, 1914-1918   Territorial questions   D501 2005-12-12 17
+p296
+aVThe Amateur Army MacGill, Patrick, 1890-1963 The Amateur Army by Patrick MacGill en   Great Britain. Army   Military life World War, 1914-1918   Personal narratives, English   D501 2005-06-16 28
+p297
+aVA Jewish Chaplain in France Levinger, Lee J. (Lee Joseph), 1890-1966 A Jewish Chaplain in France by Lee J.  Levinger en 2010-11-25 16
+p298
+aVThe Note-Book of an Attaché: Seven Months in the War Zone Wood, Eric Fisher, 1889-1962 The Note-Book of an Attaché: Seven Months in the  en   World War, 1914-1918   Personal narratives World War, 1914-1918   France   Paris   D501 2009-10-05 22
+p299
+aV1914 French, John Denton Pinkstone, Earl of Ypres, 1852-1925 1914 by Earl of Ypres John Denton Pinkstone French en   World War, 1914-1918   Personal narratives World War, 1914-1918   Campaigns   Western Front World War, 1914-1918   Photography     DC D501   2008-02-06 158
+p300
+aVThe Boy Allies in the TrenchesOr, Midst Shot and Shell Along the Aisne Hayes, Clair W. (Clair Wallace), 1887- The Boy Allies in the TrenchesOr, Midst Shot and en World War, 1914-1918   Juvenile fiction PZ 2004-06-01 21
+p301
+aVHistory of Ambulance Company Number 139 Various History of Ambulance Company Number 139 by Various en 2010-10-06 84
+p302
+aV'Brother Bosch', an Airman's Escape from Germany Knight, Gerald Featherstone, 1894- 'Brother Bosch', an Airman's Escape from Germany en   World War, 1914-1918   Prisoners and prisons, German World War, 1914-1918   Personal narratives, English   D501 2008-11-10 63
+p303
+aVThe Boy Allies Under the SeaOr, The Vanishing Submarines Hayes, Clair W. (Clair Wallace), 1887- The Boy Allies Under the SeaOr, The Vanishing Su en World War, 1914-1918   Naval operations   Juvenile fiction PZ 2005-01-17 17
+p304
+aVThe Boy Allies in the Balkan CampaignOr, the Struggle to Save a Nation Hayes, Clair W. (Clair Wallace), 1887- The Boy Allies in the Balkan CampaignOr, the Str en World War, 1914-1918   Balkan Peninsula   Juvenile fiction PZ 2004-07-02 18
+p305
+aVThe Khaki Boys over the Top  Or, Doing and Daring for Uncle Sam Bates, Gordon The Khaki Boys over the Top by Gordon Bates en World War, 1914-1918   Juvenile fiction PZ 2004-07-20 9
+p306
+aVThe Brighton Boys in the Radio Service Driscoll, James R. The Brighton Boys in the Radio Service by Driscoll en   World War, 1914-1918   Juvenile fiction United States. Army. Signal Corps   Juvenile fiction   PZ 2007-07-15 19
+p307
+aa(lp308
+g2
+aVNavy Boys Behind the Big GunsOr, Sinking the German U-Boats Davidson, Halsey Owen, Robert Emmett, 1878-1957 [Illustrator] Navy Boys Behind the Big GunsOr, Sinking the Ger en World War, 1914-1918   Naval operations   Juvenile fiction PZ 2006-03-11 14
+p309
+aVThe Moving Picture Boys on the War Front Or, The Hunt for the Stolen Army Films Appleton, Victor The Moving Picture Boys on the War Front en   World War, 1914-1918   Juvenile fiction Motion pictures   Production and direction   Juvenile fiction   PZ 2006-02-10 27
+p310
+aVUnder Fire For Servia Fiske, Colonel James Furman, E. A. [Illustrator] Under Fire For Servia by Colonel James Fiske en 2010-08-21 8
+p311
+aVA Patriotic Schoolgirl Brazil, Angela, 1869-1947 Salmon, Balliol, 1868-1953 [Illustrator] A Patriotic Schoolgirl by Angela Brazil en   Boarding schools   England   Juvenile fiction Girls   England   Juvenile fiction   PZ 2008-04-23 39
+p312
+aVFighting in France Kay, Ross Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator] Fighting in France by Ross Kay en World War, 1914-1918   Juvenile fiction PZ 2007-04-05 6
+p313
+aVLe feu. English Under Fire: The Story of a Squad Translation of Le feu. Barbusse, Henri, 1873-1935 Wray, W. Fitzwater, 1867-1938 [Translator] Le feu. English by Henri Barbusse en World War, 1914-1918   Fiction PQ 2003-08-01 185
+p314
+aV"Same old Bill, eh Mable!" Streeter, Edward, 1891-1976 Breck, G. William (George William), 1863-1920 [Illustrator] "Same old Bill, eh Mable!" by Edward Streeter en World War, 1914-1918   Humor, caricatures, etc. D501 2005-05-03 16
+p315
+aVPoems of the Great War Published on the Behalf of the Prince of Wales's National Relief Fund Various Poems of the Great War by Various en 2010-09-09 24
+p316
+aVThe Illustrated War News, Number 21, Dec. 30, 1914 Various The Illustrated War News, Number 21, Dec. 30, 1914 en World War, 1914-1918   Periodicals D501 2006-05-07 198
+p317
+aVFoch the Man A Life of the Supreme Commander of the Allied Armies Laughlin, Clara E. (Clara Elizabeth), 1873-1941 Foch the Man by Clara E.  Laughlin en Foch, Ferdinand, 1851-1929 DC 2006-01-14 27
+p318
+aV'Hello, Soldier!'  Khaki Verse Dyson, Edward, 1865-1931 'Hello, Soldier!' by Edward Dyson en World War, 1914-1918   Poetry PR 2005-10-19 21
+p319
+aVThe Story of the Great War, Volume 7  American Food and ShipsPalestineItaly invadedGreat German OffensiveAmericans in PicardyAmericans on the MarneFoch's Counteroffensive. Various   Miller, Francis Trevelyan, 1877-1959 [Editor] Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor] Churchill, Allen L. (Allen Leon), 1873- [Editor]   The Story of the Great War, Volume 7 by Various en 2010-11-05 116
+p320
+aVThe Story of the Great War, Volume 6  History of the European War from Official Sources   Churchill, Allen L. (Allen Leon), 1873- [Editor] Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor] Miller, Francis Trevelyan, 1877-1959 [Editor]   The Story of the Great War, Volume 6 en World War, 1914-1918 D501 2009-07-12 116
+p321
+aVGermany and the Next War Bernhardi, Friedrich von, 1849-1930 Germany and the Next War by Bernhardi en   Germany. Heer Imaginary wars and battles Germany. Kriegsmarine Germany   Foreign relations   UA 2004-02-01 59
+p322
+aVThe Story of the 6th Battalion, The Durham Light Infantry France, April 1915-November 1918 Ainsworth, Ralph Bignell, Sir [Editor] The Story of the 6th Battalion, The Durham Light I en   World War, 1914-1918   Regimental histories   Great Britain Great Britain. Army. Durham Light Infantry   D501 2005-09-05 36
+p323
+aVThe Iron Division, National Guard of Pennsylvania, in the World War The authentic and comprehensive narrative of the gallant deeds and glorious achievements of the 28th division in the world's greatest war Proctor, H. G. The Iron Division, National Guard of Pennsylvania, en 2010-11-07 31
+p324
+aVCompany B, 307th Infantry Its history, honor roll, company roster, Sept., 1917, May, 1919 Klausner, Julius Company B, 307th Infantry by Julius Klausner en 2010-10-12 57
+p325
+aVSergeant York And His People Cowan, Sam K. (Sam Kinkade), 1869- Sergeant York And His People by Sam K.  Cowan en   Appalachians (People) York, Alvin Cullum, 1887-1964 Tennessee, East   Social life and customs   F396 2006-08-25 108
+p326
+aVYour Boys Smith, Gipsy, 1860-1947 Your Boys by Gipsy Smith en World War, 1914-1918   Religious aspects D501 2005-08-09 12
+p327
+aVThe Economic Consequences of the Peace Keynes, John Maynard, 1883-1946 The Economic Consequences of the Peace by Keynes en   World War, 1914-1918   Economic aspects Treaty of Versailles (1919) Economic history   1918-1945   HC 2005-05-06 780
+p328
+aVA Hilltop on the Marne  Being Letters Written June 3-September 8, 1914 Aldrich, Mildred, 1853-1928 A Hilltop on the Marne by Mildred Aldrich en   World War, 1914-1918   Personal narratives Marne, 1st Battle of the, France, 1914   D501 2004-02-01 56
+p329
+aVEngland and the War Might is right   The war of ideas   The faith of England   Some gains of the war   The war and the press   Shakespeare and England. Raleigh, Walter Alexander, Sir, 1861-1922 England and the War by Raleigh en World War, 1914-1918 D501 2003-11-01 20
+p330
+aVNever Again! A Protest and a Warning Addressed to the Peoples of Europe Carpenter, Edward, 1844-1929 Never Again! A Protest and a Warning Addressed to  en   World War, 1914-1918 Pamphlets Peace   D501 2001-12-01 27
+p331
+aVEngland and Germany Dillon, Emile Joseph, 1855-1933 Hughes, William Morris, 1864-1952 [Commentator] England and Germany by Emile Joseph Dillon en   World War, 1914-1918 World War, 1914-1918   Economic aspects Germany   Foreign relations   D501 2009-07-06 12
+p332
+aVFighting in Flanders Powell, E. Alexander (Edward Alexander), 1879-1957 Fighting in Flanders by E. Alexander  Powell en World War, 1914-1918   Campaigns   Belgium D501 2004-03-01 152
+p333
+aVThree years in France with the Guns: Being Episodes in the life of a Field Battery Rose, C. A. Three years in France with the Guns: Being Episode en World War, 1914-1918   Personal narratives, English D501 2006-11-14 69
+p334
+aVFighting France, from Dunkerque to Belfort Wharton, Edith, 1862-1937 Fighting France, from Dunkerque to Belfort en   World War, 1914-1918   France World War, 1914-1918   Personal narratives   D501 2003-10-01 47
+p335
+aVBetween the Lines Cable, Boyd, 1878-1943 Between the Lines by Boyd Cable en World War, 1914-1918 D501 2008-04-15 36
+p336
+aVGallipoli Diary,  Volume I Hamilton, Ian, Sir, 1853-1947 Gallipoli Diary,  Volume I by Sir Ian Hamilton en   World War, 1914-1918   Campaigns   Turkey   Gallipoli Peninsula Hamilton, Ian, Sir, 1853-1947   Diaries World War, 1914-1918   Personal narratives, British Gallipoli Peninsula (Turkey)   History, Military Generals   Great Britain   Diaries   D501 2006-09-19 207
+p337
+aVAntwerp to Gallipoli A Year of the War on Many Fronts\u2014and Behind Them Ruhl, Arthur, 1876-1935 Antwerp to Gallipoli by Arthur Ruhl en World War, 1914-1918   Personal narratives D501 2004-02-01 43
+p338
+aVWith a Highland Regiment in Mesopotamia 1916\u20141917 Anonymous With a Highland Regiment in Mesopotamia en   Great Britain. Army. Black Watch (Royal Highlanders). Battalion, 2nd World War, 1914-1918   Campaigns   Iraq World War, 1914-1918   Regimental histories   Great Britain   D501 2007-07-19 85
+p339
+aVFive Months on a German Raider Being the Adventures of an Englishman Captured by the 'Wolf' Trayes, Frederic George, 1871- Five Months on a German Raider by Trayes en   World War, 1914-1918   Personal narratives World War, 1914-1918   Prisoners and prisons, German   D501 2005-09-14 78
+p340
+aVFoods That Will Win The War And How To Cook Them (1918)   Goudiss, C. Houston (Charles Houston), 1880- Goudiss, Alberta M. (Alberta Moorhouse), 1876-   Foods That Will Win The War And How To Cook Them ( en   Cooking, American Food conservation Menus   TX 2005-03-25 470
+p341
+aVWomen and War Work Fraser, Helen Women and War Work by Helen Fraser en World War, 1914-1918   Women D501 2005-01-12 76
+p342
+aVThe Case of Edith Cavell A Study of the Rights of Non-Combatants Beck, James M. (James Montgomery), 1861-1936 The Case of Edith Cavell by James M.  Beck en Cavell, Edith, 1865-1915 D 2007-01-11 48
+p343
+aVFlag and Fleet How the British Navy Won the Freedom of the Seas Wood, William Charles Henry, 1864-1947 Flag and Fleet by William Charles Henry Wood en   Sea-power Great Britain   History, Naval   DA 2006-11-17 62
+p344
+aVLa dernière lettre écrite par des soldats français tombés au champ d'honneur 1914-1918 La dernière lettre écrite par des soldats fran fr World War, 1914-1918   Personal narratives, French D501 2004-05-01 41
+p345
+aVThe Crisis of the Naval War Jellicoe, John Rushworth Jellicoe, Earl, 1859-1935 The Crisis of the Naval War by Jellicoe en   World War, 1914-1918   Naval operations, British World War, 1914-1918   Naval operations   Submarine   D501 2003-12-01 43
+p346
+aVA War-time Journal, Germany 1914 and German Travel Notes Jephson, Harriet Julia Campbell, Lady A War-time Journal, Germany 1914 and German Travel en   World War, 1914-1918   Personal narratives, English World War, 1914-1918   Germany   D501 2007-11-18 30
+p347
+aVA Soldier's Sketches Under Fire Harvey, Harold A Soldier's Sketches Under Fire by Harold Harvey en   World War, 1914-1918   Pictorial works World War, 1914-1918   Personal narratives, English   D501 2005-06-14 84
+p348
+aVIn the Claws of the German Eagle Williams, Albert Rhys, 1883-1962 In the Claws of the German Eagle by Williams en World War, 1914-1918   Personal narratives D501 2004-03-01 23
+p349
+aVSix Women and the Invasion   Yerta, Gabrielle Yerta, Marguerite   Ward, Humphry, Mrs., 1851-1920 [Commentator] Six Women and the Invasion by Yerta and Yerta en 2011-01-16 18
+p350
+aVOn the right of the British line Nobbs, Gilbert On the right of the British line by Gilbert Nobbs en World War, 1914-1918   Personal narratives, British D501 2010-04-19 25
+p351
+aVGovernment Ownership of Railroads, and War Taxation Kahn, Otto Hermann, 1867-1934 Government Ownership of Railroads, and War Taxatio en   Railroads and state   United States World War, 1914-1918   Finance   United States Finance, Public   United States   History   1901-1933   HE 2009-07-22 17
+p352
+aVThe Boy Allies at VerdunOr, Saving France from the Enemy Hayes, Clair W. (Clair Wallace), 1887- The Boy Allies at VerdunOr, Saving France from t en   World War, 1914-1918   France   Juvenile fiction Verdun, Battle of, Verdun, France, 1916   Juvenile fiction   PZ 2004-07-25 20
+p353
+aVThe Brighton Boys with the Flying Corps Driscoll, James R. The Brighton Boys with the Flying Corps en   Fighter pilots   Juvenile fiction World War, 1914-1918   Aerial operations   Juvenile fiction Aeronautics   Juvenile fiction Fighter planes   Piloting   Juvenile fiction   PZ 2004-07-19 14
+p354
+aVArmy Boys in the French Trenches Or, Hand to Hand Fighting with the Enemy Randall, Homer Army Boys in the French Trenches by Homer Randall en World War, 1914-1918   France   Fiction PZ 2006-01-01 17
+p355
+aVThe Boy Allies with Haig in FlandersOr, the Fighting Canadians of Vimy Ridge Hayes, Clair W. (Clair Wallace), 1887- The Boy Allies with Haig in FlandersOr, the Figh en World War, 1914-1918   Juvenile fiction PZ 2004-07-01 19
+p356
+aVThe Angels of Mons  The Bowmen and Other Legends of the War The bowmen   The soldiers' rest   The monstrance   The dazzling light   The bowmen and other noble ghosts, by "The Londoner." Machen, Arthur, 1863-1947 The Angels of Mons by Arthur Machen en   War stories, English Supernatural   Fiction World War, 1914-1918   Fiction   PR 2004-11-14 101
+p357
+aVThe Brighton Boys with the Submarine Fleet Driscoll, James R. The Brighton Boys with the Submarine Fleet en   World War, 1914-1918   Naval operations   Juvenile fiction Submarines (Ships)   Juvenile fiction   PZ 2004-07-19 5
+p358
+aVUncle Sam's Boys with Pershing's Troops Dick Prescott at Grips with the Boche Hancock, H. Irving (Harrie Irving), 1868-1922 Uncle Sam's Boys with Pershing's Troops by Hancock en   World War, 1914-1918   Juvenile fiction United States. Army   Juvenile fiction   PZ 2004-07-03 11
+p359
+aVWee Macgreegor Enlists Bell, J. J. (John Joy), 1871-1934 Wee Macgreegor Enlists by J. J.  Bell en   Man-woman relationships   Fiction Humorous stories Young men   Fiction Scotland   Fiction World War, 1914-1918   Fiction   PR 2004-05-01 28
+p360
+aVBelles and Ringers Smart, Hawley, 1833-1893 Belles and Ringers by Hawley Smart en   England   Social life and customs   Fiction Courtship   Fiction   PR 2007-02-06 0
+p361
+aVDere Mable: Love Letters of a Rookie Streeter, Edward, 1891-1976 Breck, G. William (George William), 1863-1920 [Illustrator] Dere Mable: Love Letters of a Rookie by Streeter en World War, 1914-1918   Humor, caricatures, etc. D501 2004-11-09 38
+p362
+aVA Treasury of War Poetry: British and American Poems of the World War 1914-1917 Clarke, George Herbert, 1873-1953 [Editor] A Treasury of War Poetry: British and American Poe en World War, 1914-1918   Poetry D501 2005-09-01 62
+p363
+aVWorld's War Events, Vol. II   Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor] Churchill, Allen L. (Allen Leon), 1873- [Editor]   World's War Events, Vol. II en World War, 1914-1918 D501 2008-07-04 43
+p364
+aVThe Red Flower: Poems Written in War Time Van Dyke, Henry, 1852-1933 The Red Flower: Poems Written in War Time en World War, 1914-1918   Poetry PS 2005-11-01 12
+p365
+aVWhy We Are at War : Messages to the Congress January to April 1917 Wilson, Woodrow, 1856-1924 Why We Are at War : Messages to the Congress Janua en World War, 1914-1918   United States D501 2004-11-01 35
+p366
+aVKelly Miller's History of the World War for Human Rights Miller, Kelly, 1863-1939 Kelly Miller's History of the World War for Human  en   World War, 1914-1918 World War, 1914-1918   African Americans   D501 2006-09-04 105
+p367
+aVThe Story of the "9th King's" in France Roberts, Enos Herbert Glynne The Story of the "9th King's" in France by Roberts en   World War, 1914-1918   Regimental histories   Great Britain Great Britain. Army. King's Liverpool Regiment. Battalion, 9th   D501 2005-10-31 26
+p368
+aVThe World War and What was Behind ItOr, The Story of the Map of Europe Bénézet, Louis Paul, 1878-1961 The World War and What was Behind ItOr, The Stor en   Europe   History World War, 1914-1918   Causes   D 2004-02-01 350
+p369
+aVA History of the Nations and Empires Involved and a Study of the Events Culminating in the Great Conflict Marshall, Logan A History of the Nations and Empires Involved and  en   Europe   History   1789-1900 World War, 1914-1918   Causes Europe   History   1871-1918   D 2003-02-01 32
+p370
+aVGli amanti  pastelli L'imperfetto amante (Nino Stresa)   L'imperfetto amante (Giustino Morelli)   Il perfetto amante (Massimo Dias)   Il perfettissimo amante (Luigi Caracciolo)   Il viale degli oleandri (Mario Felice)   Nella via (Vicenzella)   La veste di seta (Madame la marquise)   La veste di crespo (Madame He\u0301liotrope)   Un suicidio (Julian Sorel)   Il convegno (La piccola Maria)   L'ineluttabile (Miss Geraldian)   Il segreto (Cariclea)   L'ultima lettera (Angelica) Serao, Matilde, 1856-1927 Gli amanti by Matilde Serao it Fiction PQ 2006-08-16 20
+p371
+aVArmageddon\u2014And After Courtney, W. L. (William Leonard), 1850-1928 Armageddon\u2014And After by W. L.  Courtney en   Europe   Politics and government World War, 1914-1918   Causes   D501 2005-11-26 10
+p372
+aVThe Inside Story of the Peace Conference Dillon, Emile Joseph, 1855-1933 The Inside Story of the Peace Conference by Dillon en Paris Peace Conference (1919-1920) D501 2004-12-26 159
+p373
+aVThe Healing of Nations and the Hidden Sources of Their Strife Carpenter, Edward, 1844-1929 The Healing of Nations and the Hidden Sources of T en World War, 1914-1918 D501 2003-11-01 21
+p374
+aVA Book of Bryn Mawr Stories   King, Georgiana Goddard MacIntosh, Marian T. Crawford, Harriet Jean Vail, Clara Warren Kidder, Anne Maynard Lee, Elva Hardy, Cora Armistead Giles, Ellen Rose Edith Campbell Crane. L. S. B. S. & G. E. T.     Morris, Margaretta [Editor] Congdon, Louise Buffam [Editor]   A Book of Bryn Mawr Stories by Crawford en 2013-08-16 37
+p375
+aVThe White Road to Verdun Burke, Kathleen, 1887-1958 The White Road to Verdun by Kathleen Burke en   World War, 1914-1918   Anecdotes World War, 1914-1918   Personal narratives   D501 2005-10-25 24
+p376
+aV"I was there" with the Yanks on the western front, 1917-1919 "I was there"  with the Yanks in France   Baukhage, Hilmar R. (Hilmar Robert), 1889- Baldridge, Cyrus Leroy, 1889-1977   "I was there" with the Yanks on the western front, en   World War, 1914-1918   Pictorial works World War, 1914-1918   Poetry   D501 2005-05-29 43
+p377
+aVRebuilding Britain: A Survey of Problems of Reconstruction After the World War Hopkinson, Alfred, Sir, 1851-1939 Rebuilding Britain: A Survey of Problems of Recons en Reconstruction (1914-1939)   Great Britain D501 2005-02-02 7
+p378
+aa(lp379
+g2
+aVLetters to "The Times" upon War and Neutrality (1881-1920) Holland, Thomas Erskine, Sir, 1835-1926 Letters to "The Times" upon War and Neutrality (18 en   War (International law) Neutrality   JX 2004-12-24 11
+p380
+aVThe Soul of Democracy The Philosophy of the World War in Relation to Human Liberty Griggs, Edward Howard, 1868-1951 The Soul of Democracy by Edward Howard Griggs en   Democracy World War, 1914-1918   Influence   D501 2004-01-01 7
+p381
+aVTowards the Great Peace Introduction   A world at the crossroads   A working philosophy   The social organism   The industrial problem   The political organization of society   The function of education and art   The problem of organic religion   Personal responsibility. Cram, Ralph Adams, 1863-1942 Towards the Great Peace by Ralph Adams Cram en   Social problems Civilization Sociology   HM 2004-01-01 17
+p382
+aVAmerica's War for Humanity Russell, Thomas Herbert, 1862-1947 America's War for Humanity by Russell en World War, 1914-1918 D501 2003-11-01 46
+p383
+aVWith British Guns in Italy: A Tribute to Italian Achievement Dalton, Hugh Dalton, Baron, 1887-1962 With British Guns in Italy: A Tribute to Italian A en World War, 1914-1918   Italy D501 2003-11-01 32
+p384
+aVRaemaekers' Cartoon History of the War, Volume 1 The First Twelve Months of War Raemaekers, Louis, 1869-1956   Allison, J. Murray [Editor] Raemaekers, Louis, 1869-1956 [Illustrator]   Raemaekers' Cartoon History of the War, Volume 1 en 2010-10-04 183
+p385
+aVComo e porque sou romancista Alencar, José Martiniano de, 1829-1877 Como e porque sou romancista by Alencar pt   Novelists, Brazilian   19th century   Biography Alencar, José Martiniano de, 1829-1877   PQ 2009-06-05 71
+p386
+aVChronica de El-Rei D. Affonso V (Vol. I) Pina, Rui de, 1440-1521 Pereira, Gabriel, 1847-1911 [Editor] Chronica de El-Rei D. Affonso V (Vol. I) by Pina pt   Afonso V, King of Portugal, 1432-1481 Portugal   History   Alfonso V, 1438-1481   DP 2008-07-06 9
+p387
+aVA Chave do Enigma Castilho, Antonio Feliciano de, 1800-1875 A Chave do Enigma by Antonio Feliciano de Castilho pt   Castilho, Antonio Feliciano de, 1800-1875 Portuguese literature   PQ 2010-04-15 53
+p388
+aVObras Completas de Luis de Camões, Tomo II Camões, Luís de, 1524?-1580 Obras Completas de Luis de Camões, Tomo II pt   Portuguese literature   16th century Portuguese poetry   Classical period, 1500-1700   PQ 2010-03-05 209
+p389
+aVVasco da Gama Livro de Leitura para familias e escolas Corazzi, David [Editor] Vasco da Gama pt Gama, Vasco da, 1469-1524 G 2008-12-16 31
+p390
+aVOliveira Martins: Estudo de Psychologia Barreto, Moniz, 1865-1894 Oliveira Martins: Estudo de Psychologia by Barreto pt   Oliveira Martins, J. P. (Joaquim Pedro), 1845-1894 Statesmen   Portugal   Biography   DP 2010-02-24 9
+p391
+aVBiographia do Padre José Agostinho de Macedo Seguida d'um catalogo alfabetico de todas as suas obras Melo, Joaquim Lopes Carreira de, 1816-1885 Biographia do Padre José Agostinho de Macedo pt Macedo, José Agostinho de, 1761-1831 PQ 2008-12-02 18
+p392
+aVUm contemporaneo do Infante D. Henrique Pimentel, Alberto, 1849-1925 Um contemporaneo do Infante D. Henrique pt 2010-06-13 9
+p393
+aVSá de Miranda e a sua Obra Carneiro, Décio, 1868-1939 Sá de Miranda e a sua Obra by Décio Carneiro pt Sá de Miranda, Francisco de, 1481?-1558 PQ 2009-01-10 12
+p394
+aVAlexandre Herculano Lima, Jaime de Magalhães, 1859-1936 Alexandre Herculano by Jaime de Magalhães Lima pt   Authors, Portuguese   19th century   Biography Herculano, Alexandre, 1810-1877   PQ 2009-12-17 11
+p395
+aVLuiz de Camões marinheiro Luís de Camões marinheiro Eça, Vicente de Almeida de, 1852-1929 Luiz de Camões marinheiro by Eça pt Camões, Luís de, 1524?-1580   Knowledge   Naval art and science PQ 2007-06-08 3
+p396
+aVO Marquez de Pombal  Lance d'olhos sobre a sua scienciapolitica e systema de administraçãoideias liberaes que o dominavamplano e primeiras tentativas democraticas Garcia, Manuel Emídio, 1838-1904 O Marquez de Pombal by Manuel Emídio Garcia pt 2010-05-15 9
+p397
+aVDescobrimento das Filippinas pelo navegador portuguez Fernão de Magalhães Alberto da Silva, Caetano, 1843-1924 Descobrimento das Filippinas pelo navegador portug pt   Magalhães, Fernão de, d. 1521 Voyages around the world Philippines   Discovery and exploration   G 2009-06-26 41
+p398
+aVTratado das Cores  Que consta de tres partes: analytica, synthetica, hermeneutica Sampaio, Diogo de Carvalho e, 1750-1807 Tratado das Cores by Diogo de Carvalho e Sampaio pt Colors QC 2010-02-05 21
+p399
+aVNoções elementares de archeologia Silva, Joaquim Possidónio Narciso da, 1806-1896 Barbosa, Inácio de Vilhena, 1811-1890 [Commentator] Noções elementares de archeologia by Silva pt   Architecture   History Archaeology   CC 2005-11-29 68
+p400
+aVLendas e Narrativas (Tomo I) Herculano, Alexandre, 1810-1877 Lendas e Narrativas (Tomo I) by Herculano pt Portuguese literature   19th century PQ 2006-01-01 32
+p401
+aVContos Phantasticos segunda edição correcta e ampliada Braga, Joaquim Teófilo Fernandes, 1843-1924 Contos Phantasticos by Braga pt 2010-06-01 24
+p402
+aVDescripçaõ sobre a cultura do Canamo ou Canave Duhamel du Monceau, Henri-Louis, 1700-1782 Veloso, José Mariano da Conceição, 1742-1811 [Translator] Descripçaõ sobre a cultura do Canamo ou Canave pt Hemp   Culture SB 2009-09-23 3
+p403
+aVO Oraculo do Passado, do presente e do Futuro (6/7)  Parte Sexta: O oraculo da Magica Serrano, Bento O Oraculo do Passado, do presente e do Futuro (6/7 pt Divination BF 2010-03-23 15
+p404
+aVO Engeitado Braga, Alberto Leal Barradas Monteiro, 1851-1911 O Engeitado by Braga pt Short stories PQ 2008-05-25 12
+p405
+aVContos escolhidos de D. Antonio de Trueba Trueba, António de, 1821?-1889   Monteiro, F. de Castro [Translator] Barbosa, Inácio de Vilhena, 1811-1890 [Commentator]   Contos escolhidos de D. Antonio de Trueba pt Essays PQ 2008-05-25 15
+p406
+aa(lp407
+g2
+aVContos d'Aldeia Contos da Aldeia Braga, Alberto Leal Barradas Monteiro, 1851-1911 Contos d'Aldeia by Braga pt Short stories PQ 2007-05-23 22
+p408
+aVContos e Lendas Silva, Luiz Augusto Rebello da, 1822-1871 Contos e Lendas by Luiz Augusto Rebello da Silva pt Short stories PQ 2009-10-29 35
+p409
+aVNa Guella do Leão Sabugosa, António Maria José de Melo Silva César e Meneses, conde de, 1854-1923 Na Guella do Leão by Sabugosa pt PQ 2009-05-06 6
+p410
+aVInfelizes Historias Vividas Dezoito annos   Tio Barreiros   Solteirão   Hamlet   A senhora Angelica   Algarve   Cúmulo   A ama   Entardecer   Bretan   Victoria   A terra   Freiras   Sombras. Osório, Ana de Castro, 1872-1935 Infelizes by Ana de Castro Osório pt PQ 2008-11-04 21
+p411
+aVA mulherOs Portuguezes em Tanger Matos, J. J. Rodrigues de A mulherOs Portuguezes em Tanger by Matos pt   Portuguese   Morocco   History   16th century Women     HQ DT   2010-01-10 7
+p412
+aVAs concessões de direitos magestaticos a emprezas mercantis para o ultramar  representações ao governo Sociedade de Geografia de Lisboa As concessões de direitos magestaticos a emprezas pt   Merchant marine   Portugal Maritime law   Portugal   KJ 2008-11-29 2
+p413
+aVHistoria da Grecia Costa, Fernandes, 1848-1920 Historia da Grecia by Fernandes Costa pt Greece   History DF 2010-04-29 30
+p414
+aVNoticia de livreiros e impressores de Lisbôa na 2ª metade do seculo XVI Brito, Gomes de, 1843-1923 Noticia de livreiros e impressores de Lisbôa na 2 pt Printing   Portugal   Lisbon   History Z 2008-02-20 11
+p415
+aVChronica de el-rei D. Affonso Henriques Galvão, Duarte, 1446-1517 Chronica de el-rei D. Affonso Henriques by Galvão pt   Portugal   History   Afonso I, 1139-1185 Afonso I, King of Portugal, 1109?-1185   DP 2006-03-20 29
+p416
+aVA batalha de Toro Barata, António Francisco, 1836-1910 A batalha de Toro by António Francisco Barata pt   Toro, Battle of, 1476 Portugal   History   Alfonso V, 1438-1481   DP 2008-04-29 13
+p417
+aVOs deputados brasileiros nas Côrtes Geraes de 1821 Carvalho, Manuel Emílio Gomes de, 1859-1919 Os deputados brasileiros nas Côrtes Geraes de 182 pt Brazil   History   1763-1822 F2201 2008-03-14 12
+p418
+aVChronica d'El-Rei D. Affonso III Pina, Rui de, 1440-1521 Chronica d'El-Rei D. Affonso III by Rui de Pina pt   Portugal   History   Afonso III, 1248-1279 Afonso III, King of Portugal, 1210-1279   DP 2005-04-21 4
+p419
+aVBases da ortografia portuguesa   Viana, Aniceto dos Reis Gonçalves, 1840-1914 Abreu, Guilherme Augusto de Vasconcelos, 1842-1907   Bases da ortografia portuguesa by Abreu and Viana pt Portuguese language   Orthography and spelling PC 2005-02-14 74
+p420
+aVO descobrimento da Australia pelos portuguezes em 1601 O descobrimento da Austrália pelos portugueses em 1601 Major, Richard Henry, 1818-1891 Lacerda, José Maria Almeida e Araújo de Portugal Correia de, 1802-1877 [Translator] O descobrimento da Australia pelos portuguezes em  pt Australia   Discovery and exploration DU 2009-07-17 24
+p421
+aVPrimeira origem da arte de imprimir dada à luz pelo primeiros characteres Villeneuve, João, -1777 Primeira origem da arte by João Villeneuve pt Printing   History Z 2006-08-03 6
+p422
+aVRelatorio de uma viagem ás terras do Changamira Paiva de Andrada, Joaquim Carlos, 1846-1928 Relatorio de uma viagem ás terras do Changamira pt 2010-10-07 12
+p423
+aVChristovam Colombo e o descobrimento da America Silva, João Manuel Pereira da Christovam Colombo e o descobrimento da America pt 2010-05-24 28
+p424
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº 10 (de 12) Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2009-02-26 8
+p425
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº 9 (de 12) Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2009-02-23 3
+p426
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº7 (de 12) Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2009-01-17 7
+p427
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº 12 (de 12) Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2009-02-27 4
+p428
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº6 (de 12) Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2008-11-28 4
+p429
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº5 (de 12) Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2008-10-29 12
+p430
+aVA Pavorosa Illusão A Pavorosa Ilusão Londres:  1837 Bocage, Manuel Maria Barbosa du, 1765-1805 A Pavorosa Illusão by Bocage pt Portuguese poetry PQ 2007-09-16 22
+p431
+aVCintra Sintra Beirão, Mário Pires Gomes, 1890-1965 Cintra by Mário Pires Gomes Beirão pt Poetry PQ 2007-08-31 6
+p432
+aVApotheose Camoneana Carvalho, Xavier de, 1862-1919 Apotheose Camoneana by Xavier de Carvalho pt Camões, Luís de, 1524?-1580 PQ 2008-12-02 5
+p433
+aVCantos Sagrados Arriaga, Manuel de, 1840-1917 Cantos Sagrados by Manuel de Arriaga pt Poetry PQ 2007-08-11 28
+p434
+aVAlbum chulo-gaiato ou collecção de receitas para fazer rir Album chulo-gaiato ou colecção de receitas para fazer rir Anonymous Album chulo-gaiato ou collecção de receitas para pt Portuguese wit and humor PQ 2007-05-04 87
+p435
+aVObras poéticas de Nicoláo Tolentino de Almeida, Tom. II Almeida, Nicolau Tolentino de, 1740-1811 Obras poéticas de Nicoláo Tolentino de Almeida,  pt Poetry PQ 2005-07-29 14
+p436
+aVO passeio dos bardos ao Baldeador Costa, Floriano Alves da, 1825- O passeio dos bardos ao Baldeador by Costa pt Portuguese poetry PQ 2008-02-15 3
+p437
+aVMágoas Amorosas de Elmano  Idyllio Por Bocage Máguas Amorosas de Elmano  Idílio Por Bocage Bocage, Manuel Maria Barbosa du, 1765-1805 Mágoas Amorosas de Elmano by Bocage pt Portuguese poetry PQ 2007-09-30 17
+p438
+aVCanções Boto, António Tomás, 1897-1959 Balsemão, Jayme de, 1891-1947 [Commentator] Canções by António Tomás Boto pt Poetry PQ 2007-09-19 15
+p439
+aVA velha disciplina: Versos Dumont, Júlio A velha disciplina: Versos by Júlio Dumont pt Poetry PQ 2007-09-17 3
+p440
+aVSantarenaida: poema eroi-comico Santarenaida: poema herói-cómico Figueiredo, Francisco de Paula de, 1768-1803 Santarenaida: poema eroi-comico by Figueiredo pt Poetry PQ 2007-05-04 4
+p441
+aVMarilia de Dirceo Gonzaga, Tomás António, 1744-1810? Marilia de Dirceo by Tomás António Gonzaga pt Poetry PQ 2006-03-30 4
+p442
+aVDickens' Stories About Children Every Child Can Read Trotty Veck and his daughter Meg   Tiny Tim   The runaway couple   Little Dorrit   The toy-maker and his blind daughter   Little Nell   Little David Copperfield   Jenny Wren   Pip's adventure   Todgers'   Dick Swiveller and the Marchioness   Mr. Wardle's servant Joe   A brave and honest boy, Oliver Twist. Dickens, Charles, 1812-1870 Hurlbut, Jesse Lyman, 1843-1930 [Editor] Dickens' Stories About Children Every Child Can Re en   Children's stories, English Children   Juvenile fiction     PZ PR   2010-05-03 82
+p443
+aVDuas Paginas Dos Quatorze Annos  Poesias Por Abilio Guerra Junqueiro Duas Páginas Dos Catorze Anos  Poesias Por Abílio Guerra Junqueiro Junqueiro, Abílio Manuel Guerra, 1850-1923 Duas Paginas Dos Quatorze Annos by Junqueiro pt Poetry PQ 2007-08-26 3
+p444
+aVClaridades do sul Leal, António Duarte Gomes, 1848-1921 Claridades do sul by António Duarte Gomes Leal pt Poetry PQ 2007-03-30 6
+p445
+aVElegias Pascoais, Teixeira de, 1877-1952 Elegias by Teixeira de Pascoais pt Portuguese poetry PQ 2007-10-20 8
+p446
+aVLitoral  A Amadeo de Souza Cardoso Negreiros, José Sobral de Almada, 1893-1970 Litoral by José Sobral de Almada Negreiros pt Poetry PQ 2007-09-29 8
+p447
+aVÁ ventura À ventura Pascoais, Teixeira de, 1877-1952 Á ventura by Teixeira de Pascoais pt Portuguese poetry PQ 2007-09-16 10
+p448
+aVA morte do athleta A morte do atleta Leal, António Duarte Gomes, 1848-1921 A morte do athleta by António Duarte Gomes Leal pt Poetry PQ 2007-08-31 3
+p449
+aVA Democracia Estudo sobre o governo representativo Lima, Jaime de Magalhães, 1859-1936 A Democracia by Jaime de Magalhães Lima pt   Essays Democracy   JC 2008-03-03 16
+p450
+aVCamões e o amor  no aniversario 304 da morte do poeta Pires, Ernesto, 1857-1884 Camões e o amor by Ernesto Pires pt Camões, Luís de, 1524?-1580   Poetry PQ 2007-09-26 2
+p451
+aVClepsydra Poêmas de Camillo Pessanha Clepsidra  Poemas de Camilo Pessanha Pessanha, Camilo Almeida, 1867-1926 Clepsydra by Camilo Almeida Pessanha pt Portuguese poetry PQ 2007-08-16 21
+p452
+aVOs sonetos completos de Anthero de Quental Quental, Antero de, 1842-1891 Os sonetos completos de Anthero de Quental pt Portuguese poetry PQ 2006-12-20 23
+p453
+aVEstrellas Funestas Castelo Branco, Camilo, 1825-1890 Estrellas Funestas by Camilo Castelo Branco pt Fiction PQ 2010-03-18 18
+p454
+aVA Filha do Arcediago Terceira Edição Castelo Branco, Camilo, 1825-1890 A Filha do Arcediago by Camilo Castelo Branco pt PQ 2008-11-29 39
+p455
+aVO Federalismo Lima, Sebastião de Magalhães, 1850-1928 O Federalismo by Sebastião de Magalhães Lima pt Federal government JC 2008-06-03 13
+p456
+aVPero da Covilhan: Episodio Romantico do Seculo XV Brandão, Zephyrino, 1842-1910 Pero da Covilhan: Episodio Romantico do Seculo XV pt Covilhã, Pêro da   Fiction PQ 2010-05-08 14
+p457
+aVO Christão novo  Romance Historico do Seculo XVI Macedo, Diogo de, 1844- O Christão novo by Diogo de Macedo pt Portugal   History   John III, 1521-1557   Fiction PQ 2009-06-30 7
+p458
+aVA Morgadinha dos Cannaviaes Dinis, Júlio, 1839-1871 A Morgadinha dos Cannaviaes by Júlio Dinis pt PQ 2009-06-14 44
+p459
+aVLivro de Consolação Castelo Branco, Camilo, 1825-1890 Livro de Consolação by Camilo Castelo Branco pt 2010-12-27 20
+p460
+aVO Olho de Vidro Castelo Branco, Camilo, 1825-1890 O Olho de Vidro by Camilo Castelo Branco pt Abreu, Brás Luís de, 1692-1756   Fiction PQ 2008-07-22 46
+p461
+aVO Annel Mysterioso Scenas da Guerra Peninsular Pimentel, Alberto, 1849-1925 O Annel Mysterioso by Alberto Pimentel pt 2010-09-17 16
+p462
+aVUma família ingleza: Scenas da vida do Porto Dinis, Júlio, 1839-1871 Uma família ingleza: Scenas da vida do Porto pt British   Portugal   Porto   Fiction PQ 2005-08-05 24
+p463
+aVOs fidalgos da Casa Mourisca  Chronica da aldeia Dinis, Júlio, 1839-1871 Os fidalgos da Casa Mourisca by Júlio Dinis pt   Love stories Nobility   Portugal   Fiction Portugal   Fiction   PQ 2005-08-04 30
+p464
+aVPetronio Peça livremente extrahida do romance Quo Vadis de Henryk Sienkiewicz Mesquita, Marcelino, 1856-1919 Petronio by Marcelino Mesquita pt Rome   History   Nero, 54-68   Drama PG 2009-02-23 7
+p465
+aVUma scena conjugal  Comedia\u2014lever de rideau Couceiro, Luís Uma scena conjugal by Luís Couceiro pt Portuguese drama PQ 2008-05-11 3
+p466
+aVA virtude laureada Drama Recitado no Theatro do Salitre Bocage, Manuel Maria Barbosa du, 1765-1805 A virtude laureada by Bocage pt Portuguese drama PQ 2006-09-05 17
+p467
+aVO Condemnado/Como os anjos se vingam Castelo Branco, Camilo, 1825-1890 O Condemnado/Como os anjos se vingam pt 2010-05-29 16
+p468
+aVO Jardim da Pierrette Negreiros, José Sobral de Almada, 1893-1970 O Jardim da Pierrette by Negreiros pt PQ 2007-09-23 3
+p469
+aVFrei Luiz de Sousa Almeida Garrett, João Batista da Silva Leitão de, Visconde de, 1799-1854 Frei Luiz de Sousa by Almeida Garrett pt Sousa, Luís de, 1555?-1632 PQ 2006-01-23 37
+p470
+aVThe Moral Economy Perry, Ralph Barton, 1876-1957 The Moral Economy by Ralph Barton Perry en Ethics BJ 2007-07-24 11
+p471
+aVA Jolly by Josh A Jolly by Josh en Young men   Conduct of life BJ 2006-01-13 0
+p472
+aVTales of Wonder A tale of London   Thirteen at table   The city on Mallington Moor   Why the milkman shudders when he perceives the dawn   The bad old woman in black   The bird of the difficult eye   The long porter's tale   The loot of Loma   The secret of the sea   How Ali came to the Black Country   The Bureau d'Exchange de Maux   A story of land and sea   A tale of the equator   A narrow escape   The watch-tower   How Plash-Goo came to the land of None's Desire   The three sailors' gambit   The exiles' club   The three infernal jokes. Dunsany, Edward John Moreton Drax Plunkett, Baron, 1878-1957 Tales of Wonder by Dunsany en Fantasy fiction, English PR 2004-10-21 116
+p473
+aVArt Bell, Clive, 1881-1964 Art by Clive Bell en   Aesthetics Art   History Art   N 2005-10-21 201
+p474
+aVMultiplied Blessings Eighteen Short Readings Hoare, Edward N., 1842- Multiplied Blessings by Edward N. Hoare en 2013-07-12 0
+p475
+aVCornwall's Wonderland How Corineus fought the chief of the giants   The giant of St. Michael's Mount   The legend of the Tamar, the Tavy, and the Taw   The strange story of Cherry Honey   The fairies on the Gump   The fairy ointment   The exciting adventure of John Sturtridge   The true story of Anne and the fairies   Barker and the Buccas   Lutey and the mermaid   The wicked spectre   The story of the lovers' cove   The silver table   Cruel Coppinger, the Dane   Madge Figgy, the wrecker   How Madge Figgy got her pig   The story of Sir Tristram and La Belle Iseult. Quiller-Couch, Mabel, 1866?-1924 Cornwall's Wonderland by Mabel Quiller-Couch en Legends   England   Cornwall (County) GR 2008-10-03 16
+p476
+aVÉtats-Unis en 1861. English The Uprising of a Great People The United States in 1861. to Which is Added a Word of Peace on the Difference Between England the United States. Gasparin, Agénor, comte de, 1810-1871 Booth, Mary L. (Mary Louise), 1831-1889 [Translator] États-Unis en 1861. English by Gasparin en   Trent Affair, 1861 United States   History   Civil War, 1861-1865 United States   Politics and government   1861-1865 Slavery   United States United States   Description and travel     E151 E456   2004-01-01 10
+p477
+aVThe Voice of Science in Nineteenth-Century Literature Representative Prose and Verse Rogers, Robert Emmons, 1888-1941 [Editor] The Voice of Science in Nineteenth-Century Literat en   English literature   19th century Science in literature Literature, Modern Science   PR 2010-04-03 0
+p478
+aVEmily Fox-Seton  Being "The Making of a Marchioness" and "The Methods of Lady Walderhurst" Burnett, Frances Hodgson, 1849-1924 Williams, C. D. (Charles D.), 1875-1954 [Illustrator] Emily Fox-Seton by Frances Hodgson Burnett en   Young women   Fiction Household employees   Fiction Aristocracy (Social class)   Fiction   PS 2005-12-05 217
+p479
+aVThe Path of the King Prologue   Hightower under Sunfell   The Englishman   The wife of Flanders   Eyes of youth   The maid   The wood of life   Eaucourt by the waters   The hidden city   The regicide   The marplot   The lit chamber   In the dark land   The last stage   The end of the road   Epilogue. Buchan, John, 1875-1940 The Path of the King by John Buchan en   Historical fiction War stories Kings and rulers   Fiction   PR 1999-11-01 68
+p480
+aVFive Little Peppers at School Hard Times for Joel   The Tennis Match   A Narrow Escape   Of Various Things   At Silvia Horne's   The Accident   The Salisbury Girls   \u201cWe're to have our picnic!\u201d   All About the Poor Brakeman    Joel and His Dog   The United Clubs   Some Every-day Fun   The Picnic   Miss Salisbury's Story   The Broken Vase   New Plans   Phronsie   Tom's Story   The Grand Entertainment   The Corcoran Family   At the Play   Pickering Dodge   The Clemcy Garden Party   The Piece of News   \u201cThe Very Prettiest Affair\u201d Sidney, Margaret, 1844-1924 Heyer, Hermann, 1876-1950 [Illustrator] Five Little Peppers at School by Margaret Sidney en   Schools   Juvenile fiction Five Little Peppers (Fictitious characters)   Juvenile fiction   PZ 2008-07-25 82
+p481
+aVThe world's great sermons, Volume 08  Talmage to Knox Little A bloody monster / Talmage   Songs in the night / Spurgeon   Memorial discourse on Phillips Brooks / Potter   The divinity in humanity / Abbott   The pride of life / Brooks   The prince of life / Gladdest   The forgiveness of sins / Clifford   What think ye of Christ? / Moody   The spirit of Christ / Fowler   Experience / Whyte   The transfigured sackcloth / Watkinson   The fall of Satan / Lorimer   Thirst satisfied / Little. Kleiser, Grenville, 1868-1953 [Editor] The world's great sermons, Volume 08 en Sermons BV 2004-03-01 65
+p482
+aVLes Romans de la Table Ronde (1 / 5)  Mis en nouveau langage et accompagnés de recherches sur l'origine et le caractère de ces grandes compositions Joseph d'Arimathie   Le Saint-Graal. Paris, Paulin, 1800-1881 Les Romans de la Table Ronde (1 / 5) by Paris fr Arthurian romances PQ 2013-05-20 71
+p483
+aVLégende d'Ulenspiegel. English The Legend of the Glorious Adventures of Tyl Ulenspiegel in the land of Flanders and elsewhere Coster, Charles de, 1827-1879   Whitworth, Geoffrey Arundel, 1883-1951 [Translator] Delstanche, Albert [Illustrator]   Légende d'Ulenspiegel. English by Coster en   Adventure stories Eulenspiegel (Satire)   Legends   PQ 2011-10-02 37
+p484
+aVThe Boy who sailed with Blake Kingston, William Henry Giles, 1814-1880 The Boy who sailed with Blake by Kingston en   Adventure and adventurers   Juvenile fiction Christian life   Juvenile fiction Voyages and travels   Juvenile fiction Blake, Robert, 1599-1657   Juvenile fiction Naval battles   England   Juvenile fiction Sailors   Juvenile fiction Great Britain   History   Civil War, 1642-1649   Juvenile fiction   PZ 2007-05-16 23
+p485
+aVA Century of Emblems Cautley, G. S. A Century of Emblems by G. S. Cautley en 2011-10-06 7
+p486
+aVThe Pirates of Panama or, The Buccaneers of Americaa True Account of the Famous Adventures and Daring Deeds of Sir Henry Morgan and Other Notorious Freebooters of the Spanish Main Illustrated by the editor. Exquemelin, A. O. (Alexandre Olivier) Williams, George Alfred, 1875-1932 [Editor] The Pirates of Panama by A. O.  Exquemelin en   West Indies   History Buccaneers Pirates Spanish Main   F1561 2008-09-23 104
+p487
+aVNoites de insomnia, offerecidas a quem não póde dormir. Nº2 (de 12) Noites de insónia, oferecidas a quem não pode dormir. Nº2 (de 12) Aquella casa triste... (romance) Solução do problema historico Dous preconceitos Lisboa Ferreira Rangel As joias de im ministro de D. João 5.º no prego O oraculo do marquez de Pombal O principe perfeito Ave rara Vergonhas nacionaes Rancho da Carqueja Bom humor (resposta ao noticiarista da "Actualidade") Declaração. Castelo Branco, Camilo, 1825-1890 Noites de insomnia, offerecidas a quem não póde  pt PQ 2008-01-31 10
+p488
+aVThirty Canadian V.Cs., 23d April 1915 to 30th March 1918   Martin, Stuart, Military Historian Goodridge Roberts, Theodore, 1877-1953 Richards, Robin Canadian War Records Office   Thirty Canadian V.Cs., 23d April 1915 to 30th Marc en   Victoria Cross World War, 1914-1918   Canada   D501 2012-09-02 16
+p489
+aa.

@@ -1,0 +1,108 @@
+(lp0
+VWhat percentage of living people with a Wikipedia article about them are married to people without a Wikipedia article?
+p1
+aVDoes Wikipedia use artificial intelligence to generate any of its articles?
+p2
+aVWhat do you do when your 5 year-old says "I hate you!"?
+p3
+aVCould math be falsifiable from physical experiment?
+p4
+aVWhat are some good IPython notebooks with machine learning examples?
+p5
+aVCan you recycle materials contaminated with food?
+p6
+aVI want my daughter to marry a doctor, but she's chosen this guy who works in a bike store. I tried to get her to leave him, but she wouldn't. What do I do now?
+p7
+aVWhat are some good probability problems?
+p8
+aVWhat are some good examples of Python packages that implement lazy imports?
+p9
+aVIs Mario Biagioli's "Galileo, Courtier" bad scholarship?
+p10
+aVHow do I write Python code to compute the number of states and the density of states of a polyatomic molecule?
+p11
+aVWhat is it like to be a member of the National Academy of Sciences?
+p12
+aVWhich one is more scalable: Meteor.js or Python with Tornado?
+p13
+aVWhat was Kanye West's list of reference material in the full-length Runaway?
+p14
+aVWhat do mathematicians think of Terence Tao?
+p15
+aVGame Theory: What do you do when they're storming the castle?
+p16
+aVHow has imperialism given rise to nationalism in the 20th century? Please discuss the experiences of at least THREE different countries in your answer.
+p17
+aVWho are the most evil humans in history whom most people have never heard of?
+p18
+aVWhat type of math should I develop skills in to become a better programmer and developer in HTML, CSS, Java, JS, C#, .NET, SQL, and Ruby?
+p19
+aVWhat are the differences of DataFrame between R and Pandas?
+p20
+aVWhich is the best "Pandora for Books" site?
+p21
+aVDid nationalism lead to imperialism? If so, how?
+p22
+aVCan something simultaneously be (a) true and (b) sexist?
+p23
+aVWho are the young (under 30 year old) rising stars in Physics?
+p24
+aVHow come the solution for the minimization using the big M method is completely different from the maximization results?
+p25
+aVCan we use the dual simplex method for any minimization problem?
+p26
+aVWhat are your favorite tricks for IPython Notebook?
+p27
+aV\u2605How do you explain Machine Learning and Data Mining to non Computer Science people?
+p28
+aVWhat are good math and physics courses to take in pairs?
+p29
+aVHow can highly creative people choose one discipline or topic (in academia or industry) and stick with it for a long period of time or even a life-time?
+p30
+aV\u2605Geometry: What is the intuition behind the formula for the area of a circle?
+p31
+aVWhat are some of the arguments against nationalism?
+p32
+aVWhat is the purpose of studying the history of science, discovery, and innovation?
+p33
+aVWhat are the mathematics working in the background of Darwinian evolution?
+p34
+aVStochastic Processes: What is an intuitive explanation for the Wiener-Khinchin theorem?
+p35
+aVCan virtualization be used as a special case solution to the Barber paradox?
+p36
+aVHow do we determine the quality of a quadratic fit?
+p37
+aVIn the proof of the Free Will Theorem, what would happen if we had 33 experimenters measure in all 33 directions while space-like separated?
+p38
+aVIs Terence Tao's liquid computer idea inspired by Wolfram's new kind of science (namely that computation is possible and commonplace in nature)?
+p39
+aVIs life worth living?
+p40
+aVWhy do so many financial companies use Windows instead of Mac?
+p41
+aVPaleoclimatology: Have there been any global climate models or EMICs that took the Milankovitch cycles into account?
+p42
+aVIs there a galactic "goldilocks zone" for habitable planets?
+p43
+aVDo planets have some kind of "DNA"?
+p44
+aVHow has earth and other planets formed into spheres? Why don't planets resemble jagged asteroid rock formations?
+p45
+aVIs there any free planet formation and/or climate modeling modeling software available?
+p46
+aVI am generating random integers from 1 to n. Let t be the number of random trials. Let  be the fraction of the trials that result in number i. How large does t have to be in order for , where ?
+p47
+aVWhat are some high-quality photographs of human emotions?
+p48
+aVWhat is it like to have Terence Tao as your advisor?
+p49
+aVDoes laser light occur naturally anywhere in the universe or is laser light created only by humans?
+p50
+aV\u2605What is one of the most passionate/romantic lines that people have heard or read?
+p51
+aVWhat record do you listen to when you need to be most productive?
+p52
+aVCan you recycle materials contaminated with food?
+p53
+a.
