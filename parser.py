@@ -4,7 +4,9 @@ from string import punctuation
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
-
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 class TextParser():
     '''
@@ -67,7 +69,7 @@ class TextParser():
         return book_df
 
 
-    def gutenberg_cat(path):
+    def gutenberg_cat(self, path):
         '''
         INPUT: filepath to csv from Gutenberg SQL dump
         OUTPUT: dataframe with Title, Author, subject tags and pre-vectorized descriptions
@@ -85,29 +87,40 @@ class TextParser():
 
         # Clean up cols
         for col in df.columns:
-            df[col] = df[col].apply(lambda x: x.replace('{', '')).apply(lambda x: x.replace('}', '')).apply(lambda x: x.replace('"', ''))
+            df[col] = df[col].apply(lambda x: x.replace('{', '')).apply(lambda x: x.replace('}', '')).apply(lambda x: x.replace('"', ' '))
+            df[col] = df[col].apply(lambda x: x.replace(',', ' '))
 
-        df.subj_tags = df_new.subj_tags.apply(lambda x: x.replace('--',''))
+        df.subj_tags = df.tags.apply(lambda x: x.replace('--',''))
 
         # Make a composite description column to be cleaned up
-
-        df['desc_tot'] = df['subj_tags']+' '+ df['Title']
+        df['desc_tot'] = df['tags']+' '+ df['title']
         return df
-        
+
     def assemble_df(self):
         '''
-        INPUT: dataframe from gutenberg
+        INPUT: dataframe from gutenberg, podcasts
         OUTPUT: aggregate df
         '''
-        books = pickle.load(open('book_list.pkl'))
-        bookdf = self.preprocess_gutenberg(books)
+
+        #books = pickle.load(open('book_list.pkl'))
+        bookdf = self.gutenberg_cat('data/ebooks.csv')
 
         # Add a clean vectorizable string col to df with raw desc
-        bookdf['cleaned_text'] = bookdf['verbose_desc'].apply(lambda x: x.split()).apply(self.clean_up)
-        print "Here's a clean dataframe of books: \n", bookdf
+        bookdf['cleaned_text'] = bookdf['desc_tot'].apply(lambda x: x.split()).apply(self.clean_up)
+        bookdf = bookdf[['title_auth', 'cleaned_text']]
+
+        f = open("data/podcast_df.pkl")
+        pcast_df = pickle.load(f)
+        pcast_df['desc'] = pcast_df['desc'].apply(lambda x: x.split()).apply(self.clean_up)
+        #print "Here's a clean dataframe of books: \n", bookdf
         
+        bookdf.columns = pcast_df.columns
+
+        # Set media types:
+        bookdf['type'] = 'ebook'
+        pcast_df['type'] = 'podcast'
         # Set df to bookdf
-        self.df = bookdf
+        self.df = pd.concat([pcast_df, bookdf], axis = 0)
 
 
 if __name__ == "__main__":
@@ -115,3 +128,4 @@ if __name__ == "__main__":
     read = TextParser()
     read.assemble_df()
     print read.df
+

@@ -7,7 +7,7 @@ A cross-resource recommendation engine for Quora users, discovering hidden gems 
 #### Motivation & Inspiration
 
 
-For many of us, [Quora](www.quora.com) is a beloved online repository of knowledge - a virtual meetingplace for hungry minds. True to its tagline, Quora often provides *"The best answer to any question"* on topics from Hinduism to horticulture, democratizing the knowledge, stories and intellectual resources of some of the most interesting and accomplished people in the world - public figures whose names you know ([Jimmy Wales!](http://www.quora.com/Jimmy-Wales) [Sheryl Sandberg!](http://www.quora.com/Sheryl-Sandberg)) and many others you may not.
+For many of us, [Quora](http://www.quora.com) is a beloved online repository of knowledge - a virtual meetingplace for hungry minds. True to its tagline, Quora often provides *"The best answer to any question"* on topics from Hinduism to horticulture, democratizing the knowledge, stories and intellectual resources of some of the most interesting and accomplished people in the world - public figures whose names you know ([Jimmy Wales!](http://www.quora.com/Jimmy-Wales) [Sheryl Sandberg!](http://www.quora.com/Sheryl-Sandberg)) and many others you may not.
 
 My work is motivated by frequently asked Quora questions of the form: "*How / where can I learn more about ____*"; my goal is to augment the endogenous functionality of Quora's Stack Exchange-esque question and answer format by identifying latent user interests and recommending a curated set of resources among the following: 
 
@@ -38,6 +38,8 @@ Use author, dates, loc class, subject tags,
 
 PG doesn't want to be scraped, but gives you [access to bibrecs](http://www.gutenberg.org/feeds/catalog.rdf.bz2) for the entire corpus of works in the repository. 
 
+UPDATE: I found an incredibly useful PostGres dump with better metadata and richer descriptions than I could have hoped for. Much cleaner than parsing through the XML and trying to filter for English texts!
+
 Collecting subject tags, title and author into a composite description yields what I hope will be a complete and verbose enough description to generate sensible recommendations. Gutenberg's raw catalog was an unwieldy RDF file with over 46,000 entries. I decided to dump the file into SQL and filter by works downloaded from the site at least 10,000 times. I got lucky here -- the BibRecs on PG are concise but informative (e.g. Shakespeare's *Othello* is tagged with the following: jealousy, interracial marriage, Muslims, Venice (Italy) and English Literature) 
 
 
@@ -55,4 +57,6 @@ Getting semantically-rich descriptions for podcasts took a fair bit of work, but
 #### Extending functionality to recommend resources for individual question pages
 
 TBD
+
+Yet another curated reading list of short stories: http://recommendedreading.tumblr.com/rss
 
