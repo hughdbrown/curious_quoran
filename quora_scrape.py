@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import time
+import pickle
 
 
 def profile_crawl(first_name, last_name, user_email, user_password):
@@ -56,7 +57,7 @@ def question_crawl(first_name, last_name, user_email, user_password):
 	Uses the selenium webdriver to opens Chrome and navigates to user's questions page.
 	'''
 
-	# Construct the URL of a user's profile page using their name
+	# Construct the URL of a user's questions asked page using their name
 	url = 'http://www.quora.com/'+first_name+'-'+last_name+'/questions'
 	
 	# Start the webdriver and navigate to desired url
@@ -92,14 +93,21 @@ def question_crawl(first_name, last_name, user_email, user_password):
    	
 if __name__ == "__main__":
 
-	# My login info, just a test
+	# First and last name of desired user. My name as a test
 	first_name = 'Asna'
 	last_name = 'Ansari'
+
+
+	# Need ANY login credentials for scraping, using mine as example
 	user_email = 'asna.ansari@gmail.com'
 	user_password = 'asna1005'
 	print '\n'
 	print "Questions followed, answers upvoted: \n" 
-	print profile_crawl(first_name, last_name, user_email, user_password)
+	q1 =  profile_crawl(first_name, last_name, user_email, user_password)
 	print '\n'
 	print "Questions asked: \n"
-	print question_crawl(first_name, last_name, user_email, user_password)
+	q2 = question_crawl(first_name, last_name, user_email, user_password)
+	total = q1+q2
+
+	# Quora dump to be parsed with text parser
+	pickle.dump(total, open("data/quora_data.pkl", "wb"))

@@ -44,4 +44,4 @@ if __name__=="__main__":
     df.desc = df['desc'].apply(lambda x: x.replace('[','')).apply(lambda x: x.replace('[',''))
 
     # Dump raw data to be processed by parser class
-    pickle.dump(df, open("podcast_df.pkl", "wb"))
+    pickle.dump(df, open("data/podcast_df.pkl", "wb"))

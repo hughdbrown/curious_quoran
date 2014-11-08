@@ -33,7 +33,7 @@ if __name__=="__main__":
 		book_list.append(output)
 		
 	# Dump raw data to be processed by parser class
-	pickle.dump(book_list, open("book_list.pkl", "wb"))
+	pickle.dump(book_list, open("data/book_list.pkl", "wb"))
 
 	
 	
