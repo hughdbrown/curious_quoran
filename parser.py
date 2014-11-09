@@ -4,6 +4,7 @@ from string import punctuation
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import TfidfVectorizer
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
@@ -123,9 +124,15 @@ class TextParser():
         self.df = pd.concat([pcast_df, bookdf], axis = 0)
 
 
+
 if __name__ == "__main__":
 
     read = TextParser()
     read.assemble_df()
     print read.df
+    quora_user = open('data/quora_data.pkl')
+    quora = pickle.load(quora_user)
+    filtered = read.preprocess_quora(quora)
+    print "Here's some clean Quora data: \n", read.clean_up(filtered)
+    
 
