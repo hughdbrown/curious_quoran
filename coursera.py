@@ -17,7 +17,9 @@ def get_coursera_data():
     course_dict = master_dict["elements"]
 
     podcast_df = pd.DataFrame.from_dict(course_dict)
+    print "There are {0} courses in the catalog.".format(len(podcast_df))
     return podcast_df
 
 if __name__=="__main__":
-    print get_coursera_data()
+    df= get_coursera_data()
+    print df
