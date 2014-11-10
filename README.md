@@ -1,19 +1,18 @@
 #The Curious Quoran
 ==============
 
-A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](https://coursera.org), [Khan Academy](https://www.khanacademy.org/), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/), LibGen and [Project Gutenberg](https://www.gutenberg.org/) ebook repositories.
+A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](https://coursera.org), [Khan Academy](https://www.khanacademy.org/), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/) and [Project Gutenberg](https://www.gutenberg.org/).
 
 
 #### Motivation & Inspiration
 
-
 For many of us, [Quora](http://www.quora.com) is a beloved online repository of knowledge - a virtual meetingplace for hungry minds. True to its tagline, Quora often provides *"The best answer to any question"* on topics from Hinduism to horticulture, democratizing the knowledge, stories and intellectual resources of some of the most interesting and accomplished people in the world - public figures whose names you know ([Jimmy Wales!](http://www.quora.com/Jimmy-Wales) [Sheryl Sandberg!](http://www.quora.com/Sheryl-Sandberg)) among hundreds of thousands of others you may not.
 
-My work is motivated by frequently asked Quora questions of the form: "*How / where can I learn more about ____*"; my goal is to augment the endogenous functionality of Quora's Stack Exchange-esque question and answer format by identifying latent user interests and recommending a curated set of resources among the following: 
+Motivated by "gateway" Quora questions of the form: "*How can I learn more about ____*", my goal is to augment the endogenous functionality of Quora's Stack Exchange-esque question and answer format by identifying latent user interests and recommending a curated set of resources among the following: 
 
-1. Project Gutenberg ebook repository
-2. Coursera courses
-3. iTunes podcasts
+1. Project Gutenberg ebook repository (40,000 free downloadable ebooks)
+2. Coursera (nearly 1000 free online courses)
+3. iTunes podcasts (countless available free via iTunes Podcast Store)
 
 ...thereby empowering autodidacts and curious individuals to continue their education free of charge.
 
@@ -23,13 +22,6 @@ My work is motivated by frequently asked Quora questions of the form: "*How / wh
 The first step was to obtain the data that feeds the engine: the data from a user's Quora profile page, which has questions asked and answers upvoted. Scraping Quora was a bit tricky: the function I wrote takes needs your first and last name, username and password and uses the Chrome webdriver in Python's `selenium` library to navigate to the page and log in with your information. 
 
 Stumbling block: Quora generates content with AJAX, so I needed to use `selenium`'s' webdriver to execute a bit of JavaScript to scroll to the bottom of the page. The functions in `quora_scrape.py` return a full list of questions followed and asked from the user's *entire* history! I consider this aggregate a snapshot of a Quoran's curiosities and will now use it for latent topic extraction and to generate top recommendations from external resources.
-
-
-#### Getting data from Khan Academy  (<= how do I turn this into a link to another readme?)
-
-Many of my targeted users want to deepen their understanding of a topic - overwhelmingly, Quora users seem to want explanations of various topics in layman's terms. I can't think of a better resource for this than Khan Academy, whose wonderful maxim empowers you to *"learn anything - for free, for everyone, forever"*. Fortunately, I'm the beneficiary of KA's *very* user-friendly and well-documented [API](http://api-explorer.khanacademy.org/).
-
-Want to use the topictree API and grab a composite of slug, description, title and keywords.
 
 #### Data from Project Gutenberg's Bibliographic Records
 
@@ -55,4 +47,6 @@ Getting semantically-rich descriptions for podcasts took a fair bit of work, but
 TBD
 
 Yet another curated reading list of short stories: http://recommendedreading.tumblr.com/rss
-Coursera API: for description concatenate shortname and name to underscore general topic.  
+Coursera API: for description concatenate shortname and name to underscore general topic.
+
+Once I had the pipeline in place, adding new resources (like curated writing from [Longform](http://longform.org) and changing the user profile or question page was a trivial matter.   
