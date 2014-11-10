@@ -1,6 +1,8 @@
 import pickle
 import pandas as pd
+import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 from scipy.spatial.distance import cosine
 import sys
 reload(sys)
@@ -32,21 +34,15 @@ class Recommender():
         
         Stem, lemmatize words in list and strip non alphabet chars and stopwords 
         '''
-        vec = TfidfVectorizer()
+        vec = TfidfVectorizer(ngram_range = (1,3))
         doc_vecs_sparse = vec.fit_transform(self.df.desc.values)
         doc_vecs = doc_vecs_sparse.toarray()
         quora_vec = vec.transform(self.quora.values)
 
-        print "Shape of doc vector array", doc_vecs.shape
-        print "Shape of quora vector", quora_vec.shape
+        # print "Shape of doc vector array", doc_vecs.shape
+        # print "Shape of quora vector", quora_vec.shape
         
-        for doc in doc_vecs:
-            doc = doc.reshape(1,doc.shape[0])
-            print doc.shape
-            print quora_vec.shape
-            self.distances.append(cosine(quora_vec, doc))
-
-        #self.distances = [cosine(quora_vec, d) for d in doc_vecs]
+        self.distances = cosine_similarity(quora_vec, doc_vecs_sparse)[0]
 
 
     def recommend(self):
@@ -55,7 +51,7 @@ class Recommender():
         OUTPUT: names and types of recommendations
         '''
 
-        top_ten = np.argsort(self.distances)[:10]
+        top_ten = np.argsort(self.distances)[::-1]
         return top_ten
 
 
@@ -63,6 +59,8 @@ if __name__ == "__main__":
 
     rec = Recommender()
     test = rec.vectorize()
+    top_ten_ind = rec.recommend()
+    print top_ten_ind[0]
     # recs = read.df.ix[top_ten_ind]
     # return recs[['title', 'type']]
 
