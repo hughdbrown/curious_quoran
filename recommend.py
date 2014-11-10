@@ -34,7 +34,7 @@ class Recommender():
         
         Stem, lemmatize words in list and strip non alphabet chars and stopwords 
         '''
-        vec = TfidfVectorizer(ngram_range = (1,3))
+        vec = TfidfVectorizer(ngram_range = (1,5), max_features = 4000)
         doc_vecs_sparse = vec.fit_transform(self.df.desc.values)
         doc_vecs = doc_vecs_sparse.toarray()
         quora_vec = vec.transform(self.quora.values)

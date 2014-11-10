@@ -18,14 +18,13 @@ def main():
     quora = pickle.load(quora_user)
     filtered = read.preprocess_quora(quora)
     clean_quora = read.clean_up(filtered)
-    print "Here's some clean Quora data: \n", clean_quora
+    print "Here's your clean Quora data: \n", clean_quora
     pickle.dump(clean_quora, open("data/clean_quora.pkl", "wb"))
 
     # Make recommendations
     rec = Recommender()
     test = rec.vectorize()
     top_ten_ind = rec.recommend()
-    print top_ten_ind
     recs = read.df.ix[top_ten_ind]
     print "These are your recommendations: \n"
     print recs[['title', 'type']]

@@ -26,13 +26,10 @@ def pcast_desc(rss_url):
    
     # Parse the page with BeautifulSoup
     soup = BeautifulSoup(description, 'xml')
-
     summary_text = str(soup.findAll('summary'))
-    # print summary_text
-
+    
     text = soup.get_text()
     clean = summary_text.replace('\n', '').replace('<itunes:summary>','').replace('</itunes:summary>','')
-    #print clean
     return clean
 
 
