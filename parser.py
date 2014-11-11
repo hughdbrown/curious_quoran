@@ -1,25 +1,22 @@
 import pickle
 import pandas as pd
 from string import punctuation
-from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
+from coursera import get_coursera_data
 from sklearn.feature_extraction.text import TfidfVectorizer
 import sys
-from coursera import get_coursera_data
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
 class TextParser():
     '''
     TextParser class with methods for NLP preprocessing from various sources
-
     '''
-
     def __init__(self):
         '''
         Only attribute is a master dataframe with all ref texts
-        Cols of the dataframe: verbose description, clean description
+        Dataframe columns will be title, description and type (podcast/course/ebook)
         '''
         self.df = None
 
@@ -54,19 +51,6 @@ class TextParser():
     	qlist_tot = reduce(lambda x, y: x+y, q_wlist)
     	return qlist_tot
 
-    def preprocess_gutenberg(self, gutenberg):
-        '''
-        INPUT: Gutenberg dump (list of string, each a book)
-        OUTPUT: Pandas df with text for each book in each row
-
-        '''
-        books = [b.split() for b in gutenberg if len(b) >0]
-        book_dict = {ind:' '.join(b) for ind,b in enumerate(books)}
-        book_df = pd.DataFrame.from_dict(book_dict, orient = 'index')
-        book_df.columns = ['verbose_desc']
-        return book_df
-
-
     def gutenberg_cat(self, path):
         '''
         INPUT: filepath to csv from Gutenberg SQL dump
@@ -97,13 +81,10 @@ class TextParser():
     def assemble_df(self):
         '''
         INPUT: dataframe from gutenberg, podcasts
-        OUTPUT: aggregate df
+        OUTPUT: Aggregated dataframe with title, description, and resource type
         '''
-
-        #books = pickle.load(open('book_list.pkl'))
         bookdf = self.gutenberg_cat('data/ebooks.csv')
 
-        # Add a clean vectorizable string col to df with raw desc
         bookdf['cleaned_text'] = bookdf['desc_tot'].apply(lambda x: x.split()).apply(self.clean_up)
         bookdf = bookdf[['title_auth', 'cleaned_text']]
 
@@ -114,9 +95,8 @@ class TextParser():
         course_df = get_coursera_data()
         course_df['desc'] = course_df['desc'].apply(lambda x: x.split()).apply(self.clean_up)
 
-        # Set media types:
+        # Set media types in new column:
         bookdf['type'] = 'ebook'
         pcast_df['type'] = 'podcast'
-        self.df = pd.concat([pcast_df, bookdf], axis = 0)
-        self.df = pd.concat([self.df, course_df], axis = 0)
+        self.df = pd.concat([pcast_df, bookdf, course_df], axis = 0)
         self.df = self.df.reset_index()
