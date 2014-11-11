@@ -1,7 +1,7 @@
 #The Curious Quoran
 ==============
 
-A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](https://coursera.org), [Khan Academy](https://www.khanacademy.org/), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/) and [Project Gutenberg](https://www.gutenberg.org/).
+A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](https://coursera.org), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/) and [Project Gutenberg](https://www.gutenberg.org/).
 
 
 #### Motivation & Inspiration
@@ -14,7 +14,7 @@ Motivated by "gateway" Quora questions of the form: "*How can I learn more about
 2. Coursera (~800 free online courses)
 3. iTunes podcasts (countless, available free via iTunes Podcast Store)
 
-...thereby empowering autodidacts and curious individuals to continue their education free of charge.
+...thereby empowering autodidacts and curious individuals to continue their education at no cost.
 
 
 #### Getting started
@@ -55,6 +55,8 @@ In tapping into Quora discourse, this tool leverages a user history not easily c
 #### Feature engineering: the secret sauce
 
 Creativity in feature engineering is the crux of this project: once a document is tranformed into vector space with TF-IDF weighting, need to "magnify" latent interests so that cosine similarity will yield optimal results.
+
+Preventing overfitting to 
 
 Also needed to perform regularization (dividing by the L2 norm of TF-IDF vectors) to eliminate bias toward longer documents with more words. 
 
