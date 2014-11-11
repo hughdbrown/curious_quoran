@@ -1,4 +1,5 @@
 import pandas as pd
+from string im
 
 def gutenberg_cat(path):
     '''
@@ -22,10 +23,9 @@ def gutenberg_cat(path):
 
     df.subj_tags = df.tags.apply(lambda x: x.replace('--',' '))
 
-    # Make a composite description column to be cleaned up
+    # Make a composite description with tags and title
     df['desc_tot'] = df['tags']+' '+ df['title']
-    print df.columns
     return df
 
 if __name__=="__main__":
-	gutenberg_cat('ebooks.csv')
+    gutenberg_cat('ebooks.csv')
