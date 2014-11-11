@@ -8,7 +8,7 @@ def main():
     INPUT: None
     OUTPUT: Recommendations sorted in order of relevance
     
-    Uses the TextParer and Recommender classes to generate resource recommendations given a user's Quora data
+    Uses the TextParser and Recommender classes to generate resource recommendations given a user's Quora data
     '''
 
     read = TextParser()

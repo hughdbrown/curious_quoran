@@ -46,7 +46,6 @@ class TextParser():
 
     	Turn raw list of individual questions into one raw string
     	'''
-
     	q_wlist = [q.split() for q in quora]
     	qlist_tot = reduce(lambda x, y: x+y, q_wlist)
     	return qlist_tot

@@ -21,7 +21,7 @@ Motivated by "gateway" Quora questions of the form: "*How can I learn more about
 
 The first step was to obtain the data that feeds the engine: the data from a user's Quora profile page, which has questions asked and answers upvoted. Scraping Quora was a bit tricky: the function I wrote takes needs your first and last name, username and password and uses the Chrome webdriver in Python's `selenium` library to navigate to the page and log in with your information. 
 
-Stumbling block: Quora generates content with AJAX, so I needed to use `selenium`'s' webdriver to execute a bit of JavaScript to scroll to the bottom of the page. The functions in `quora_scrape.py` return a full list of questions followed and asked from the user's *entire* history! I consider this aggregate a snapshot of a Quoran's curiosities and will now use it to generate top recommendations from external resources.
+Stumbling block: Quora generates content with AJAX, so I needed to use the `selenium` webdriver to execute a bit of JavaScript to scroll to the bottom of the page. The functions in `quora_scrape.py` return a full list of questions followed and asked from the user's *entire* history! I consider this aggregate a snapshot of a Quoran's curiosities and will now use it to generate top recommendations from external resources.
 
 #### Data from Project Gutenberg's Bibliographic Records
 

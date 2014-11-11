@@ -16,7 +16,7 @@ def get_coursera_data():
     df = pd.DataFrame.from_dict(course_dict)
     df['type']= "course"
     df = df[['name', 'shortName', 'type']]
-    df['shortName'] = df['name']+' '+df['shortName']
+    df['shortName'] = df['name']+' '+df['shortName'] # Aggregate name and tags for description
     df.columns = ['title', 'desc', 'type']
     print "There are {0} courses in the catalog.".format(len(df))
     return df
