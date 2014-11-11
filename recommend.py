@@ -32,16 +32,13 @@ class Recommender():
         INPUT: list of cleaned, lemmatized and filtered text
         OUTPUT: cleaned up string ready to be fed into a vectorizer
         
-        Stem, lemmatize words in list and strip non alphabet chars and stopwords 
+        Vectorizes documents in the corpus (resources from PG, Coursera, etc.) and computes cosine similarity
+        with a user's Quora profile information or Question Page 
         '''
-        vec = TfidfVectorizer(ngram_range = (1,5), max_features = 4000)
-        doc_vecs_sparse = vec.fit_transform(self.df.desc.values)
-        doc_vecs = doc_vecs_sparse.toarray()
-        quora_vec = vec.transform(self.quora.values)
 
-        # print "Shape of doc vector array", doc_vecs.shape
-        # print "Shape of quora vector", quora_vec.shape
-        
+        vec = TfidfVectorizer(ngram_range = (1,4), max_features = 4000)
+        doc_vecs_sparse = vec.fit_transform(self.df.desc.values)
+        quora_vec = vec.transform(self.quora.values)
         self.distances = cosine_similarity(quora_vec, doc_vecs_sparse)[0]
 
 
@@ -52,15 +49,4 @@ class Recommender():
         '''
 
         top_ten = np.argsort(self.distances)[::-1]
-        return top_ten
-
-
-if __name__ == "__main__":
-
-    rec = Recommender()
-    test = rec.vectorize()
-    top_ten_ind = rec.recommend()
-    print top_ten_ind[0]
-    # recs = read.df.ix[top_ten_ind]
-    # return recs[['title', 'type']]
-
+        return top_ten[:20]

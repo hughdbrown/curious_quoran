@@ -6,6 +6,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 import sys
+from coursera import get_coursera_data
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
@@ -34,9 +35,7 @@ class TextParser():
         stop = stopwords.words('english')
         extra_stopwords = ['mr', 'said', 'like', 'it', 'to', 'he', 'ms', 'dr', 're'] # Adding some custom stopwords 
         stop += extra_stopwords
-
         filtered =  [w.encode('ascii', 'ignore').lower().replace('\u2605','') for w in raw_wordlist if w.encode('ascii', 'ignore').lower().replace('\u2605','').replace('"','') not in stop]
-
         
         # Use wordnet lemmatizer on raw list
         lmtzr = WordNetLemmatizer()
@@ -61,9 +60,7 @@ class TextParser():
         OUTPUT: Pandas df with text for each book in each row
 
         '''
-
         books = [b.split() for b in gutenberg if len(b) >0]
-        print "Here's a book:", books[0]
         book_dict = {ind:' '.join(b) for ind,b in enumerate(books)}
         book_df = pd.DataFrame.from_dict(book_dict, orient = 'index')
         book_df.columns = ['verbose_desc']
@@ -93,7 +90,7 @@ class TextParser():
 
         df.subj_tags = df.tags.apply(lambda x: x.replace('--',''))
 
-        # Make a composite description column to be cleaned up
+        # Make a composite book description column
         df['desc_tot'] = df['tags']+' '+ df['title']
         return df
 
@@ -113,26 +110,13 @@ class TextParser():
         f = open("data/podcast_df.pkl")
         pcast_df = pickle.load(f)
         pcast_df['desc'] = pcast_df['desc'].apply(lambda x: x.split()).apply(self.clean_up)
-        #print "Here's a clean dataframe of books: \n", bookdf
-        
         bookdf.columns = pcast_df.columns
+        course_df = get_coursera_data()
+        course_df['desc'] = course_df['desc'].apply(lambda x: x.split()).apply(self.clean_up)
 
         # Set media types:
         bookdf['type'] = 'ebook'
         pcast_df['type'] = 'podcast'
-        # Set df to bookdf
         self.df = pd.concat([pcast_df, bookdf], axis = 0)
-
-
-
-if __name__ == "__main__":
-
-    read = TextParser()
-    read.assemble_df()
-    print read.df
-    quora_user = open('data/quora_data.pkl')
-    quora = pickle.load(quora_user)
-    filtered = read.preprocess_quora(quora)
-    print "Here's some clean Quora data: \n", read.clean_up(filtered)
-    
-
+        self.df = pd.concat([self.df, course_df], axis = 0)
+        self.df = self.df.reset_index()

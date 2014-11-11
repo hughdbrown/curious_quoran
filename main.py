@@ -30,7 +30,5 @@ def main():
     print "These are your recommendations: \n"
     print recs[['title', 'type']]
 
-
-
 if __name__ =="__main__":
 	main()	
