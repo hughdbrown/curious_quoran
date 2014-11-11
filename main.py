@@ -6,13 +6,14 @@ import pickle
 def main():
     '''
     INPUT: None
-    OUTPUT: Recommendations in srted order of relevance
+    OUTPUT: Recommendations sorted in order of relevance
     
-
+    Uses the TextParer and Recommender classes to generate resource recommendations given a user's Quora data
     '''
 
     read = TextParser()
     read.assemble_df()
+    print read.df
     pickle.dump(read.df, open("data/master_df.pkl", "wb"))
     quora_user = open('data/quora_data.pkl')
     quora = pickle.load(quora_user)

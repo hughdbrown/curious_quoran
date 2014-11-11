@@ -16,9 +16,15 @@ def get_coursera_data():
     master_dict = courses.json()
     course_dict = master_dict["elements"]
 
-    podcast_df = pd.DataFrame.from_dict(course_dict)
-    print "There are {0} courses in the catalog.".format(len(podcast_df))
-    return podcast_df
+    df = pd.DataFrame.from_dict(course_dict)
+    df['type']= "course"
+    df = df[['name', 'shortName', 'type']]
+    df['desc'] = df['name']+' '+df['shortName']
+    df.columns = ['title', 'desc1', 'type', 'desc']
+    del df['desc1']
+    df = df[['title', 'desc', 'type']]
+    print "There are {0} courses in the catalog.".format(len(df))
+    return df
 
 if __name__=="__main__":
     df= get_coursera_data()
