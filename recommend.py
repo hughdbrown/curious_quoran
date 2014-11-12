@@ -21,6 +21,8 @@ class Recommender():
         '''
         self.df = pickle.load(open("data/master_df.pkl"))
         self.quora = pd.Series(pickle.load(open("data/clean_quora.pkl")))
+        print "Testing quality of Quora data: \n"
+        print self.quora.values
         self.distances = []
         
     def vectorize(self):
@@ -32,10 +34,12 @@ class Recommender():
         with a user's Quora profile information or Question Page 
         '''
 
-        vec = TfidfVectorizer(ngram_range = (1,5), max_features = 6000)
+        vec = TfidfVectorizer(ngram_range = (1,5), max_features = 9000)
+        #vec = TfidfVectorizer(ngram_range = (2,3), max_features=5000)
         doc_vecs_sparse = vec.fit_transform(self.df.desc.values)
         quora_vec = vec.transform(self.quora.values)
         self.distances = cosine_similarity(quora_vec, doc_vecs_sparse)[0]
+        print vec.get_feature_names()
 
 
     def recommend(self):

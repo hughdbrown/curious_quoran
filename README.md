@@ -33,7 +33,7 @@ Aside: the real challenge of this project is to recommend slight variations of t
 
 #### Podcast Data
 
-Getting semantically-rich descriptions for podcasts took a fair bit of work, but thanks to the FeedWrangler [API](https://feedwrangler.net/developers/podcasts_directory#show) I was able to get the top fifty most popular and scrape the episode feed urls to retrieve salient text for the most recent episodes. This worked surprisingly well, especially for very niche domain-specific podcasts steeped in jargon, like Accidental Tech Podcast, NPR Planet Money or Freakonomics Radio.
+Getting semantically-rich descriptions for podcasts took a fair bit of work, but thanks to the FeedWrangler [API](https://feedwrangler.net/developers/podcasts_directory#show) I was able to get the top fifty most popular and scrape the episode feed urls to retrieve salient text for the most recent episodes. This worked surprisingly well, especially for very niche, domain-specific podcasts steeped in jargon, like Accidental Tech Podcast, NPR Planet Money or Freakonomics Radio.
 
 
 #### Misc. ideas for extras, extending functionality to recommend resources for individual question pages
@@ -47,16 +47,16 @@ Once I had the pipeline in place, adding new resources (like curated writing fro
 
 ### Why is this more sophisticated than a search engine?
 
-You might wonder why this is worth the trouble of aggregation and lexical analysis when it seems like a Google search could yield similar results. 
+You might wonder why this is worth the trouble of aggregation and lexical analysis when it seems like a Google search could yield similar results ADD HERE etc etc
 
 In tapping into Quora discourse, this tool leverages a user history not easily conveyed in a phrase plugging into a search engine. 
 
 
 #### Feature engineering: the secret sauce
 
-Creativity in feature engineering is the crux of this project: once a document is tranformed into vector space with TF-IDF weighting, need to "magnify" latent interests so that cosine similarity will yield optimal results.
+Creativity in feature engineering is the crux of this project: once a document is tranformed into vector space with TF-IDF weighting, need to "magnify" latent interests so that cosine similarity will yield optimal results. etc etc fix me add stuff here
 
-Preventing overfitting to 
+Preventing overfitting to documents of a certain length etc etc etc
 
 Also needed to perform regularization (dividing by the L2 norm of TF-IDF vectors) to eliminate bias toward longer documents with more words. 
 

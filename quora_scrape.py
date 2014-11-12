@@ -19,8 +19,10 @@ def profile_crawl(first_name, last_name, user_email, user_password):
 	# Construct the URL of a user's profile page using their name
 	#url = 'http://www.quora.com/'+first_name+'-'+last_name
 	#url = 'http://www.quora.com/William-Lane-2'
-	url = 'http://www.quora.com/Charles-Durand-1'
-	
+	#url = 'http://www.quora.com/Charles-Durand-1'
+	url = 'http://www.quora.com/Asna-Ansari'
+	#url = 'http://www.quora.com/Tammy-Lee-17'
+
 	# Start the webdriver and navigate to desired url
 	driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
 	driver.get(url)
@@ -106,7 +108,8 @@ if __name__ == "__main__":
 	user_password = 'asna1005'
 	q1 =  profile_crawl(first_name, last_name, user_email, user_password)
 	q2 = question_crawl(first_name, last_name, user_email, user_password)
-	total = q1
+	total = q1+q2
+	total =[t.replace("'s",'') for t in total]
 	print total
 
 	# Quora dump to be parsed with text parser
