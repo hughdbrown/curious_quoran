@@ -1,5 +1,6 @@
 from recommend import Recommender
 from parser import TextParser
+from image_scraper import get_image
 import pickle
 
 
@@ -28,6 +29,8 @@ def main():
     recs = recs.reset_index()
     print "These are your recommendations: \n"
     print recs[['title', 'type']]
+    for i in recs['title']:
+        print get_image(i)
     return recs[['title', 'type']]
 
 if __name__ =="__main__":

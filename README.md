@@ -25,10 +25,7 @@ Stumbling block: Quora generates content with AJAX, so I needed to use the `sele
 
 #### Data from Project Gutenberg's Bibliographic Records
 
-Collecting subject tags, title and author into a composite description yields what I hope will be a complete and verbose enough description to generate sensible recommendations. Gutenberg's raw catalog was an unwieldy RDF file with over 46,000 entries. I was lucky enough to stumble upon a PostGres SQL dump of the entire PG catalog (far less unwieldy than the original XML/RDF file). I ended up filtering by works in the desired language (English, when using myself as a test case - this is generalizable) downloaded from the site at least 10,000 times. I was the beneficiary of the bibliographic records, which are concise but informative (e.g. Shakespeare's *Othello* is tagged with the following: jealousy, interracial marriage, Muslims, Venice (Italy) and English Literature) 
-
-
-Aside: the real challenge of this project is to recommend slight variations of the things users have asked about. Could add an extension for meetups in the city the user lives in. Given your Quora curiosities (quoriosities?): what should you do, read, hear, see? Need clever featurization for cross-platform resources 
+I collected subject tags, titles and authors into a composite description to yield sufficiently verbose descriptions for sensible recommendations. I was lucky enough to stumble upon a PostGres SQL dump of the entire PG catalog (far less unwieldy than the original XML/RDF file) and ended up filtering by works in English. I was the beneficiary of Gutenberg's bibliographic records, which are concise but informative (e.g. Shakespeare's *Othello* is tagged with the following: jealousy, interracial marriage, Muslims, Venice (Italy) and English Literature) 
 
 
 #### Podcast Data

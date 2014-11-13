@@ -50,10 +50,10 @@ def profile_crawl(first_name, last_name, user_email, user_password):
 	soup = BeautifulSoup(html, 'html.parser')
 	
 	q_list = [link.get_text() for link in soup.find_all("a", attrs={"class": "question_link"})]
-	topic_list = [link.get_text() for link in soup.find_all("a", attrs={"class": "topic_name"})]
+	#topic_list = [link.get_text() for link in soup.find_all("a", attrs={"class": "topic_name"})]
 
 	#return topic_list
-	return q_list+topic_list
+	return q_list
 
 def question_crawl(first_name, last_name, user_email, user_password):
 	'''

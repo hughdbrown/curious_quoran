@@ -39,8 +39,7 @@ class Recommender():
         doc_vecs_sparse = vec.fit_transform(self.df.desc.values)
         quora_vec = vec.transform(self.quora.values)
         self.distances = cosine_similarity(quora_vec, doc_vecs_sparse)[0]
-        print vec.get_feature_names()
-
+        
 
     def recommend(self):
         '''
