@@ -2,6 +2,8 @@ from recommend import Recommender
 from parser import TextParser
 from image_scraper import get_image
 import pickle
+from selenium import webdriver
+
 
 
 def main():
@@ -27,11 +29,16 @@ def main():
     top_ten_ind = rec.recommend()
     recs = read.df.ix[top_ten_ind]
     recs = recs.reset_index()
+    recs['img_link'] = map(get_image, recs['title'])
+    recs['img_link'] = recs['img_link'].apply(lambda x: x[0])
     print "These are your recommendations: \n"
-    print recs[['title', 'type']]
-    for i in recs['title']:
-        print get_image(i)
-    return recs[['title', 'type']]
+    print recs[['title', 'type', 'img_link']]
+
+    # for link in recs['img_link']:
+    #     driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
+    #     driver.get(link)
+
+    return recs[['title', 'type', 'img_link']]
 
 if __name__ =="__main__":
     main()	
