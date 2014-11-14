@@ -9,10 +9,8 @@ from selenium import webdriver
 
 def get_image(searchTerm):
     '''
-
     INPUT: string, search term
     OUTPUT: list of strings (urls) with top Google search image results
-
 
     '''
 
