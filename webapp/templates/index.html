@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+    <title>The Curious Quoran</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='mystyles.css') }}">
+    <link rel="shortcut icon" filename = "icon.jpg">
+</head>
+
+<body>
+    {% for i in data %}
+    	<img src = {{i}} >
+    {% endfor %}
+</body>
+</html>
