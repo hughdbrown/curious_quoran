@@ -51,7 +51,7 @@ In tapping into Quora discourse, this tool leverages a user history not easily c
 
 #### Feature engineering: the secret sauce
 
-Creativity in feature engineering is the crux of this project: once a document is tranformed into vector space with TF-IDF weighting, need to "magnify" latent interests so that cosine similarity will yield optimal results. etc etc fix me add stuff here
+Creativity in feature engineering is the crux of this project: once a document is transformed into vector space with TF-IDF weighting, need to "magnify" latent interests so that cosine similarity will yield optimal results. etc etc fix me add stuff here
 
 Preventing overfitting to documents of a certain length etc etc etc
 

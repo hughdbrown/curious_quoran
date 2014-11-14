@@ -31,13 +31,9 @@ def main():
     recs = recs.reset_index()
     recs['img_link'] = map(get_image, recs['title'])
     recs['img_link'] = recs['img_link'].apply(lambda x: x[0])
+    pickle.dump(recs, open("data/recs.pkl", "wb"))
     print "These are your recommendations: \n"
     print recs[['title', 'type', 'img_link']]
-
-    # for link in recs['img_link']:
-    #     driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
-    #     driver.get(link)
-
     return recs[['title', 'type', 'img_link']]
 
 if __name__ =="__main__":

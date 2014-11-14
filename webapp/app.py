@@ -5,7 +5,7 @@ import pickle
 app = Flask(__name__)
 
 
-df = pickle.load(open("data/recs.pkl", "rb"))
+df = pickle.load(open("../data/recs.pkl", "rb"))
 
 @app.route('/')
 def index():

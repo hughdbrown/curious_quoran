@@ -20,9 +20,9 @@ def profile_crawl(first_name, last_name, user_email, user_password):
 	#url = 'http://www.quora.com/'+first_name+'-'+last_name
 	#url = 'http://www.quora.com/William-Lane-2'
 	#url = 'http://www.quora.com/Charles-Durand-1'
-	url = 'http://www.quora.com/Asna-Ansari'
 	#url = 'http://www.quora.com/Tammy-Lee-17'
-
+	url = 'http://www.quora.com/Asna-Ansari'
+	
 	# Start the webdriver and navigate to desired url
 	driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
 	driver.get(url)
