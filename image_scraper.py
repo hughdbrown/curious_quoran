@@ -13,11 +13,6 @@ def get_image(searchTerm):
     searchTerm = searchTerm.replace('%','')
     searchTerm = searchTerm.replace(' ','%20')
     
-    # Start FancyURLopener with defined version 
-    # class MyOpener(FancyURLopener): 
-    #     version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'
-    # myopener = MyOpener()
-
     count= 0
     urls = []
     for i in range(0,2):
@@ -35,6 +30,5 @@ def get_image(searchTerm):
             count += 1
             urls.append(myUrl['unescapedUrl'])
 
-        # Sleep to prevent IP blocking from Google
         time.sleep(1)
         return urls
