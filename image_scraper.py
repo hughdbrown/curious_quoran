@@ -13,7 +13,6 @@ def get_image(searchTerm):
     OUTPUT: list of strings (urls) with top Google search image results
 
     '''
-
     # Replace spaces ' ' in search term for '%20' in order to comply with request
     searchTerm = searchTerm.replace('%','').replace(' ','%20')
     
@@ -21,9 +20,7 @@ def get_image(searchTerm):
     request = urllib2.Request(url, None, {'Referer': 'testing'})
     response = urllib2.urlopen(request)
     results = simplejson.load(response)
-    
     data = results['responseData']
     dataInfo = data['results']
     img_urls = [myUrl['unescapedUrl'] for myUrl in dataInfo]
-    
-    return img_urls
+    return img_urls[0]

@@ -5,7 +5,6 @@ import pickle
 from selenium import webdriver
 
 
-
 def main():
     '''
     INPUT: None
@@ -30,8 +29,7 @@ def main():
     recs = read.df.ix[top_ten_ind]
     recs = recs.reset_index()
     recs['img_link'] = map(get_image, recs['title'])
-    recs['img_link'] = recs['img_link'].apply(lambda x: x[0])
-    recs.loc[recs['type']=='course', 'img_link'] = 'http://blog.tdstelecom.com/wp-content/uploads/2013/05/coursera-logo.jpeg'
+    recs.loc[recs['type']=='course', 'img_link'] = 'http://www.michaellenox.com/wp-content/uploads/2014/07/coursera_square_logo.jpg'
     pickle.dump(recs, open("data/recs.pkl", "wb"))
     print "These are your recommendations: \n"
     print recs[['title', 'type', 'img_link']]
