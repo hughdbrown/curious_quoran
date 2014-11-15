@@ -1,32 +1,64 @@
-<!doctype html>
 <html>
 <head>
-    <title>The Curious Quoran</title>
-    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='mystyles.css') }}">
-    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <title></title>
     <style>
-    p
-    {
-    	float: left;
-    }
+html, body {
+    min-height:100%;
+    min-width:100%;
+    margin: 0;
+    padding: 0;
+}
 
-    img {
-    	width:100%;
-    	float: left;
-    }
-    .tiles
-    {
-    	float: left;
-    }
+.one {
+        width: 62%;
+        height: 100%;
+        background-color: pink;
+        float: left;
+}
+
+.two {
+        width: 37.5%;
+        height: 60%;
+        background-color: cyan;
+        float: right;
+}
+.three {
+        width: 25%;
+        height: 40%;
+        background-color: grey;
+        float: right;
+
+}
+.four {
+        width: 12.5%;
+        height: 20%;
+        background-color: violet;
+        float: right;
+}
+.five {
+        width: 12.5%;
+        height: 20%;
+        background-color: purple;
+        float: right;
+}
+img {
+    width:auto;
+    height:100%;
+}
+p {
+    overflow: scroll;
+    width: 33%;
+    float:right;
+}
     </style>
 </head>
-
 <body>
-    {% for a,b in data %}
-    <div class="tiles">
-    	<p>{{a}}<p>
-    	<img src = {{b}} style="width:200px; height:200px" >
-    </div>
-    {% endfor %}
+        <div class='one'>
+            ONE
+        </div>
+        <div class='two'> TWO </div> 
+        <div class='three'> THREE </div> 
+        <div class='four'> FOUR </div> 
+        <div class='five'> FIVE </div>
 </body>
 </html>
