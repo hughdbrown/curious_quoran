@@ -1,9 +1,153 @@
+<!DOCTYPE html>
 <html>
+
 <head>
-    <title>The Curious Quoran</title> 
+
+  <meta charset="UTF-8">
+
+  <title>The Curious Quoran</title>
+
+    <style>
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400,300);
+@import url(http://fonts.googleapis.com/css?family=Lato:700,400,300);
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+
+	color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+#yolo
+{
+    position: absolute;
+	bottom:0px;
+    left: calc(50% - 100px);
+    height: 330px;
+    width: 330px;
+}
+
+.body{
+	position: absolute;
+	top: -20px;
+	left: -20px;
+	right: -40px;
+	bottom: -40px;
+	width: auto;
+	height: auto;
+	background-size: cover;
+	z-index: 0;
+}
+
+.header{
+	position: absolute;
+	top: calc(50% - 270px);
+	left: calc(50% - 300px);
+	z-index: 2;
+}
+
+.header div{
+    bottom: 10px;
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 80px;
+	font-weight: 100;
+}
+
+.header div span{
+	color: #FF0000 !important;
+}
+
+.login{
+	position: absolute;
+	top: calc(50% - 150px);
+    left: calc(50% - 114px);
+	height: 250px;
+	width: 350px;
+	padding: 10px;
+	z-index: 2;
+}
+
+.login input[type=text]{
+	width: 310px;
+	height: 35px;
+	background: transparent;
+	border: 1px solid #000000;
+	border-radius: 2px;
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	font-weight: 100;
+	padding: 10px;
+}
+
+.login input[type=button]{
+	width: 330px;
+	height: 60px;
+	background: #FF0000;
+	border: 1px solid #FF0000;
+	cursor: pointer;
+	border-radius: 2px;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	font-weight: 100;
+	padding: 3px;
+	margin-top: 5px;
+}
+
+.login input[type=button]:hover{
+	opacity: 0.5;
+}
+
+.login input[type=button]:active{
+	opacity: 0.6;
+}
+
+.login input[type=text]:focus{
+/*	outline: none;
+*/	border: 1px solid rgba(255,255,255,0.9);
+}
+
+.login input[type=button]:focus{
+	outline: none;
+}
+
+::-webkit-input-placeholder{
+   color: #000000;
+}
+
+::-moz-input-placeholder{
+   color: #000000;
+}
+</style>
+    <script src="js/prefixfree.min.js"></script>
 </head>
+
 <body>
-    <h2> The Curious Quoran </h2>
-    <img src="{{url_for('static', filename='cq_logo.png') }}">
+
+  <div class="body"></div>
+		<div class="grad"></div>
+		<div class="header">
+			<div>TheCurious<span>Quora</span>n</div>
+		</div>
+		<br>
+		<div class="login">
+				<input type="text" placeholder="www.quora.com/Your-Name" name="user"><br>
+				<input type="button" value="Discover">
+		</div>
+        <figure>
+        <center>   
+        <img id="yolo" src="{{url_for('static', filename='cq_logo.png') }}" alt="Image not found">
+        </center>
+        </figure>
+
+
+  <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+
 </body>
+
 </html>
