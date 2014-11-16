@@ -34,7 +34,6 @@ def profile_crawl(url):
 	password.send_keys(user_password)
 	password.send_keys(Keys.RETURN)
 
-
 	# Simulate scrolling to populate the page with infinite scrolling
 	scroll_height=0.1
 	while scroll_height < 100:
@@ -49,7 +48,7 @@ def profile_crawl(url):
 	q_list = [link.get_text() for link in soup.find_all("a", attrs={"class": "question_link"})]
 	topic_list = [link.get_text() for link in soup.find_all("a", attrs={"class": "topic_name"})]
 
-	# Navigate to questions page and scrape
+	# Now navigate to questions page and scrape
 	url2 = url+'/questions'
 	driver.get(url2)
 	scroll_height=0.1
@@ -64,8 +63,6 @@ def profile_crawl(url):
 
 	# Collect all questions asked
 	asked = [link.get_text() for link in soup.find_all("a", attrs={"class": "question_link"})]
-
-
 	output = {'text':q_list, 'topics': topic_list, 'asked': asked}
 	return output
 
@@ -74,6 +71,4 @@ if __name__ == "__main__":
 	print q1
 	# total =[t.replace("'s",'') for t in total]
 	# print total
-
-	# Quora dump to be parsed with text parser
 	# pickle.dump(total, open("data/quora_data.pkl", "wb"))
