@@ -7,27 +7,20 @@ app = Flask(__name__)
 
 # Load dataframe of recommendations
 df = pickle.load(open("../data/recs.pkl", "rb"))
+df['div_tag'] = ['ONE', 'TWO', 'THREE', 'FOUR', 'FIVE']
+
+@app.route('/recs')
+def index():
+    return render_template('index.html', data = df[['title', 'img_link', 'div_tag']].values)
+
 
 @app.route('/')
-def index():
-    return render_template('index.html', data = df[['title', 'img_link']].values)
-
-
-@app.route('/quora_submit')
 def submit_quora():
-	return '''
-	
-	<br>
-	Please enter your Quora profile page URL here:
-	<br>
+	return render_template('submit.html')
 
-	<form action="/recommend" method = 'POST'>
-		<input type="text" name = 'user_input'>
-		<input type = "submit" />
-	'''
 
 @app.route('/recommend', methods=['POST'])
-def recommender():
+def recommend():
 	user_data = str(request.form['user_input'])
 	profile_crawl(user_data)
 	df = main()

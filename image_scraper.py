@@ -16,7 +16,7 @@ def get_image(searchTerm):
     # Replace spaces ' ' in search term for '%20' in order to comply with request
     searchTerm = searchTerm.replace('%','').replace(' ','%20')
     
-    url = ('https://ajax.googleapis.com/ajax/services/search/images?' + 'v=1.0&q='+searchTerm+'&start='+str(0)+'&userip=MyIP')
+    url = ('https://ajax.googleapis.com/ajax/services/search/images?' + 'v=1.0&q='+searchTerm+'&start='+str(0)+'&userip=MyIP&imgsz=medium|large|xlarge|xxlarge')
     request = urllib2.Request(url, None, {'Referer': 'testing'})
     response = urllib2.urlopen(request)
     results = simplejson.load(response)
