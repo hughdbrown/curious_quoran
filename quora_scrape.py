@@ -17,7 +17,8 @@ def profile_crawl(url):
 	'''
 	
 	# Start the webdriver and navigate to desired url
-	driver = webdriver.PhantomJS(executable_path=r'/usr/bin/phantomjs')
+	driver = webdriver.PhantomJS(executable_path=r'/Users/Asna/Downloads/phantomjs')
+	driver.set_window_size(1124, 850)
 	#driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
 	driver.get(url)
 
@@ -40,7 +41,7 @@ def profile_crawl(url):
 	while scroll_height < 100:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
 		scroll_height+=1
-		#time.sleep(0.5)
+		time.sleep(0.2)
 
 	# Get page source for profile page
 	html = driver.page_source
@@ -56,7 +57,7 @@ def profile_crawl(url):
 	while scroll_height < 100:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
 		scroll_height+=2
-		#time.sleep(0.1)
+		time.sleep(0.2)
 
 	# Get page source for profile page after scrolling to reveal all questions
 	html = driver.page_source
