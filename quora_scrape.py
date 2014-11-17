@@ -17,7 +17,8 @@ def profile_crawl(url):
 	'''
 	
 	# Start the webdriver and navigate to desired url
-	driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
+	driver = webdriver.PhantomJS(executable_path=r'/usr/bin/phantomjs')
+	#driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
 	driver.get(url)
 
 	# Need ANY login credentials for scraping, using mine for expediency
@@ -39,7 +40,7 @@ def profile_crawl(url):
 	while scroll_height < 100:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
 		scroll_height+=1
-		time.sleep(0.5)
+		#time.sleep(0.5)
 
 	# Get page source for profile page
 	html = driver.page_source
@@ -55,7 +56,7 @@ def profile_crawl(url):
 	while scroll_height < 100:
 		driver.execute_script("window.scrollTo(0,document.body.scrollHeight/%s);" %scroll_height)
 		scroll_height+=2
-		time.sleep(0.1)
+		#time.sleep(0.1)
 
 	# Get page source for profile page after scrolling to reveal all questions
 	html = driver.page_source
@@ -63,12 +64,13 @@ def profile_crawl(url):
 
 	# Collect all questions asked
 	asked = [link.get_text() for link in soup.find_all("a", attrs={"class": "question_link"})]
+	# total =[t.replace("'s",'') for t in total]	
 	output = {'text':q_list, 'topics': topic_list, 'asked': asked}
 	return output
 
 if __name__ == "__main__":
 	q1 =  profile_crawl('http://www.quora.com/Asna-Ansari')
-	print q1
-	# total =[t.replace("'s",'') for t in total]
-	# print total
+	print "Questions followed / answers upvoted \n", q1['text']
+	print "Topics followed: \n", q1['topics']
+	print "Questions asked \n", q1['asked']
 	# pickle.dump(total, open("data/quora_data.pkl", "wb"))

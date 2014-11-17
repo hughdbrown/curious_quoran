@@ -7,14 +7,6 @@ from image_scraper import get_image
 from quora_scrape import profile_crawl
 app = Flask(__name__)
 
-# Load dataframe of pre-made recommendations for testing purposes, add a div tag col for rendering on the page
-# df = pickle.load(open("data/recs.pkl", "rb"))
-# df['div_tag'] = ['ONE', 'TWO', 'THREE', 'FOUR', 'FIVE']
-
-
-# Load in all the pickled files needed for recommending
-# fit_vec = pickle.load(open('../data/vectorizer.pkl'))
-# docs_mat = pickle.load(open('../data/vectorized_docs.pkl'))
 master_df = pickle.load(open('data/master_df.pkl'))
 
 
@@ -48,4 +40,4 @@ def recommend():
 	return render_template('index.html', data = recs[['title', 'img_link', 'div_tag']].values)
 
 if __name__ == '__main__':
-	app.run(host='0.0.0.0', port=7724, debug=True)
+	app.run(host='0.0.0.0', port=7725, debug=True)
