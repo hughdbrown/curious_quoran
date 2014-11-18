@@ -18,9 +18,10 @@ def profile_crawl(url):
 	
 	# Start the webdriver and navigate to desired url
 	driver = webdriver.PhantomJS(executable_path=r'/Users/Asna/Downloads/phantomjs')
-	driver.set_window_size(1124, 850)
+	# driver.set_window_size(1124, 850)
 	#driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
-	driver.get(url)
+	driver.set_window_size(1124, 850)
+	driver.get('https://www.quora.com/')
 
 	# Need ANY login credentials for scraping, using mine for expediency
 	user_email = 'asna.ansari@gmail.com'
@@ -35,6 +36,8 @@ def profile_crawl(url):
 	password = form.find_element_by_name('password')
 	password.send_keys(user_password)
 	password.send_keys(Keys.RETURN)
+
+	driver.get(url)
 
 	# Simulate scrolling to populate the page with infinite scrolling
 	scroll_height=0.1

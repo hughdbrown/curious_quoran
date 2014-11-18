@@ -10,17 +10,11 @@ app = Flask(__name__)
 df = pickle.load(open("data/recs.pkl", "rb"))
 master_df = pickle.load(open('data/master_df.pkl'))
 
-
-# @app.route('/testrecs')
-# def testing():
-# 	return render_template('testing.html', data = df[['title', 'img_link']])
-
-
 @app.route('/')
 def submit_quora():
 	return render_template('submit.html')
 
-@app.route('/recs')
+@app.route('/test')
 def rec():	
 	return render_template('testing.html', data = df[['title', 'img_link']].values)
 
@@ -46,8 +40,8 @@ def recommend():
 	recs = recs.reset_index()
 	recs['img_link'] = map(get_image, recs['title'])
 	recs.loc[recs['type']=='course', 'img_link'] = 'http://www.michaellenox.com/wp-content/uploads/2014/07/coursera_square_logo.jpg'
-	recs = recs[0:20]
+	recs = recs[0:20] # Get the top twenty recommendations
 	return render_template('testing.html', data = recs[['title', 'img_link']].values)
 
 if __name__ == '__main__':
-	app.run(host='0.0.0.0', port=8311, debug=True)
+	app.run(host='0.0.0.0', port=8321, debug=True)
