@@ -24,7 +24,7 @@ Stumbling block: Quora generates content with AJAX, so I needed to use the `sele
 
 #### Data from Project Gutenberg's Bibliographic Records
 
-I constructed features for Project Gutenberg ebooks by aggregating subject tags, titles and authors. I was lucky enough to stumble upon a PostGres SQL dump of the entire PG catalog (far less unwieldy than the original XML/RDF file) and ended up filtering to exclude works not in English. I was also the beneficiary of Gutenberg's bibliographic records, which are concise but informative (e.g. Shakespeare's *Othello* is tagged with the following: jealousy, interracial marriage, Muslims, Venice (Italy) and English Literature), and turned out to yield sufficiently verbose descriptions for sensible recommendations.
+I constructed features for Project Gutenberg ebooks by aggregating subject tags, titles and authors. I was lucky enough to stumble upon a PostGreSQL dump of the entire PG catalog (far less unwieldy than the original XML/RDF file) and ended up filtering to exclude works not in English. I was also the beneficiary of Gutenberg's bibliographic records, which are concise but informative (e.g. Shakespeare's *Othello* is tagged with the following: jealousy, interracial marriage, Muslims, Venice (Italy) and English Literature), and turned out to yield sufficiently verbose descriptions for sensible recommendations.
 
 #### Podcast Data
 
