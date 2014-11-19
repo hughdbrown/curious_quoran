@@ -34,27 +34,18 @@ Extracting semantically-rich descriptions for podcasts took a fair bit of work, 
 
 Coursera course features were the simplest - I collected concatenated course titles and descriptive text using the API.  
 
-#### Misc. ideas for extras, extending functionality to recommend resources for individual question pages
-
-TBD
-
-Yet another curated reading list of short stories: http://recommendedreading.tumblr.com/rss
-Coursera API: for description concatenate shortname and name to underscore general topic.
+#### Extending the functionality
 
 Once I had the pipeline in place, adding new resources (like curated writing from [Longform](http://longform.org) and changing the user profile or question page was a trivial matter.  
 
 ### Why is this more sophisticated than a search engine?
 
-You might wonder why this is worth the trouble of aggregation and lexical analysis when it seems like a Google search could yield similar results ADD HERE etc etc
-
-In tapping into Quora discourse, this tool leverages a user history not easily conveyed in a phrase plugging into a search engine. 
+You might wonder why this is worth the trouble of aggregation and lexical analysis when it seems like a Google search could yield similar results, but as evidenced by the test "case studies," I found that in tapping into Quora discourse, this tool leverages a user history not easily conveyed by simply plugging a phrase into a search engine. 
 
 
 #### Feature engineering: the secret sauce
 
-Creativity in feature engineering is the crux of this project: once a document is transformed into vector space with TF-IDF weighting, need to "magnify" latent interests so that cosine similarity will yield optimal results. etc etc fix me add stuff here
+Creativity in feature engineering is the crux of this project: once a document is transformed into vector space with TF-IDF weighting, I needed to "magnify" latent interests so that cosine similarity would yield optimal results. If a followed question was tagged with a topic that was previously followed (e.g. a question about sentiment analysis tagged with NLP, which was followed independently as a topic previously), that question was weighted more heavily, since the user demonstrated a deeper interest in that topic.
 
-Preventing overfitting to documents of a certain length etc etc etc
-
-Also needed to perform regularization (dividing by the L2 norm of TF-IDF vectors) to eliminate bias toward longer documents with more words. 
+Worth mentioning is a quick but import fix for preventing overfitting to documents of a certain length: I needed to perform regularization (dividing by the L2 norm of TF-IDF vectors) to eliminate bias toward longer documents with more words. 
 
