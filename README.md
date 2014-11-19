@@ -32,7 +32,7 @@ Extracting semantically-rich descriptions for podcasts took a fair bit of work, 
 
 #### Coursera Data
 
-Coursera course features were the simplest - I collected concatenated course titles and descriptive text using the API.  
+Coursera course features were the simplest - I concatenated course titles and descriptive text that were retrieved using the API.  
 
 #### Extending the functionality
 
