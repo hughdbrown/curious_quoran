@@ -40,7 +40,7 @@ Once I had the pipeline in place, adding new resources (like curated writing fro
 
 ### Why is this more sophisticated than a search engine?
 
-You might wonder why this is worth the trouble of aggregation and lexical analysis when it seems like a Google search could yield similar results, but as evidenced by the test "case studies," I found that in tapping into Quora discourse, this tool leverages a user history not easily conveyed by simply plugging a phrase into a search engine. 
+You might wonder why this is worth the trouble of aggregation and lexical analysis when it seems like a Google search could yield similar results, but as evidenced by the test "case studies," I found that in tapping into the entire record of one's Quora discourse, this tool leverages a user history not easily conveyed by simply plugging a phrase into a search engine. 
 
 
 #### Feature engineering: the secret sauce
