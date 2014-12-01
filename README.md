@@ -1,7 +1,7 @@
 #The Curious Quoran
 ==============
 
-[The Curious Quoran](www.curiousquoran.com): A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](https://coursera.org), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/) and [Project Gutenberg](https://www.gutenberg.org/). 
+[The Curious Quoran](https://www.curiousquoran.com): A cross-resource recommendation engine for Quora users, discovering hidden gems of interest on [Coursera](https://coursera.org), [iTunes Podcast](https://www.apple.com/itunes/podcasts/discover/) and [Project Gutenberg](https://www.gutenberg.org/). 
 
 
 #### Motivation & Inspiration
