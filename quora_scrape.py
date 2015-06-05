@@ -85,8 +85,8 @@ def profile_crawl(url):
 
 if __name__ == "__main__":
 	q1 =  profile_crawl('http://www.quora.com/Asna-Ansari')
-	print "Questions followed / answers upvoted \n", q1['text']
-	print "Topics followed: \n", q1['topics']
-	print "Questions asked \n", q1['asked']
+	print("Questions followed / answers upvoted \n", q1['text'])
+	print("Topics followed: \n", q1['topics'])
+	print("Questions asked \n", q1['asked'])
 	with open("data/quora_data.pkl", "wb") as f:
 		pickle.dump(q1, f)

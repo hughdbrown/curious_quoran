@@ -37,10 +37,10 @@ def main():
     recs = recs.reset_index()
     recs['img_link'] = map(get_image, recs['title'])
     recs.loc[recs['type']=='course', 'img_link'] = 'http://www.michaellenox.com/wp-content/uploads/2014/07/coursera_square_logo.jpg'
-    print "These are your recommendations: \n"
-    print recs[['title', 'type', 'img_link']]
     with open("data/recs.pkl", "wb") as f:
         pickle.dump(recs[0:5], f)
+    print("These are your recommendations: \n")
+    print(recs[['title', 'type', 'img_link']])
     return recs[['title', 'type', 'img_link']]
 
 if __name__ =="__main__":

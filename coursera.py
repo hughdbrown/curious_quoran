@@ -20,9 +20,9 @@ def get_coursera_data():
     df = df[['name', 'shortName', 'type']]
     df['shortName'] = df['name']+' '+df['shortName'] # Aggregate name and tags for description
     df.columns = ['title', 'desc', 'type']
-    print "There are {0} courses in the catalog.".format(len(df))
+    print("There are {0} courses in the catalog.".format(len(df)))
     return df
 
 if __name__=="__main__":
     df= get_coursera_data()
-    print df
+    print(df)
