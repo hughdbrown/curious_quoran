@@ -9,6 +9,12 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 
 
+def credentials():
+	filename = os.path.expanduser("~/.quora-credentials.json")
+	with open(filename) as f:
+		return simplejson.loads(f.read())
+
+
 def profile_crawl(url):
 	'''
 	INPUT: first and last name, user email and password for Quora account.
@@ -105,8 +111,10 @@ if __name__ == "__main__":
 	last_name = 'Ansari'
 
 	# Need ANY login credentials for scraping, just using mine as example
-	user_email = 'asna.ansari@gmail.com'
-	user_password = 'asna1005'
+	c = credentials()
+	user_email = c['email']
+	user_password = c['password']
+
 	q1 =  profile_crawl(first_name, last_name, user_email, user_password)
 	q2 = question_crawl(first_name, last_name, user_email, user_password)
 	total = q1+q2
