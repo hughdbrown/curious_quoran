@@ -1,11 +1,21 @@
+from __future__ import print_function
+
+import time
+import pickle
+import os.path
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
-import time
-import pickle
+import simplejson
+
+
+def credentials():
+	filename = os.path.expanduser("~/.quora-credentials.json")
+	with open(filename) as f:
+		return simplejson.loads(f.read())
 
 
 def profile_crawl(url):
@@ -17,15 +27,16 @@ def profile_crawl(url):
 	'''
 	
 	# Start the webdriver and navigate to desired url
-	driver = webdriver.PhantomJS(executable_path=r'/Users/Asna/Downloads/phantomjs')
+	driver = webdriver.PhantomJS(executable_path=r'/usr/local/bin/phantomjs')
 	# driver.set_window_size(1124, 850)
 	#driver = webdriver.Chrome(executable_path=r"/Users/Asna/Downloads/chromedriver")
 	driver.set_window_size(1124, 850)
 	driver.get('https://www.quora.com/')
 
 	# Need ANY login credentials for scraping, using mine for expediency
-	user_email = 'asna.ansari@gmail.com'
-	user_password = 'asna1005'
+	c = credentials()
+	user_email = c['email']
+	user_password = c['password']
 
 	# Find the username login form on the Quora login page
 	form = driver.find_element_by_class_name('regular_login')

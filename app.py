@@ -1,10 +1,15 @@
+from __future__ import print_function
+
+import pickle
+
 from flask import Flask, request, render_template
 import pandas as pd
-import pickle
+
 from recommend import Recommender
 from parser import TextParser
 from image_scraper import get_image
 from quora_scrape import profile_crawl
+
 app = Flask(__name__)
 
 df = pickle.load(open("data/recs.pkl", "rb"))

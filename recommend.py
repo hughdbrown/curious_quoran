@@ -1,9 +1,13 @@
+from __future__ import print_function
+
 import pickle
+import sys
+
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import sys
+
 reload(sys)
 sys.setdefaultencoding("utf-8")
 

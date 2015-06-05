@@ -1,11 +1,16 @@
+from __future__ import print_function
+
+import sys
 import pickle
-import pandas as pd
 from string import punctuation
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+import pandas as pd
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
+
 from coursera import get_coursera_data
-from sklearn.feature_extraction.text import TfidfVectorizer
-import sys
+
 reload(sys)
 sys.setdefaultencoding("utf-8")
 

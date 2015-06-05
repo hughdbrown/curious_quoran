@@ -1,7 +1,10 @@
+from __future__ import print_function
+
+import pickle
+
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-import pickle
 
 def get_podcast_data():
     '''
