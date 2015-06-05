@@ -24,7 +24,8 @@ class Recommender():
         Cols of the dataframe: verbose description, clean description
         '''
         self.df = pickle.load(open("data/master_df.pkl"))
-        self.quora = pd.Series(pickle.load(open("data/clean_quora.pkl")))
+        with open("data/clean_quora.pkl") as f:
+            self.quora = pd.Series(pickle.load(f))
         self.distances = []
         
     def vectorize(self):

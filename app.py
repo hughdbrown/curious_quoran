@@ -12,8 +12,10 @@ from quora_scrape import profile_crawl
 
 app = Flask(__name__)
 
-df = pickle.load(open("data/recs.pkl", "rb"))
-master_df = pickle.load(open('data/master_df.pkl'))
+with open("data/recs.pkl", "rb") as f:
+	df = pickle.load(f)
+with open('data/master_df.pkl') as f:
+	master_df = pickle.load(f)
 
 @app.route('/')
 def submit_quora():
@@ -37,7 +39,8 @@ def recommend():
 	read.df = master_df
 	filtered = read.preprocess_quora(quora)
 	clean_quora = read.clean_up(filtered)
-	pickle.dump(clean_quora, open("data/clean_quora.pkl", "wb"))
+	with open("data/clean_quora.pkl", "wb") as f:
+		pickle.dump(clean_quora, f)
 	rec = Recommender()
 	test = rec.vectorize()
 	top_ten_ind = rec.recommend()

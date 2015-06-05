@@ -88,4 +88,5 @@ if __name__ == "__main__":
 	print "Questions followed / answers upvoted \n", q1['text']
 	print "Topics followed: \n", q1['topics']
 	print "Questions asked \n", q1['asked']
-	# pickle.dump(total, open("data/quora_data.pkl", "wb"))
+	with open("data/quora_data.pkl", "wb") as f:
+		pickle.dump(q1, f)

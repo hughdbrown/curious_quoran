@@ -41,4 +41,5 @@ if __name__=="__main__":
     df['desc'] = df['feed_url'].apply(lambda x: pcast_desc(x)) # Collect descriptions using feed urls
     df = df[['title', 'desc']]
     df.desc = df['desc'].apply(lambda x: x.replace('[','')).apply(lambda x: x.replace('[',''))
-    pickle.dump(df, open("data/podcast_df.pkl", "wb")) # Dump raw data to be processed by parser class
+    with open("data/podcast_df.pkl", "wb") as f:
+        pickle.dump(df, f) # Dump raw data to be processed by parser class

@@ -92,8 +92,8 @@ class TextParser():
         bookdf['cleaned_text'] = bookdf['desc_tot'].apply(lambda x: x.split()).apply(self.clean_up)
         bookdf = bookdf[['title_auth', 'cleaned_text']]
 
-        f = open("data/podcast_df.pkl")
-        pcast_df = pickle.load(f)
+        with open("data/podcast_df.pkl") as f:
+            pcast_df = pickle.load(f)
         pcast_df['desc'] = pcast_df['desc'].apply(lambda x: x.split()).apply(self.clean_up)
         bookdf.columns = pcast_df.columns
         course_df = get_coursera_data()
