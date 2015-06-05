@@ -41,7 +41,7 @@ class TextParser():
         
         # Use wordnet lemmatizer on raw list
         lmtzr = WordNetLemmatizer()
-        lem_words = [lmtzr.lemmatize(w).translate(None, punctuation) for w in filtered]
+        lem_words = [lmtzr.lemmatize(w).encode('utf-8').translate(None, punctuation) for w in filtered]
         return ' '.join(lem_words)
 
     def preprocess_quora(self, quora):
