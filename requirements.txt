@@ -1,0 +1,10 @@
+nltk
+requests
+BeautifulSoup4
+pandas
+scipy
+numpy
+flask
+selenium
+simplejson
+scikit-learn
